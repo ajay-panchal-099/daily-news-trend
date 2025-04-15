@@ -12,6 +12,7 @@ from collect_trends import get_top10_youtube_data, get_top10_reddit_data, \
                             get_top10_spotify_data, get_twitter_trends_from_trends24, \
                             get_reddit_trends, get_youtube_trends, \
                             get_news_trends, get_spotify_trends, get_google_trends
+from langdetect import detect, DetectorFactory
 
 # Load environment variables
 load_dotenv()
@@ -22,10 +23,36 @@ app = Flask(__name__)
 data_dir = os.path.join(os.path.dirname(__file__), 'data')
 os.makedirs(data_dir, exist_ok=True)
 
+# Initialize language detection once at startup
+DetectorFactory.seed = 0
+# Warmup detect
+try:
+    detect("warmup")
+except:
+    pass
+
+app = Flask(__name__)
+
+# Cache the language detection results
+_lang_cache = {}
+
+def detect_with_cache(text):
+    """Helper function to cache language detection results"""
+    if text not in _lang_cache:
+        try:
+            _lang_cache[text] = detect(text)
+        except:
+            _lang_cache[text] = 'unknown'
+    return _lang_cache[text]
+
 def load_top_trend_data():
     """Load the latest trend data from JSON files"""
     data = {}
     platforms = ['twitter', 'youtube', 'reddit', 'google', 'news', 'spotify']
+    
+    # Pre-warm language detection before loading data
+    if not _lang_cache:
+        detect_with_cache("warmup text")
     
     for platform in platforms:
         try:
