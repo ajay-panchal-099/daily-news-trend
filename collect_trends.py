@@ -132,101 +132,58 @@ def get_spotify_trends():
 
 
 def get_twitter_trends_from_trends24(country='india'):
-    """Get Twitter trends from trends24.in"""
     try:
         print("🐦 Fetching Twitter trends from trends24.in...")
         
         url = f"https://trends24.in/{country}/"
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5',
-            'Referer': 'https://trends24.in/',
-            'DNT': '1',
-            'Connection': 'keep-alive',
-            'Upgrade-Insecure-Requests': '1',
-            'Cache-Control': 'max-age=0'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
         
         response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
         
-        # Debug: Save the HTML response to a file for inspection
-        with open(os.path.join(DATA_DIR, 'twitter_debug.html'), 'w', encoding='utf-8') as f:
-            f.write(response.text)
-        
         soup = BeautifulSoup(response.text, 'html.parser')
         trends = []
         
-        # Try different selectors that might work
-        trend_card = soup.select_one('.trend-card')
-        if not trend_card:
-            trend_card = soup.select_one('.trends-card')  # Alternative selector
+        # Find first two list containers
+        list_containers = soup.select('.list-container')[:2]
+        print(f"Found {len(list_containers)} list-containers")
         
-        if not trend_card:
-            # Try to find any list of trends
-            trend_items = soup.select('ol li a') or soup.select('.trend-item a') or soup.select('a[data-trend]')
-        else:
-            trend_items = trend_card.select('ol li a')
-        
-       
-        if not trend_items:
-            print("No trend items found using any selector")
-            return use_sample_twitter_data()
-
-        for i, item in enumerate(trend_items):
-            trend_name = item.text.strip()
-            trend_url = f"https://twitter.com/search?q={trend_name.replace('#', '%23')}"
+        for container_idx, container in enumerate(list_containers):
+            # Select ordered list items and find trend names
+            trend_items = container.select('ol li')
+            print(f"Found {len(trend_items)} trend items in container {container_idx}")
             
-            # Try to extract tweet volume if available
-            volume = 'N/A'
-            volume_element = None
-            
-            # Look for volume info near the trend item
-            if item.parent:
-                volume_element = item.parent.select_one('.tweet-count') or item.parent.select_one('.trend-volume') or item.parent.select_one('span.count')
-            
-            if volume_element and volume_element.text:
-                volume = volume_element.text.strip()
-            else:
-                # If no specific volume element, try to find any number in the parent element
-                if item.parent and item.parent.text:
-                    import re
-                    volume_match = re.search(r'(\d+[kK,]?\+?\s*tweets)', item.parent.text)
-                    if volume_match:
-                        volume = volume_match.group(1)
-                    else:
-                        # Generate a fallback volume with nice formatting
-                        num = (50-i)*1000 + 500
-                        if num >= 1000:
-                            volume = f"{num/1000:.1f}k+"
-                        else:
-                            volume = f"{num}+ tweets"
-            
-            # Format the volume if it contains a number without k/K
-            if 'tweets' in volume:
-                import re
-                num_match = re.search(r'(\d+,?\d*)\+?\s*tweets', volume)
-                if num_match:
-                    try:
-                        num_str = num_match.group(1).replace(',', '')
-                        num = int(num_str)
-                        if num >= 1000:
-                            volume = f"{num/1000:.1f}k+"
-                    except:
-                        pass
-            
-            
-            trends.append({
-                'rank': i + 1,
-                'name': trend_name,
-                'url': trend_url,
-                'volume': volume,
-                'tag': 'trending'
-            })
+            for i, item in enumerate(trend_items):
+                # Find span with class trend-name and get the anchor text
+                trend_span = item.select_one('span.trend-name a')
+                if trend_span:
+                    trend_name = trend_span.text.strip()
+                    trend_url = f"https://twitter.com/search?q={trend_name.replace('#', '%23')}"
+                    
+                    # Look for volume info
+                    volume = '-'
+                    volume_element = item.select_one('.tweet-count')
+                    if volume_element and volume_element.text:
+                        volume = volume_element.text.strip()
+                        try:
+                            num = int(volume.replace('k', '000').replace('K', '000').replace('+', '')
+                                .replace(',', '').replace('tweets', '').strip())
+                            volume = f"{num/1000:.1f}k+" if num >= 1000 else str(num)
+                        except ValueError:
+                            volume = '-'
+                    
+                    trends.append({
+                        'rank': len(trends) + 1,
+                        'name': trend_name,
+                        'url': trend_url,
+                        'volume': volume,
+                        'tag': 'trending'
+                    })
         
         if not trends:
-            print("No trends found")
+            print("No trends found in trend-card__list")
             return use_sample_twitter_data()
             
         data = {
