@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ platform_display }} Trends - Daily News Update</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><i class="fas fa-globe"></i> {{ platform_display }} Trends</h1>
+            <div class="header-actions">
+                <p class="last-updated">Last updated: {{ trend_data.last_updated or 'Never' }}</p>
+                <a href="/" class="btn"><i class="fas fa-home"></i> Back to Dashboard</a>
+            </div>
+        </div>
+    </header>
+    
+    <main class="container">
+        <div class="detailed-trends">
+            {% if trend_data.trends %}
+                {% for trend in trend_data.trends %}
+                    <div class="detailed-trend-item">
+                        <div class="trend-header">
+                            <span class="rank">{{ trend.rank }}</span>
+                            <h2 class="trend-title">
+                                <a href="{{ trend.url }}" target="_blank">{{ trend.title or trend.name }}</a>
+                            </h2>
+                        </div>
+                        
+                        <div class="trend-content">
+                            {% if platform == 'twitter' %}
+                                <div class="trend-meta">
+                                    <span class="volume">{{ trend.volume }}</span>
+                                    {% if trend.tag %}
+                                        <span class="tag">{{ trend.tag }}</span>
+                                    {% endif %}
+                                </div>
+                                <div class="trend-preview">
+                                    <a href="{{ trend.url }}" target="_blank" class="preview-link">
+                                        <i class="fab fa-twitter"></i> View on Twitter
+                                    </a>
+                                </div>
+                            {% elif platform == 'reddit' %}
+                                <div class="trend-meta">
+                                    <span class="subreddit">r/{{ trend.subreddit }}</span>
+                                    <span class="score">{{ trend.score }} points</span>
+                                    <span class="comments">{{ trend.comments }} comments</span>
+                                    <span class="author">{{ trend.author }}</span>
+                                    
+                                </div>
+                                <div class="trend-preview">
+                                    <a href="{{ trend.url }}" target="_blank" class="preview-link">
+                                        <i class="fab fa-reddit-alien"></i> View on Reddit
+                                    </a>
+                                </div>
+                            {% elif platform == 'google' %}
+                                <div class="trend-meta">
+                                    {% if trend.traffic %}
+                                        <span class="traffic">{{ trend.traffic }}</span>
+                                    {% endif %}
+                                    {% if trend.tag %}
+                                        <span class="tag">{{ trend.tag }}</span>
+                                    {% endif %}
+                                </div>
+                                <div class="trend-preview">
+                                    <a href="{{ trend.url }}" target="_blank" class="preview-link">
+                                        <i class="fab fa-google"></i> Search on Google
+                                    </a>
+                                </div>
+                            {% elif platform == 'youtube' %}
+                                <div class="trend-meta">
+                                    <span class="channel">{{ trend.channel }}</span>
+                                    <span class="views">{{ trend.views }}</span>
+                                    <span class="likes">{{ trend.likes }}</span>
+                                    {% if trend.tag %}
+                                        <span class="tag">{{ trend.tag }}</span>
+                                    {% endif %}
+                                </div>
+                                <div class="trend-preview">
+                                    <a href="{{ trend.url }}" target="_blank" class="preview-link">
+                                        <i class="fab fa-youtube"></i> Watch on YouTube
+                                    </a>
+                                </div>
+                            {% elif platform == 'news' %}
+                                <div class="trend-meta">
+                                    <span class="source">{{ trend.source }}</span>
+                                    {% if trend.pub_date %}
+                                        <span class="published">{{ trend.pub_date }}</span>
+                                    {% endif %}
+                                </div>
+                                <div class="trend-description">
+                                    {% if trend.description %}
+                                        <p>{{ trend.description }}</p>
+                                    {% endif %}
+                                </div>
+                                <div class="trend-preview">
+                                    <a href="{{ trend.url }}" target="_blank" class="preview-link">
+                                        <i class="fas fa-newspaper"></i> Read Full Article
+                                    </a>
+                                </div>
+                            {% elif platform == 'spotify' %}
+                                <div class="trend-meta">
+                                    <span class="artists">{{ trend.artists }}</span>
+                                    <span class="album">{{ trend.album }}</span>
+                                    <span class="duration">{{ '%d:%02d' % (trend.duration // 60, trend.duration % 60) }} min</span>
+                                    {% if trend.popularity %}
+                                        <span class="popularity">Popularity: {{ trend.popularity }}%</span>
+                                    {% endif %}
+                                </div>
+                                <div class="trend-preview">
+                                    <a href="{{ trend.url }}" target="_blank" class="preview-link">
+                                        <i class="fab fa-spotify"></i> Listen on Spotify
+                                    </a>
+                                </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                {% endfor %}
+            {% else %}
+                <div class="empty-state">
+                    <i class="fas fa-exclamation-circle"></i>
+                    <p>No {{ platform }} trends available</p>
+                </div>
+            {% endif %}
+        </div>
+    </main>
+    
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Daily News Update</p>
+        </div>
+    </footer>
+    
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
