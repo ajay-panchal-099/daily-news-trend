@@ -5,3 +5,4 @@ pytrends==4.9.2
 Flask==3.0.0
 spotipy==2.23.0
 pytest==7.4.4
+langdetect==1.0.9
