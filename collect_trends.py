@@ -738,16 +738,42 @@ def calculate_dir_checksum(directory):
             hash_md5.update(f.read())
     return hash_md5.hexdigest()
 
-def git_commit_and_push():
-    """Commit and push changes to GitHub"""
-    try:
-        # Setup Git identity (required for CI environments)
-        subprocess.run(["git", "config", "--global", "user.name", "ajay-panchal-099"], check=True)
-        subprocess.run(["git", "config", "--global", "user.email", "ajaypanchal099@gmail.com"], check=True)
+def setup_ssh_and_git():
+    ssh_key = os.getenv("SSH_PRIVATE_KEY")
+    if not ssh_key:
+        print("❌ SSH_PRIVATE_KEY not found in environment variables.")
+        return
 
-        # SSH command with your private key
-        ssh_command = "ssh -i /etc/secrets/id_ed25519 -o StrictHostKeyChecking=no"
-        os.environ["GIT_SSH_COMMAND"] = ssh_command
+    ssh_dir = os.path.expanduser("~/.ssh")
+    os.makedirs(ssh_dir, exist_ok=True)
+
+    private_key_path = os.path.join(ssh_dir, "id_ed25519")
+
+    print("🔐 Writing private key...")
+    with open(private_key_path, "w") as f:
+        f.write(ssh_key)
+    os.chmod(private_key_path, 0o600)
+
+    print("🔑 Adding GitHub to known hosts...")
+    known_hosts_path = os.path.join(ssh_dir, "known_hosts")
+    with open(known_hosts_path, "w") as kh_file:
+        subprocess.run(["ssh-keyscan", "github.com"], stdout=kh_file, check=True)
+
+    print("⚙️ Setting Git identity...")
+    subprocess.run(["git", "config", "--global", "user.name", "ajay-panchal-099"], check=True)
+    subprocess.run(["git", "config", "--global", "user.email", "ajaypanchal099@gmail.com"], check=True)
+
+    print("🌐 Setting Git remote...")
+    subprocess.run(["git", "remote", "set-url", "origin", "git@github.com:ajay-panchal-099/daily-news-trend.git"], check=True)
+
+    print("✅ SSH and Git setup completed.")
+
+
+def git_commit_and_push():
+    try:
+        # Use key from ~/.ssh (no need for ssh-agent)
+        os.environ["GIT_SSH_COMMAND"] = "ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=no"
+
         subprocess.run(["git", "add", DATA_DIR], check=True)
         ist = formatISTDateTime()
         commit_message = f"📈 Auto-update: Trend data refreshed at {ist} by cron job"
@@ -777,7 +803,10 @@ if __name__ == "__main__":
         new_checksum = calculate_dir_checksum(DATA_DIR)
         
         if old_checksum != new_checksum:
-            print("🔄 Data changes detected, pushing to GitHub...")
+            print("🔄 Data changes detected")
+            print("🔄 Setting Github and SSH Config...")
+            setup_ssh_and_git()
+            print("🔄 Pushing to GitHub...")
             if git_commit_and_push():
                 print("✅ Successfully pushed changes to GitHub")
             else:
