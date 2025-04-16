@@ -17,6 +17,15 @@ from collect_trends import get_top10_youtube_data, get_top10_reddit_data, \
 load_dotenv()
 
 app = Flask(__name__)
+app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0  # Disable Flask's default caching
+
+@app.after_request
+def add_header(response):
+    """Add headers to prevent caching"""
+    response.headers['Cache-Control'] = 'no-store, no-cache, must-revalidate, max-age=0'
+    response.headers['Pragma'] = 'no-cache'
+    response.headers['Expires'] = '0'
+    return response
 
 # Define data directories
 data_dir = os.path.join(os.path.dirname(__file__), 'data')
