@@ -1,57 +1,85 @@
-// Schedule regular data refreshes
-function scheduleRefreshes() {
-    // Refresh all platforms except Google Trends every hour
-    console.log('Scheduling refreshes...');
-    setInterval(refreshAllPlatforms, 60*60*1000); // 60 minutes
-    
-    // Special handling for Google Trends (8 AM IST daily)
+// Refresh interval in milliseconds (1 hour = 3600000 ms)
+const REFRESH_INTERVAL = 3600000;
+const GOOGLE_TRENDS_HOUR = 8; // 8 AM IST
+
+// Function to refresh all platform data
+async function refreshAllData() {
+    try {
+        const response = await fetch('/refresh-data');
+        const data = await response.json();
+        
+        if (data.status === 'success') {
+            console.log('Data refreshed successfully at:', new Date().toLocaleString());
+            window.location.reload();
+        } else {
+            throw new Error(data.message || 'Unknown error');
+        }
+    } catch (error) {
+        console.error('Error refreshing data:', error);
+    }
+}
+
+// Function to refresh Google Trends data
+async function refreshGoogleTrends() {
+    try {
+        const response = await fetch('/refresh-google-trends');
+        const data = await response.json();
+        
+        if (data.status === 'success') {
+            console.log('Google trends refreshed successfully at:', new Date().toLocaleString());
+            window.location.reload();
+        } else {
+            throw new Error(data.message || 'Unknown error');
+        }
+    } catch (error) {
+        console.error('Error refreshing Google trends:', error);
+    }
+}
+
+// Schedule Google Trends refresh at 8 AM IST
+function scheduleGoogleTrendsRefresh() {
     const now = new Date();
-    const istOffset = 5.5 * 60 * 60 * 1000; // IST is UTC+5:30
-    const next8AM = new Date();
+    const ist = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Kolkata' }));
     
-    // Set next refresh to 8 AM IST
-    next8AM.setUTCHours(2, 30, 0, 0); // 8 AM IST = 2:30 UTC
-    if (now.getTime() > next8AM.getTime()) {
-        next8AM.setUTCDate(next8AM.getUTCDate() + 1);
+    const targetTime = new Date(ist);
+    targetTime.setHours(GOOGLE_TRENDS_HOUR, 0, 0, 0);
+    
+    if (ist >= targetTime) {
+        targetTime.setDate(targetTime.getDate() + 1);
     }
     
-    const initialDelay = next8AM.getTime() - now.getTime();
+    const delay = targetTime - ist;
+    console.log(`Next Google Trends refresh scheduled for: ${targetTime.toLocaleString()}`);
     
     setTimeout(() => {
         refreshGoogleTrends();
-        // Then set daily interval
-        setInterval(refreshGoogleTrends, 24 * 60 * 60 * 1000);
-    }, initialDelay);
+        scheduleGoogleTrendsRefresh(); // Schedule next day's refresh
+    }, delay);
 }
 
-function refreshAllPlatforms() {
-    console.log('Refreshing all platforms...');
-    fetch('/refresh-data')
-        .then(response => response.json())
-        .then(data => {
-            console.log('All platforms refreshed:', data);
-            location.reload(); // Reload page to show new data
-        })
-        .catch(error => {
-            console.error('Refresh error:', error);
-        });
+// Initialize refreshes
+function initializeRefreshes() {
+    const lastUpdated = document.querySelector('.last-updated');
+    if (lastUpdated) {
+        const updateTimeText = lastUpdated.textContent.replace('Last updated: ', '');
+        const updateTime = new Date(updateTimeText);
+        const now = new Date();
+        
+        if (isNaN(updateTime.getTime())) {
+            console.warn('Invalid last update time, refreshing data...');
+            refreshAllData();
+        } else if ((now - updateTime) > REFRESH_INTERVAL) {
+            console.log('Data is stale, refreshing...');
+            refreshAllData();
+        }
+    }
+    
+    // Set up periodic refresh for all platforms
+    setInterval(refreshAllData, REFRESH_INTERVAL);
+    
+    // Start Google Trends scheduling
+    scheduleGoogleTrendsRefresh();
 }
 
-function refreshGoogleTrends() {
-    console.log('Refreshing Google Trends...');
-    fetch('/refresh-google-trends')
-        .then(response => response.json())
-        .then(data => {
-            console.log('Google Trends refreshed:', data);
-            // Only reload if on Google Trends page
-            if (window.location.pathname.includes('google')) {
-                location.reload();
-            }
-        })
-        .catch(error => {
-            console.error('Google Trends refresh error:', error);
-        });
-}
-
-// Initialize on page load
-document.addEventListener('DOMContentLoaded', scheduleRefreshes);
+// Start when DOM is ready
+document.addEventListener('DOMContentLoaded', initializeRefreshes);
