@@ -32,6 +32,15 @@ def formatISTDateTime():
     ist_time = datetime.now(ZoneInfo("Asia/Kolkata"))
     return ist_time.strftime('%Y-%m-%d %H:%M:%S IST')
 
+def is_english(text):
+    """Check if text contains primarily English characters"""
+    try:
+        # Check if string contains primarily ASCII characters
+        text.encode('ascii')
+        return True
+    except UnicodeEncodeError:
+        return False
+
 def collect_all_trends():
     """Collect trends from all platforms"""
     print("Starting trend collection...")
@@ -180,13 +189,14 @@ def get_twitter_trends_from_trends24(country='india'):
                         except ValueError:
                             volume = '-'
                     
-                    trends.append({
-                        'rank': len(trends) + 1,
-                        'name': trend_name,
-                        'url': trend_url,
-                        'volume': volume,
-                        'tag': 'trending'
-                    })
+                    if is_english(trend_name):
+                        trends.append({
+                            'rank': len(trends) + 1,
+                            'name': trend_name,
+                            'url': trend_url,
+                            'volume': volume,
+                            'tag': 'trending'
+                        })
         
         if not trends:
             print("No trends found in trend-card__list")
