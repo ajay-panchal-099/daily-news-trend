@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/0GZVrIBOR1YT68H2GgRCub",
       "album": "Tera Deewana",
       "duration": 251,
-      "popularity": 49,
+      "popularity": 48,
       "tag": "trending"
     },
     {
@@ -207,7 +207,7 @@
       "url": "https://open.spotify.com/track/3sKiP7hz0v709wI9xxFcz7",
       "album": "Peace",
       "duration": 145,
-      "popularity": 23,
+      "popularity": 24,
       "tag": "trending"
     },
     {
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR",
       "album": "Shor in the City (Original Motion Picture Soundtrack)",
       "duration": 195,
-      "popularity": 71,
+      "popularity": 72,
       "tag": "trending"
     },
     {
@@ -287,7 +287,7 @@
       "url": "https://open.spotify.com/track/1hQia6rxgfM1ly2hE3StWp",
       "album": "Student of the Year (Original Motion Picture Soundtrack)",
       "duration": 257,
-      "popularity": 72,
+      "popularity": 73,
       "tag": "trending"
     },
     {
@@ -387,7 +387,7 @@
       "url": "https://open.spotify.com/track/3APdIdF8H0jsxSuGOqXedS",
       "album": "Jaane Tu... Ya Jaane Na",
       "duration": 218,
-      "popularity": 71,
+      "popularity": 72,
       "tag": "trending"
     },
     {
@@ -707,7 +707,7 @@
       "url": "https://open.spotify.com/track/5EYZZvmNAH5VZCwuzYJqoA",
       "album": "Fanaa",
       "duration": 275,
-      "popularity": 72,
+      "popularity": 73,
       "tag": "trending"
     },
     {
@@ -887,7 +887,7 @@
       "url": "https://open.spotify.com/track/0VxgNsSywsjapKGXvzj8RH",
       "album": "Groove With Arijit Singh",
       "duration": 228,
-      "popularity": 49,
+      "popularity": 50,
       "tag": "trending"
     },
     {
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/6tzckBcK66LzeSA1Opnv35",
       "album": "Arijit Singh Broken Strings",
       "duration": 243,
-      "popularity": 39,
+      "popularity": 40,
       "tag": "trending"
     },
     {
@@ -937,7 +937,7 @@
       "url": "https://open.spotify.com/track/3fWMFwaJil8fD14JCgwbcL",
       "album": "Jab We Met",
       "duration": 355,
-      "popularity": 66,
+      "popularity": 67,
       "tag": "trending"
     },
     {
@@ -947,7 +947,7 @@
       "url": "https://open.spotify.com/track/6nY1ltTC3zjULeJgUYjywE",
       "album": "Guitar Cafe - Ayushmann Khurrana",
       "duration": 253,
-      "popularity": 38,
+      "popularity": 39,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-16 10:22:37 UTC"
+  "last_updated": "2025-04-17 01:17:32 IST"
 }
