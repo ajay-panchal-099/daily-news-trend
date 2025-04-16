@@ -637,6 +637,7 @@ def get_top10_twitter_data():
     """Get Top 10 Twitter data """
     try:
         # Load existing data and use it if available
+        print("Fetching Twitter trends...")
         data = {}
         with open(os.path.join(DATA_DIR, 'twitter_trends.json'), 'r') as f:
             data = json.load(f)
@@ -644,6 +645,7 @@ def get_top10_twitter_data():
                 data['trends'] = data['trends'][:10]
             else:
                 print("No Twitter data found")
+        print("✅ Successfully fetched Twitter trends")
         return data
     except Exception as e:
         print(f"Error using existing Twitter data: {e}")
@@ -652,6 +654,7 @@ def get_top10_youtube_data():
     """Get Top 10 YouTube data sorted by views"""
     try:
         data = {}
+        print("Fetching YouTube trends...")
         with open(os.path.join(DATA_DIR, 'youtube_trends.json'), 'r') as f:
             data = json.load(f)
             if data.get('trends'):
@@ -663,6 +666,7 @@ def get_top10_youtube_data():
                 data['trends'] = sorted_trends
             else:
                 print("No YouTube data found")
+        print("✅ YouTube trends fetched successfully")
         return data
     except Exception as e:
         print(f"Error using existing YouTube data: {e}")
@@ -671,6 +675,7 @@ def get_top10_google_data():
     """Get Top 10 Google trends data"""
     try:
         data = {}
+        print("Fetching Google trends...")
         with open(os.path.join(DATA_DIR, 'google_trends.json'), 'r') as f:
             data = json.load(f)
             if data.get('trends'):
@@ -678,6 +683,7 @@ def get_top10_google_data():
                 data['trends'] = data['trends'][:10]
             else:
                 print("No Google data found")
+        print("✅ Google trends fetched successfully")
         return data
     except Exception as e:
         print(f"Error using existing Google data: {e}")
@@ -686,6 +692,7 @@ def get_top10_reddit_data():
     """Get Top 10 Reddit data sorted by score"""
     try:
         data = {}
+        print("Fetching Reddit trends...")
         with open(os.path.join(DATA_DIR, 'reddit_trends.json'), 'r') as f:
             data = json.load(f)
             if data.get('trends'):
@@ -697,6 +704,7 @@ def get_top10_reddit_data():
                 data['trends'] = sorted_trends
             else:
                 print("No Reddit data found")
+        print("✅ Reddit trends fetched successfully")
         return data
     except Exception as e:
         print(f"Error using existing Reddit data: {e}")
@@ -705,12 +713,14 @@ def get_top10_news_data():
     """Get Top 10 News data"""
     try:
         data = {}
+        print("Fetching News trends...")
         with open(os.path.join(DATA_DIR, 'news_trends.json'), 'r') as f:
             data = json.load(f)
             if data.get('trends'):
                 data['trends'] = data['trends'][:10]
             else:
                 print("No News data found")
+        print("✅ News trends fetched successfully") 
         return data
     except Exception as e:
         print(f"Error using existing News data: {e}")
