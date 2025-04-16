@@ -120,4 +120,21 @@ Project Structure
 ```
 
 
+LEARNINGS
+- Python
+- Flask
+- API Integration
+- Web Scraping
+- Data Visualization
+- Responsive Design
+
+ISSUES
+- Twitter API is not working - Fetched from trends24.in
+- Binary data is coming sometimes-  Filtered out using alnum()
+- YouTube API is not working (Used Ofiicial RapidAPI YouTube-v41, then from google cloud)
+- Spotify API is not working (Used Official RapidAPI Spotify-v1 then Official Spotify API)
+- On deploying on Render, the app is not updating - Not Fixed why crom job, because don't have persistent storage
+- tried Adding JS logic to update the data on every 60 minutes, but it is not working, same storage issue (stale data)
+- Tried to deply on AWS S3 Bucket, I had to add new cron job and change Urls
+- Finally addded logic to update github repo on every push(via cron job), that will trigger the redeployment 
 

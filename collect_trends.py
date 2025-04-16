@@ -1,6 +1,9 @@
 import os
 import json
 import time
+import subprocess
+import hashlib
+import glob
 import requests
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
@@ -8,7 +11,7 @@ from dotenv import load_dotenv
 from pytrends.request import TrendReq
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-from zoneinfo import ZoneInfo 
+from zoneinfo import ZoneInfo
 
 # Load environment variables
 load_dotenv()
@@ -74,6 +77,8 @@ def collect_all_trends():
     
     google_success = get_google_trends()
     print(f"Google trends collected: {'Success' if google_success else 'Failed'}")
+
+    time.sleep(2)
     
     print("Trend collection completed!")
 
@@ -637,7 +642,7 @@ def get_top10_twitter_data():
     """Get Top 10 Twitter data """
     try:
         # Load existing data and use it if available
-        print("Fetching Twitter trends...")
+        print("Fetching Top 10 Twitter trends...")
         data = {}
         with open(os.path.join(DATA_DIR, 'twitter_trends.json'), 'r') as f:
             data = json.load(f)
@@ -654,7 +659,7 @@ def get_top10_youtube_data():
     """Get Top 10 YouTube data sorted by views"""
     try:
         data = {}
-        print("Fetching YouTube trends...")
+        print("Fetching Top 10 YouTube trends...")
         with open(os.path.join(DATA_DIR, 'youtube_trends.json'), 'r') as f:
             data = json.load(f)
             if data.get('trends'):
@@ -675,7 +680,7 @@ def get_top10_google_data():
     """Get Top 10 Google trends data"""
     try:
         data = {}
-        print("Fetching Google trends...")
+        print("Fetching Top 10 Google trends...")
         with open(os.path.join(DATA_DIR, 'google_trends.json'), 'r') as f:
             data = json.load(f)
             if data.get('trends'):
@@ -692,7 +697,7 @@ def get_top10_reddit_data():
     """Get Top 10 Reddit data sorted by score"""
     try:
         data = {}
-        print("Fetching Reddit trends...")
+        print("Fetching Top 10 Reddit trends...")
         with open(os.path.join(DATA_DIR, 'reddit_trends.json'), 'r') as f:
             data = json.load(f)
             if data.get('trends'):
@@ -713,7 +718,7 @@ def get_top10_news_data():
     """Get Top 10 News data"""
     try:
         data = {}
-        print("Fetching News trends...")
+        print("Fetching Top 10 News trends...")
         with open(os.path.join(DATA_DIR, 'news_trends.json'), 'r') as f:
             data = json.load(f)
             if data.get('trends'):
@@ -725,7 +730,62 @@ def get_top10_news_data():
     except Exception as e:
         print(f"Error using existing News data: {e}")
     
+def calculate_dir_checksum(directory):
+    """Calculate MD5 checksum of all JSON files in directory"""
+    hash_md5 = hashlib.md5()
+    for filepath in sorted(glob.glob(f"{directory}/*.json")):
+        with open(filepath, "rb") as f:
+            hash_md5.update(f.read())
+    return hash_md5.hexdigest()
+
+def git_commit_and_push():
+    """Commit and push changes to GitHub"""
+    try:
+        # Setup Git identity (required for CI environments)
+        subprocess.run(["git", "config", "--global", "user.name", "ajay-panchal-099"], check=True)
+        subprocess.run(["git", "config", "--global", "user.email", "ajaypanchal099@gmail.com"], check=True)
+
+        # SSH command with your private key
+        ssh_command = "ssh -i /etc/secrets/id_ed25519 -o StrictHostKeyChecking=no"
+        os.environ["GIT_SSH_COMMAND"] = ssh_command
+        subprocess.run(["git", "add", DATA_DIR], check=True)
+        ist = formatISTDateTime()
+        commit_message = f"📈 Auto-update: Trend data refreshed at {ist} by cron job"
+        subprocess.run(["git", "commit", "-m", commit_message], check=True)
+        subprocess.run(["git", "push"], check=True)
+        return True
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Git error: {e}")
+        return False
 
 if __name__ == "__main__":
     os.makedirs(DATA_DIR, exist_ok=True)
-    collect_all_trends()
+
+    # Calculate initial checksum
+    old_checksum = calculate_dir_checksum(DATA_DIR)
+    try:
+        start_time = time.time()
+        print(f"📡 Starting trend collection at {formatISTDateTime()}...")
+        
+        # Collect all trends
+        collect_all_trends()
+        
+        end_time = time.time()
+        print(f"⏱️ Collection completed in {round(end_time - start_time)} seconds")
+        
+        # Calculate new checksum
+        new_checksum = calculate_dir_checksum(DATA_DIR)
+        
+        if old_checksum != new_checksum:
+            print("🔄 Data changes detected, pushing to GitHub...")
+            if git_commit_and_push():
+                print("✅ Successfully pushed changes to GitHub")
+            else:
+                print("❌ Failed to push changes")
+        else:
+            print("✅ No data changes detected, skipping push")
+            
+    except Exception as e:
+        print(f"❌ Error during trend collection: {e}")
+        exit(1)
+    
