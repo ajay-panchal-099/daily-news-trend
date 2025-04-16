@@ -752,7 +752,7 @@ def git_commit_and_push():
         ist = formatISTDateTime()
         commit_message = f"📈 Auto-update: Trend data refreshed at {ist} by cron job"
         subprocess.run(["git", "commit", "-m", commit_message], check=True)
-        subprocess.run(["git", "push"], check=True)
+        subprocess.run(["git", "push", "origin", "main", "-v"], check=True)
         return True
     except subprocess.CalledProcessError as e:
         print(f"❌ Git error: {e}")
