@@ -763,8 +763,11 @@ def setup_ssh_and_git():
     subprocess.run(["git", "config", "--global", "user.name", "ajay-panchal-099"], check=True)
     subprocess.run(["git", "config", "--global", "user.email", "ajaypanchal099@gmail.com"], check=True)
 
-    print("🌐 Setting Git remote...")
-    subprocess.run(["git", "remote", "set-url", "origin", "git@github.com:ajay-panchal-099/daily-news-trend.git"], check=True)
+    print("🌐 Setting Git remote origin...")
+    subprocess.run([
+        "git", "remote", "add", "origin",
+        "git@github.com:ajay-panchal-099/daily-news-trend.git"
+    ], check=False)  # Use check=False in case it already exists
 
     print("✅ SSH and Git setup completed.")
 
