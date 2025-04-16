@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from pytrends.request import TrendReq
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
+from zoneinfo import ZoneInfo 
 
 # Load environment variables
 load_dotenv()
@@ -26,6 +27,11 @@ def format_number(view_count):
         views = str(view_count)
     return views
  
+def formatISTDateTime():
+    """Format current time to IST using proper timezone"""
+    ist_time = datetime.now(ZoneInfo("Asia/Kolkata"))
+    return ist_time.strftime('%Y-%m-%d %H:%M:%S IST')
+
 def collect_all_trends():
     """Collect trends from all platforms"""
     print("Starting trend collection...")
@@ -115,7 +121,7 @@ def get_spotify_trends():
         if trends:
             data = {
                 'trends': trends,
-                'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
+                'last_updated': formatISTDateTime()
             }
             
             with open(os.path.join(DATA_DIR, 'spotify_trends.json'), 'w') as f:
@@ -188,7 +194,7 @@ def get_twitter_trends_from_trends24(country='india'):
             
         data = {
             'trends': trends,
-            'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
+            'last_updated': formatISTDateTime()
         }
         
         with open(os.path.join(DATA_DIR, 'twitter_trends.json'), 'w') as f:
@@ -245,7 +251,7 @@ def get_reddit_trends():
             
         data = {
             'trends': trends,
-            'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
+            'last_updated': formatISTDateTime()
         }
         
         with open(os.path.join(DATA_DIR, 'reddit_trends.json'), 'w') as f:
@@ -304,7 +310,7 @@ def get_google_trends():
             if trends:
                 data = {
                     'trends': trends,
-                    'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC'),
+                    'last_updated': formatISTDateTime(),
                     'source': 'rapidapi_realtime'
                 }
                 
@@ -368,7 +374,7 @@ def get_youtube_trends_from_api():
             
         data = {
             'trends': trends,
-            'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
+            'last_updated': formatISTDateTime()
         }
         
         with open(os.path.join(DATA_DIR, 'youtube_trends.json'), 'w') as f:
@@ -433,7 +439,7 @@ def get_youtube_trends():
                 if trending_videos:
                     data = {
                         'trends': trending_videos,
-                        'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
+                        'last_updated': formatISTDateTime()
                     }
                     
                     with open(os.path.join(DATA_DIR, 'youtube_trends.json'), 'w') as f:
@@ -492,7 +498,7 @@ def get_news_trends():
             
         data = {
             'trends': news,
-            'last_updated': datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
+            'last_updated': formatISTDateTime()
         }
         
         with open(os.path.join(DATA_DIR, 'news_trends.json'), 'w') as f:
