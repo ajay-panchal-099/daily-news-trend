@@ -1,11 +1,8 @@
 import os
 import json
 import time
-import subprocess
-import hashlib
-import glob
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from pytrends.request import TrendReq
@@ -13,7 +10,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from zoneinfo import ZoneInfo
 
-# Load environment variables
+from render_ssh_config import setup_git
 load_dotenv()
 
 # Define data directory
@@ -729,69 +726,9 @@ def get_top10_news_data():
         return data
     except Exception as e:
         print(f"Error using existing News data: {e}")
-    
-def calculate_dir_checksum(directory):
-    """Calculate MD5 checksum of all JSON files in directory"""
-    hash_md5 = hashlib.md5()
-    for filepath in sorted(glob.glob(f"{directory}/*.json")):
-        with open(filepath, "rb") as f:
-            hash_md5.update(f.read())
-    return hash_md5.hexdigest()
-
-def setup_ssh_and_git():
-    ssh_key = os.getenv("SSH_PRIVATE_KEY")
-    if not ssh_key:
-        print("❌ SSH_PRIVATE_KEY not found in environment variables.")
-        return
-
-    ssh_dir = os.path.expanduser("~/.ssh")
-    os.makedirs(ssh_dir, exist_ok=True)
-
-    private_key_path = os.path.join(ssh_dir, "id_ed25519")
-
-    print("🔐 Writing private key...")
-    with open(private_key_path, "w") as f:
-        f.write(ssh_key)
-    os.chmod(private_key_path, 0o600)
-
-    print("🔑 Adding GitHub to known hosts...")
-    known_hosts_path = os.path.join(ssh_dir, "known_hosts")
-    with open(known_hosts_path, "w") as kh_file:
-        subprocess.run(["ssh-keyscan", "github.com"], stdout=kh_file, check=True)
-
-    print("⚙️ Setting Git identity...")
-    subprocess.run(["git", "config", "--global", "user.name", "ajay-panchal-099"], check=True)
-    subprocess.run(["git", "config", "--global", "user.email", "ajaypanchal099@gmail.com"], check=True)
-
-    print("🌐 Setting Git remote origin...")
-    subprocess.run([
-        "git", "remote", "add", "origin",
-        "git@github.com:ajay-panchal-099/daily-news-trend.git"
-    ], check=False)  # Use check=False in case it already exists
-
-    print("✅ SSH and Git setup completed.")
-
-
-def git_commit_and_push():
-    try:
-        # Use key from ~/.ssh (no need for ssh-agent)
-        os.environ["GIT_SSH_COMMAND"] = "ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=no"
-
-        subprocess.run(["git", "add", DATA_DIR], check=True)
-        ist = formatISTDateTime()
-        commit_message = f"📈 Auto-update: Trend data refreshed at {ist} by cron job"
-        subprocess.run(["git", "commit", "-m", commit_message], check=True)
-        subprocess.run(["git", "push", "origin", "main", "-v"], check=True)
-        return True
-    except subprocess.CalledProcessError as e:
-        print(f"❌ Git error: {e}")
-        return False
 
 if __name__ == "__main__":
     os.makedirs(DATA_DIR, exist_ok=True)
-
-    # Calculate initial checksum
-    old_checksum = calculate_dir_checksum(DATA_DIR)
     try:
         start_time = time.time()
         print(f"📡 Starting trend collection at {formatISTDateTime()}...")
@@ -802,20 +739,8 @@ if __name__ == "__main__":
         end_time = time.time()
         print(f"⏱️ Collection completed in {round(end_time - start_time)} seconds")
         
-        # Calculate new checksum
-        new_checksum = calculate_dir_checksum(DATA_DIR)
-        
-        if old_checksum != new_checksum:
-            print("🔄 Data changes detected")
-            print("🔄 Setting Github and SSH Config...")
-            setup_ssh_and_git()
-            print("🔄 Pushing to GitHub...")
-            if git_commit_and_push():
-                print("✅ Successfully pushed changes to GitHub")
-            else:
-                print("❌ Failed to push changes")
-        else:
-            print("✅ No data changes detected, skipping push")
+        print("🔄 Setting Github and SSH Config...")
+        setup_git()
             
     except Exception as e:
         print(f"❌ Error during trend collection: {e}")
