@@ -2,37 +2,37 @@
   "trends": [
     {
       "rank": 1,
-      "name": "#JAAT2",
-      "url": "https://twitter.com/search?q=%23JAAT2",
+      "name": "#AvaadaJobs4ViksitGujarat",
+      "url": "https://twitter.com/search?q=%23AvaadaJobs4ViksitGujarat",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 2,
+      "name": "#Jaat2",
+      "url": "https://twitter.com/search?q=%23Jaat2",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 3,
       "name": "#BangladeshForgets1971",
       "url": "https://twitter.com/search?q=%23BangladeshForgets1971",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 3,
-      "name": "#eknayiUMEED",
-      "url": "https://twitter.com/search?q=%23eknayiUMEED",
-      "volume": "58.0k+",
-      "tag": "trending"
-    },
-    {
       "rank": 4,
-      "name": "#banknifty",
-      "url": "https://twitter.com/search?q=%23banknifty",
+      "name": "#SupremeCourtOfIndia",
+      "url": "https://twitter.com/search?q=%23SupremeCourtOfIndia",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 5,
-      "name": "The Waqf Amendment Act",
-      "url": "https://twitter.com/search?q=The Waqf Amendment Act",
-      "volume": "37.0k+",
+      "name": "#WaqfAmendmentAct",
+      "url": "https://twitter.com/search?q=%23WaqfAmendmentAct",
+      "volume": "11.0k+",
       "tag": "trending"
     },
     {
@@ -65,113 +65,113 @@
     },
     {
       "rank": 10,
-      "name": "Act 2025",
-      "url": "https://twitter.com/search?q=Act 2025",
-      "volume": "28.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 11,
-      "name": "Waqf Boards",
-      "url": "https://twitter.com/search?q=Waqf Boards",
-      "volume": "15.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 12,
-      "name": "Serving Humanity",
-      "url": "https://twitter.com/search?q=Serving Humanity",
-      "volume": "27.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 13,
       "name": "FASTag",
       "url": "https://twitter.com/search?q=FASTag",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 14,
-      "name": "Grindr",
-      "url": "https://twitter.com/search?q=Grindr",
-      "volume": "10.0k+",
+      "rank": 11,
+      "name": "Milords",
+      "url": "https://twitter.com/search?q=Milords",
+      "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 15,
+      "rank": 12,
+      "name": "Act 2025",
+      "url": "https://twitter.com/search?q=Act 2025",
+      "volume": "29.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 13,
       "name": "Pakistanis",
       "url": "https://twitter.com/search?q=Pakistanis",
       "volume": "-",
       "tag": "trending"
     },
     {
+      "rank": 14,
+      "name": "Serving Humanity",
+      "url": "https://twitter.com/search?q=Serving Humanity",
+      "volume": "28.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 15,
+      "name": "#eknayiUMEED",
+      "url": "https://twitter.com/search?q=%23eknayiUMEED",
+      "volume": "58.0k+",
+      "tag": "trending"
+    },
+    {
       "rank": 16,
-      "name": "#ShineTomChacko",
-      "url": "https://twitter.com/search?q=%23ShineTomChacko",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 17,
-      "name": "#WorldHemophiliaDay",
-      "url": "https://twitter.com/search?q=%23WorldHemophiliaDay",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 18,
-      "name": "#RCBvsCSK",
-      "url": "https://twitter.com/search?q=%23RCBvsCSK",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 19,
-      "name": "#TREASURE",
-      "url": "https://twitter.com/search?q=%23TREASURE",
-      "volume": "141.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 20,
       "name": "#MIvsSRH",
       "url": "https://twitter.com/search?q=%23MIvsSRH",
       "volume": "-",
       "tag": "trending"
     },
     {
+      "rank": 17,
+      "name": "#ShineTomChacko",
+      "url": "https://twitter.com/search?q=%23ShineTomChacko",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 18,
+      "name": "#TREASURE",
+      "url": "https://twitter.com/search?q=%23TREASURE",
+      "volume": "147.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 19,
+      "name": "#RCBvsCSK",
+      "url": "https://twitter.com/search?q=%23RCBvsCSK",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 20,
+      "name": "#banknifty",
+      "url": "https://twitter.com/search?q=%23banknifty",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
       "rank": 21,
-      "name": "#SupremeCourtOfIndia",
-      "url": "https://twitter.com/search?q=%23SupremeCourtOfIndia",
+      "name": "#WorldHemophiliaDay",
+      "url": "https://twitter.com/search?q=%23WorldHemophiliaDay",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 22,
+      "name": "#Meerut",
+      "url": "https://twitter.com/search?q=%23Meerut",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 23,
       "name": "#DurgeshPathak",
       "url": "https://twitter.com/search?q=%23DurgeshPathak",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "#Debate2025",
       "url": "https://twitter.com/search?q=%23Debate2025",
-      "volume": "24.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 24,
-      "name": "#Odela2",
-      "url": "https://twitter.com/search?q=%23Odela2",
-      "volume": "-",
+      "volume": "25.0k+",
       "tag": "trending"
     },
     {
       "rank": 25,
-      "name": "#Meerut",
-      "url": "https://twitter.com/search?q=%23Meerut",
+      "name": "#Odela2Review",
+      "url": "https://twitter.com/search?q=%23Odela2Review",
       "volume": "-",
       "tag": "trending"
     },
@@ -191,99 +191,99 @@
     },
     {
       "rank": 28,
-      "name": "#CRPF",
-      "url": "https://twitter.com/search?q=%23CRPF",
-      "volume": "19.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 29,
       "name": "#Cellecor",
       "url": "https://twitter.com/search?q=%23Cellecor",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 30,
-      "name": "#VincyAloshious",
-      "url": "https://twitter.com/search?q=%23VincyAloshious",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 31,
-      "name": "#CBIRaid",
-      "url": "https://twitter.com/search?q=%23CBIRaid",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 32,
-      "name": "#ChandrashekharSingh",
-      "url": "https://twitter.com/search?q=%23ChandrashekharSingh",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 33,
-      "name": "#21YearsOfGhilli",
-      "url": "https://twitter.com/search?q=%2321YearsOfGhilli",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 34,
-      "name": "#GoodFriday",
-      "url": "https://twitter.com/search?q=%23GoodFriday",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 35,
-      "name": "#RitlalYadav",
-      "url": "https://twitter.com/search?q=%23RitlalYadav",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 36,
+      "rank": 29,
       "name": "#Siddharth",
       "url": "https://twitter.com/search?q=%23Siddharth",
       "volume": "-",
       "tag": "trending"
     },
     {
+      "rank": 30,
+      "name": "#CBIRaid",
+      "url": "https://twitter.com/search?q=%23CBIRaid",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 31,
+      "name": "#ChandraShekharSingh",
+      "url": "https://twitter.com/search?q=%23ChandraShekharSingh",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 32,
+      "name": "#21YearsOfGhilli",
+      "url": "https://twitter.com/search?q=%2321YearsOfGhilli",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 33,
+      "name": "#RitlalYadav",
+      "url": "https://twitter.com/search?q=%23RitlalYadav",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 34,
+      "name": "#VincyAloshious",
+      "url": "https://twitter.com/search?q=%23VincyAloshious",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 35,
+      "name": "#SekarBabu",
+      "url": "https://twitter.com/search?q=%23SekarBabu",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 36,
+      "name": "#GoodFriday",
+      "url": "https://twitter.com/search?q=%23GoodFriday",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
       "rank": 37,
+      "name": "#BluSmart",
+      "url": "https://twitter.com/search?q=%23BluSmart",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 38,
       "name": "#JAAT2",
       "url": "https://twitter.com/search?q=%23JAAT2",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "#BangladeshForgets1971",
       "url": "https://twitter.com/search?q=%23BangladeshForgets1971",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "#eknayiUMEED",
       "url": "https://twitter.com/search?q=%23eknayiUMEED",
-      "volume": "57.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 40,
-      "name": "#ShineTomChacko",
-      "url": "https://twitter.com/search?q=%23ShineTomChacko",
-      "volume": "-",
+      "volume": "58.0k+",
       "tag": "trending"
     },
     {
       "rank": 41,
-      "name": "Abhishek Nayar",
-      "url": "https://twitter.com/search?q=Abhishek Nayar",
+      "name": "#banknifty",
+      "url": "https://twitter.com/search?q=%23banknifty",
       "volume": "-",
       "tag": "trending"
     },
@@ -291,20 +291,20 @@
       "rank": 42,
       "name": "The Waqf Amendment Act",
       "url": "https://twitter.com/search?q=The Waqf Amendment Act",
-      "volume": "36.0k+",
+      "volume": "37.0k+",
       "tag": "trending"
     },
     {
       "rank": 43,
-      "name": "Operation Searchlight",
-      "url": "https://twitter.com/search?q=Operation Searchlight",
+      "name": "Abhishek Nayar",
+      "url": "https://twitter.com/search?q=Abhishek Nayar",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 44,
-      "name": "GPS-based",
-      "url": "https://twitter.com/search?q=GPS-based",
+      "name": "Graham Staines",
+      "url": "https://twitter.com/search?q=Graham Staines",
       "volume": "-",
       "tag": "trending"
     },
@@ -317,37 +317,37 @@
     },
     {
       "rank": 46,
+      "name": "GPS-based",
+      "url": "https://twitter.com/search?q=GPS-based",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 47,
       "name": "Act 2025",
       "url": "https://twitter.com/search?q=Act 2025",
       "volume": "28.0k+",
       "tag": "trending"
     },
     {
-      "rank": 47,
-      "name": "Serving Humanity",
-      "url": "https://twitter.com/search?q=Serving Humanity",
-      "volume": "26.0k+",
-      "tag": "trending"
-    },
-    {
       "rank": 48,
-      "name": "FASTag",
-      "url": "https://twitter.com/search?q=FASTag",
-      "volume": "-",
+      "name": "Waqf Boards",
+      "url": "https://twitter.com/search?q=Waqf Boards",
+      "volume": "15.0k+",
       "tag": "trending"
     },
     {
       "rank": 49,
-      "name": "Saint Dr MSG",
-      "url": "https://twitter.com/search?q=Saint Dr MSG",
-      "volume": "25.0k+",
+      "name": "Serving Humanity",
+      "url": "https://twitter.com/search?q=Serving Humanity",
+      "volume": "27.0k+",
       "tag": "trending"
     },
     {
       "rank": 50,
-      "name": "Waqf Boards",
-      "url": "https://twitter.com/search?q=Waqf Boards",
-      "volume": "15.0k+",
+      "name": "FASTag",
+      "url": "https://twitter.com/search?q=FASTag",
+      "volume": "-",
       "tag": "trending"
     },
     {
@@ -359,137 +359,158 @@
     },
     {
       "rank": 52,
+      "name": "Pakistanis",
+      "url": "https://twitter.com/search?q=Pakistanis",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 53,
+      "name": "#ShineTomChacko",
+      "url": "https://twitter.com/search?q=%23ShineTomChacko",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 54,
       "name": "#WorldHemophiliaDay",
       "url": "https://twitter.com/search?q=%23WorldHemophiliaDay",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 53,
+      "rank": 55,
       "name": "#RCBvsCSK",
       "url": "https://twitter.com/search?q=%23RCBvsCSK",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 54,
-      "name": "#Debate2025",
-      "url": "https://twitter.com/search?q=%23Debate2025",
-      "volume": "24.0k+",
+      "rank": 56,
+      "name": "#TREASURE",
+      "url": "https://twitter.com/search?q=%23TREASURE",
+      "volume": "141.0k+",
       "tag": "trending"
     },
     {
-      "rank": 55,
-      "name": "#MIvSRH",
-      "url": "https://twitter.com/search?q=%23MIvSRH",
+      "rank": 57,
+      "name": "#MIvsSRH",
+      "url": "https://twitter.com/search?q=%23MIvsSRH",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 56,
+      "rank": 58,
+      "name": "#SupremeCourtOfIndia",
+      "url": "https://twitter.com/search?q=%23SupremeCourtOfIndia",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 59,
       "name": "#DurgeshPathak",
       "url": "https://twitter.com/search?q=%23DurgeshPathak",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 57,
-      "name": "#banknifty",
-      "url": "https://twitter.com/search?q=%23banknifty",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 58,
-      "name": "#CRPF",
-      "url": "https://twitter.com/search?q=%23CRPF",
-      "volume": "19.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 59,
-      "name": "#DheeranChinnamalai",
-      "url": "https://twitter.com/search?q=%23DheeranChinnamalai",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
       "rank": 60,
-      "name": "#VincyAloshious",
-      "url": "https://twitter.com/search?q=%23VincyAloshious",
-      "volume": "-",
+      "name": "#Debate2025",
+      "url": "https://twitter.com/search?q=%23Debate2025",
+      "volume": "24.0k+",
       "tag": "trending"
     },
     {
       "rank": 61,
-      "name": "#chandrashekhar",
-      "url": "https://twitter.com/search?q=%23chandrashekhar",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 62,
       "name": "#Odela2",
       "url": "https://twitter.com/search?q=%23Odela2",
       "volume": "-",
       "tag": "trending"
     },
     {
+      "rank": 62,
+      "name": "#Meerut",
+      "url": "https://twitter.com/search?q=%23Meerut",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
       "rank": 63,
-      "name": "#TREASURE",
-      "url": "https://twitter.com/search?q=%23TREASURE",
-      "volume": "137.0k+",
+      "name": "#DheeranChinnamalai",
+      "url": "https://twitter.com/search?q=%23DheeranChinnamalai",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 64,
-      "name": "#CBIRaid",
-      "url": "https://twitter.com/search?q=%23CBIRaid",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 65,
-      "name": "#HemophiliaAwareness",
-      "url": "https://twitter.com/search?q=%23HemophiliaAwareness",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 66,
       "name": "#fatwa",
       "url": "https://twitter.com/search?q=%23fatwa",
       "volume": "-",
       "tag": "trending"
     },
     {
+      "rank": 65,
+      "name": "#CRPF",
+      "url": "https://twitter.com/search?q=%23CRPF",
+      "volume": "19.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 66,
+      "name": "#Cellecor",
+      "url": "https://twitter.com/search?q=%23Cellecor",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
       "rank": 67,
-      "name": "#HBDChiyaanVikram",
-      "url": "https://twitter.com/search?q=%23HBDChiyaanVikram",
-      "volume": "14.0k+",
+      "name": "#VincyAloshious",
+      "url": "https://twitter.com/search?q=%23VincyAloshious",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 68,
-      "name": "#DrSarvepalliRadhakrishnan",
-      "url": "https://twitter.com/search?q=%23DrSarvepalliRadhakrishnan",
+      "name": "#CBIRaid",
+      "url": "https://twitter.com/search?q=%23CBIRaid",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 69,
-      "name": "#Jinguchaa",
-      "url": "https://twitter.com/search?q=%23Jinguchaa",
+      "name": "#ChandrashekharSingh",
+      "url": "https://twitter.com/search?q=%23ChandrashekharSingh",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 70,
+      "name": "#21YearsOfGhilli",
+      "url": "https://twitter.com/search?q=%2321YearsOfGhilli",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 71,
+      "name": "#GoodFriday",
+      "url": "https://twitter.com/search?q=%23GoodFriday",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 72,
       "name": "#RitlalYadav",
       "url": "https://twitter.com/search?q=%23RitlalYadav",
       "volume": "-",
       "tag": "trending"
+    },
+    {
+      "rank": 73,
+      "name": "#Siddharth",
+      "url": "https://twitter.com/search?q=%23Siddharth",
+      "volume": "-",
+      "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-17 15:30:45 IST"
+  "last_updated": "2025-04-17 16:30:49 IST"
 }
