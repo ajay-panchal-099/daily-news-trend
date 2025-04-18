@@ -2,16 +2,16 @@
   "trends": [
     {
       "rank": 1,
-      "name": "#LoveForMonster",
-      "url": "https://twitter.com/search?q=%23LoveForMonster",
-      "volume": "12.0k+",
+      "name": "#RetroTrailer",
+      "url": "https://twitter.com/search?q=%23RetroTrailer",
+      "volume": "33.0k+",
       "tag": "trending"
     },
     {
       "rank": 2,
-      "name": "#GalaxyM56",
-      "url": "https://twitter.com/search?q=%23GalaxyM56",
-      "volume": "13.0k+",
+      "name": "#RCBvsPBKS",
+      "url": "https://twitter.com/search?q=%23RCBvsPBKS",
+      "volume": "-",
       "tag": "trending"
     },
     {
@@ -23,466 +23,480 @@
     },
     {
       "rank": 4,
-      "name": "Dewald Brevis",
-      "url": "https://twitter.com/search?q=Dewald Brevis",
-      "volume": "17.0k+",
+      "name": "#GalaxyM56",
+      "url": "https://twitter.com/search?q=%23GalaxyM56",
+      "volume": "13.0k+",
       "tag": "trending"
     },
     {
       "rank": 5,
-      "name": "#RetroTrailer",
-      "url": "https://twitter.com/search?q=%23RetroTrailer",
+      "name": "#Suriya",
+      "url": "https://twitter.com/search?q=%23Suriya",
       "volume": "15.0k+",
       "tag": "trending"
     },
     {
       "rank": 6,
-      "name": "#RCBvsPBKS",
-      "url": "https://twitter.com/search?q=%23RCBvsPBKS",
-      "volume": "-",
+      "name": "#LoveForMonster",
+      "url": "https://twitter.com/search?q=%23LoveForMonster",
+      "volume": "13.0k+",
       "tag": "trending"
     },
     {
       "rank": 7,
-      "name": "Baby AB",
-      "url": "https://twitter.com/search?q=Baby AB",
-      "volume": "-",
+      "name": "Rain",
+      "url": "https://twitter.com/search?q=Rain",
+      "volume": "100.0k+",
       "tag": "trending"
     },
     {
       "rank": 8,
-      "name": "KHAUF FT CHUM",
-      "url": "https://twitter.com/search?q=KHAUF FT CHUM",
-      "volume": "21.0k+",
+      "name": "Dewald Brevis",
+      "url": "https://twitter.com/search?q=Dewald Brevis",
+      "volume": "22.0k+",
       "tag": "trending"
     },
     {
       "rank": 9,
+      "name": "KHAUF FT CHUM",
+      "url": "https://twitter.com/search?q=KHAUF FT CHUM",
+      "volume": "33.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 10,
+      "name": "OREO X WILLIAMEST",
+      "url": "https://twitter.com/search?q=OREO X WILLIAMEST",
+      "volume": "396.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 11,
       "name": "Anant Ambani Reliance BP Deal",
       "url": "https://twitter.com/search?q=Anant Ambani Reliance BP Deal",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 10,
-      "name": "Baby Rashid",
-      "url": "https://twitter.com/search?q=Baby Rashid",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 11,
-      "name": "Baby Malinga",
-      "url": "https://twitter.com/search?q=Baby Malinga",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
       "rank": 12,
-      "name": "Yours for Rs",
-      "url": "https://twitter.com/search?q=Yours for Rs",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 13,
-      "name": "ONGC",
-      "url": "https://twitter.com/search?q=ONGC",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 14,
-      "name": "OUT OF CONTROL",
-      "url": "https://twitter.com/search?q=OUT OF CONTROL",
-      "volume": "21.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 15,
-      "name": "Brahmins",
-      "url": "https://twitter.com/search?q=Brahmins",
-      "volume": "11.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 16,
-      "name": "Gurjapneet Singh",
-      "url": "https://twitter.com/search?q=Gurjapneet Singh",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 17,
-      "name": "Rachin Ravindra",
-      "url": "https://twitter.com/search?q=Rachin Ravindra",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 18,
-      "name": "23rd April",
-      "url": "https://twitter.com/search?q=23rd April",
-      "volume": "11.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 19,
-      "name": "Memory of the World Register",
-      "url": "https://twitter.com/search?q=Memory of the World Register",
-      "volume": "14.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 20,
-      "name": "7 Days",
-      "url": "https://twitter.com/search?q=7 Days",
-      "volume": "59.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 21,
-      "name": "Hampshire",
-      "url": "https://twitter.com/search?q=Hampshire",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 22,
-      "name": "CMF Phone 2 Pro",
-      "url": "https://twitter.com/search?q=CMF Phone 2 Pro",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 23,
-      "name": "Hard 2Ignore Facts InSSRCase",
-      "url": "https://twitter.com/search?q=Hard 2Ignore Facts InSSRCase",
-      "volume": "10.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 24,
-      "name": "Happy Easter",
-      "url": "https://twitter.com/search?q=Happy Easter",
-      "volume": "75.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 25,
-      "name": "Harpreet Singh",
-      "url": "https://twitter.com/search?q=Harpreet Singh",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 26,
-      "name": "Stubbs",
-      "url": "https://twitter.com/search?q=Stubbs",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 27,
-      "name": "#OreoSpaceDunkXWilliamEst",
-      "url": "https://twitter.com/search?q=%23OreoSpaceDunkXWilliamEst",
-      "volume": "291.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 28,
-      "name": "#Mandaadi",
-      "url": "https://twitter.com/search?q=%23Mandaadi",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 29,
-      "name": "#RetroAudioLaunch",
-      "url": "https://twitter.com/search?q=%23RetroAudioLaunch",
-      "volume": "24.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 30,
-      "name": "#TukTuk",
-      "url": "https://twitter.com/search?q=%23TukTuk",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 31,
-      "name": "#AnantBhaiya",
-      "url": "https://twitter.com/search?q=%23AnantBhaiya",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 32,
-      "name": "#AthiyaShetty",
-      "url": "https://twitter.com/search?q=%23AthiyaShetty",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 33,
-      "name": "#GoodFriday",
-      "url": "https://twitter.com/search?q=%23GoodFriday",
-      "volume": "58.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 34,
-      "name": "#KesariChapter2Review",
-      "url": "https://twitter.com/search?q=%23KesariChapter2Review",
-      "volume": "10.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 35,
-      "name": "#LoveForMonster",
-      "url": "https://twitter.com/search?q=%23LoveForMonster",
-      "volume": "10.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 36,
-      "name": "#GalaxyM56",
-      "url": "https://twitter.com/search?q=%23GalaxyM56",
-      "volume": "11.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 37,
-      "name": "Dewald Brevis",
-      "url": "https://twitter.com/search?q=Dewald Brevis",
-      "volume": "15.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 38,
-      "name": "#Mandaadi",
-      "url": "https://twitter.com/search?q=%23Mandaadi",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 39,
       "name": "Baby AB",
       "url": "https://twitter.com/search?q=Baby AB",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 40,
-      "name": "Baby Malinga",
-      "url": "https://twitter.com/search?q=Baby Malinga",
+      "rank": 13,
+      "name": "Smriti",
+      "url": "https://twitter.com/search?q=Smriti",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 41,
-      "name": "Baby Rashid",
-      "url": "https://twitter.com/search?q=Baby Rashid",
+      "rank": 14,
+      "name": "Brahmins",
+      "url": "https://twitter.com/search?q=Brahmins",
+      "volume": "14.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 15,
+      "name": "Chinnaswamy Stadium",
+      "url": "https://twitter.com/search?q=Chinnaswamy Stadium",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 42,
-      "name": "Yours for Rs",
-      "url": "https://twitter.com/search?q=Yours for Rs",
+      "rank": 16,
+      "name": "Bahadur Shah Zafar",
+      "url": "https://twitter.com/search?q=Bahadur Shah Zafar",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 43,
-      "name": "23rd April",
-      "url": "https://twitter.com/search?q=23rd April",
-      "volume": "11.0k+",
+      "rank": 17,
+      "name": "ONGC",
+      "url": "https://twitter.com/search?q=ONGC",
+      "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 44,
+      "rank": 18,
+      "name": "OUT OF CONTROL",
+      "url": "https://twitter.com/search?q=OUT OF CONTROL",
+      "volume": "23.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 19,
+      "name": "Malinga",
+      "url": "https://twitter.com/search?q=Malinga",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 20,
+      "name": "Overton",
+      "url": "https://twitter.com/search?q=Overton",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 21,
+      "name": "Rachin Ravindra",
+      "url": "https://twitter.com/search?q=Rachin Ravindra",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 22,
+      "name": "Happy Easter",
+      "url": "https://twitter.com/search?q=Happy Easter",
+      "volume": "85.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 23,
+      "name": "Ayush Mhatre",
+      "url": "https://twitter.com/search?q=Ayush Mhatre",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 24,
       "name": "Gurjapneet Singh",
       "url": "https://twitter.com/search?q=Gurjapneet Singh",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 45,
-      "name": "Brahmins",
-      "url": "https://twitter.com/search?q=Brahmins",
-      "volume": "-",
+      "rank": 25,
+      "name": "23rd April",
+      "url": "https://twitter.com/search?q=23rd April",
+      "volume": "11.0k+",
       "tag": "trending"
     },
     {
-      "rank": 46,
-      "name": "OUT OF CONTROL",
-      "url": "https://twitter.com/search?q=OUT OF CONTROL",
-      "volume": "21.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 47,
+      "rank": 26,
       "name": "Memory of the World Register",
       "url": "https://twitter.com/search?q=Memory of the World Register",
-      "volume": "13.0k+",
+      "volume": "16.0k+",
       "tag": "trending"
     },
     {
-      "rank": 48,
-      "name": "7 Days",
-      "url": "https://twitter.com/search?q=7 Days",
-      "volume": "58.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 49,
-      "name": "Hampshire",
-      "url": "https://twitter.com/search?q=Hampshire",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 50,
-      "name": "Saint Rampal Ji Maharaj",
-      "url": "https://twitter.com/search?q=Saint Rampal Ji Maharaj",
-      "volume": "171.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 51,
+      "rank": 27,
       "name": "CMF Phone 2 Pro",
       "url": "https://twitter.com/search?q=CMF Phone 2 Pro",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 52,
-      "name": "Hard 2Ignore Facts InSSRCase",
-      "url": "https://twitter.com/search?q=Hard 2Ignore Facts InSSRCase",
+      "rank": 28,
+      "name": "Yemen",
+      "url": "https://twitter.com/search?q=Yemen",
+      "volume": "101.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 29,
+      "name": "#AskVVV",
+      "url": "https://twitter.com/search?q=%23AskVVV",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 53,
-      "name": "Harpreet Singh",
-      "url": "https://twitter.com/search?q=Harpreet Singh",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 54,
-      "name": "Yuzvendra Chahal",
-      "url": "https://twitter.com/search?q=Yuzvendra Chahal",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 55,
-      "name": "Easter",
-      "url": "https://twitter.com/search?q=Easter",
-      "volume": "375.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 56,
-      "name": "Kapil Sibal",
-      "url": "https://twitter.com/search?q=Kapil Sibal",
-      "volume": "10.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 57,
-      "name": "Stubbs",
-      "url": "https://twitter.com/search?q=Stubbs",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 58,
+      "rank": 30,
       "name": "#OreoSpaceDunkXWilliamEst",
       "url": "https://twitter.com/search?q=%23OreoSpaceDunkXWilliamEst",
-      "volume": "185.0k+",
+      "volume": "434.0k+",
       "tag": "trending"
     },
     {
-      "rank": 59,
-      "name": "#RetroTrailer",
-      "url": "https://twitter.com/search?q=%23RetroTrailer",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 60,
-      "name": "#AthiyaShetty",
-      "url": "https://twitter.com/search?q=%23AthiyaShetty",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 61,
-      "name": "#RCBvsPBKS",
-      "url": "https://twitter.com/search?q=%23RCBvsPBKS",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 62,
-      "name": "#GoodFriday",
-      "url": "https://twitter.com/search?q=%23GoodFriday",
-      "volume": "53.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 63,
-      "name": "#ThugLife",
-      "url": "https://twitter.com/search?q=%23ThugLife",
-      "volume": "29.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 64,
-      "name": "#KesariChapter2",
-      "url": "https://twitter.com/search?q=%23KesariChapter2",
-      "volume": "40.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 65,
-      "name": "#RetroAudioLaunch",
-      "url": "https://twitter.com/search?q=%23RetroAudioLaunch",
-      "volume": "19.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 66,
+      "rank": 31,
       "name": "#AnuragKashyap",
       "url": "https://twitter.com/search?q=%23AnuragKashyap",
       "volume": "-",
       "tag": "trending"
     },
     {
+      "rank": 32,
+      "name": "#AnantBhaiya",
+      "url": "https://twitter.com/search?q=%23AnantBhaiya",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 33,
+      "name": "#Superman",
+      "url": "https://twitter.com/search?q=%23Superman",
+      "volume": "14.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 34,
+      "name": "#KarthikSubbaraj",
+      "url": "https://twitter.com/search?q=%23KarthikSubbaraj",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 35,
+      "name": "#RutoMustGo",
+      "url": "https://twitter.com/search?q=%23RutoMustGo",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 36,
+      "name": "#TukTuk",
+      "url": "https://twitter.com/search?q=%23TukTuk",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 37,
+      "name": "#RetroTrailer",
+      "url": "https://twitter.com/search?q=%23RetroTrailer",
+      "volume": "24.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 38,
+      "name": "#GalaxyM56",
+      "url": "https://twitter.com/search?q=%23GalaxyM56",
+      "volume": "13.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 39,
+      "name": "#LoveForMonster",
+      "url": "https://twitter.com/search?q=%23LoveForMonster",
+      "volume": "13.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 40,
+      "name": "#RCBvsPBKS",
+      "url": "https://twitter.com/search?q=%23RCBvsPBKS",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 41,
+      "name": "SMandhana CityCricket Academy",
+      "url": "https://twitter.com/search?q=SMandhana CityCricket Academy",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 42,
+      "name": "Dewald Brevis",
+      "url": "https://twitter.com/search?q=Dewald Brevis",
+      "volume": "19.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 43,
+      "name": "Rain",
+      "url": "https://twitter.com/search?q=Rain",
+      "volume": "97.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 44,
+      "name": "OREO X WILLIAMEST",
+      "url": "https://twitter.com/search?q=OREO X WILLIAMEST",
+      "volume": "345.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 45,
+      "name": "KHAUF FT CHUM",
+      "url": "https://twitter.com/search?q=KHAUF FT CHUM",
+      "volume": "29.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 46,
+      "name": "Anant Ambani Reliance BP Deal",
+      "url": "https://twitter.com/search?q=Anant Ambani Reliance BP Deal",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 47,
+      "name": "Baby AB",
+      "url": "https://twitter.com/search?q=Baby AB",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 48,
+      "name": "Brahmins",
+      "url": "https://twitter.com/search?q=Brahmins",
+      "volume": "12.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 49,
+      "name": "ONGC",
+      "url": "https://twitter.com/search?q=ONGC",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 50,
+      "name": "Overton",
+      "url": "https://twitter.com/search?q=Overton",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 51,
+      "name": "Baby Rashid",
+      "url": "https://twitter.com/search?q=Baby Rashid",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 52,
+      "name": "Yours for Rs",
+      "url": "https://twitter.com/search?q=Yours for Rs",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 53,
+      "name": "OUT OF CONTROL",
+      "url": "https://twitter.com/search?q=OUT OF CONTROL",
+      "volume": "23.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 54,
+      "name": "Baby Malinga",
+      "url": "https://twitter.com/search?q=Baby Malinga",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 55,
+      "name": "Gurjapneet Singh",
+      "url": "https://twitter.com/search?q=Gurjapneet Singh",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 56,
+      "name": "Rachin Ravindra",
+      "url": "https://twitter.com/search?q=Rachin Ravindra",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 57,
+      "name": "Memory of the World Register",
+      "url": "https://twitter.com/search?q=Memory of the World Register",
+      "volume": "15.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 58,
+      "name": "23rd April",
+      "url": "https://twitter.com/search?q=23rd April",
+      "volume": "11.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 59,
+      "name": "CMF Phone 2 Pro",
+      "url": "https://twitter.com/search?q=CMF Phone 2 Pro",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 60,
+      "name": "Hard 2Ignore Facts InSSRCase",
+      "url": "https://twitter.com/search?q=Hard 2Ignore Facts InSSRCase",
+      "volume": "11.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 61,
+      "name": "Yemen",
+      "url": "https://twitter.com/search?q=Yemen",
+      "volume": "97.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 62,
+      "name": "Happy Easter",
+      "url": "https://twitter.com/search?q=Happy Easter",
+      "volume": "81.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 63,
+      "name": "Stubbs",
+      "url": "https://twitter.com/search?q=Stubbs",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 64,
+      "name": "#Suriya",
+      "url": "https://twitter.com/search?q=%23Suriya",
+      "volume": "13.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 65,
+      "name": "#OreoSpaceDunkXWilliamEst",
+      "url": "https://twitter.com/search?q=%23OreoSpaceDunkXWilliamEst",
+      "volume": "378.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 66,
+      "name": "#TukTuk",
+      "url": "https://twitter.com/search?q=%23TukTuk",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
       "rank": 67,
-      "name": "#CSKvsMI",
-      "url": "https://twitter.com/search?q=%23CSKvsMI",
+      "name": "#AnantBhaiya",
+      "url": "https://twitter.com/search?q=%23AnantBhaiya",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 68,
-      "name": "#JISOOxDiorDesignerOfDreams",
-      "url": "https://twitter.com/search?q=%23JISOOxDiorDesignerOfDreams",
-      "volume": "108.0k+",
+      "name": "#Mandaadi",
+      "url": "https://twitter.com/search?q=%23Mandaadi",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 69,
-      "name": "#SacheinRerelease",
-      "url": "https://twitter.com/search?q=%23SacheinRerelease",
-      "volume": "52.0k+",
+      "name": "#Garudaram",
+      "url": "https://twitter.com/search?q=%23Garudaram",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 70,
+      "name": "#KarthikSubbaraj",
+      "url": "https://twitter.com/search?q=%23KarthikSubbaraj",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 71,
+      "name": "#Superman",
+      "url": "https://twitter.com/search?q=%23Superman",
+      "volume": "12.0k+",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-18 20:30:46 IST"
+  "last_updated": "2025-04-18 21:30:48 IST"
 }
