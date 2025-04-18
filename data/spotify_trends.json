@@ -127,7 +127,7 @@
       "url": "https://open.spotify.com/track/67dJV3idtBksu5R4igT0b3",
       "album": "Raat da Time",
       "duration": 135,
-      "popularity": 30,
+      "popularity": 31,
       "tag": "trending"
     },
     {
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/1t39FBb0zsKv5krZaqZKCB",
       "album": "Show Me The Thumka (From \"Tu Jhoothi Main Makkaar\")",
       "duration": 236,
-      "popularity": 62,
+      "popularity": 63,
       "tag": "trending"
     },
     {
@@ -267,7 +267,7 @@
       "url": "https://open.spotify.com/track/2vPrBucKCfKmafHhSfJ2pt",
       "album": "Pyaar Hota Kayi Baar Hai (From \"Tu Jhoothi Main Makkaar\")",
       "duration": 216,
-      "popularity": 69,
+      "popularity": 70,
       "tag": "trending"
     },
     {
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/79xjw95DSvcl8sDtghDOGo",
       "album": "Akdi Pakdi (From \"Liger\")",
       "duration": 230,
-      "popularity": 35,
+      "popularity": 36,
       "tag": "trending"
     },
     {
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/737AP6EH4PvRzBNfBipaK2",
       "album": "Boom Padi (From \"Maja Ma\")",
       "duration": 245,
-      "popularity": 39,
+      "popularity": 40,
       "tag": "trending"
     },
     {
@@ -647,7 +647,7 @@
       "url": "https://open.spotify.com/track/16NMvEYAus3qS1czInNNZl",
       "album": "Ankhiyon Se Goli Mare (From \"Pati Patni Aur Woh\")",
       "duration": 206,
-      "popularity": 46,
+      "popularity": 47,
       "tag": "trending"
     },
     {
@@ -867,7 +867,7 @@
       "url": "https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD",
       "album": "Odhani (From \"Made in China\")",
       "duration": 195,
-      "popularity": 58,
+      "popularity": 59,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-18 14:30:39 IST"
+  "last_updated": "2025-04-18 15:30:40 IST"
 }
