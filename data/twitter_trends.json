@@ -2,114 +2,114 @@
   "trends": [
     {
       "rank": 1,
+      "name": "#SaturdayVibes",
+      "url": "https://twitter.com/search?q=%23SaturdayVibes",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 2,
       "name": "#RCBvsPBKS",
       "url": "https://twitter.com/search?q=%23RCBvsPBKS",
       "volume": "35.0k+",
       "tag": "trending"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "#GoodFriday",
       "url": "https://twitter.com/search?q=%23GoodFriday",
-      "volume": "99.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 3,
-      "name": "Tim david",
-      "url": "https://twitter.com/search?q=Tim david",
-      "volume": "28.0k+",
+      "volume": "100.0k+",
       "tag": "trending"
     },
     {
       "rank": 4,
-      "name": "#RetroTrailer",
-      "url": "https://twitter.com/search?q=%23RetroTrailer",
-      "volume": "51.0k+",
+      "name": "Meditation",
+      "url": "https://twitter.com/search?q=Meditation",
+      "volume": "10.0k+",
       "tag": "trending"
     },
     {
       "rank": 5,
-      "name": "#loveformonster",
-      "url": "https://twitter.com/search?q=%23loveformonster",
-      "volume": "14.0k+",
+      "name": "Tim David",
+      "url": "https://twitter.com/search?q=Tim David",
+      "volume": "29.0k+",
       "tag": "trending"
     },
     {
       "rank": 6,
-      "name": "Saint Rampal Ji Maharaj",
-      "url": "https://twitter.com/search?q=Saint Rampal Ji Maharaj",
-      "volume": "226.0k+",
+      "name": "#RetroTrailer",
+      "url": "https://twitter.com/search?q=%23RetroTrailer",
+      "volume": "52.0k+",
       "tag": "trending"
     },
     {
       "rank": 7,
+      "name": "Saint Rampal Ji Maharaj",
+      "url": "https://twitter.com/search?q=Saint Rampal Ji Maharaj",
+      "volume": "208.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 8,
+      "name": "Saint Dr MSG Insan",
+      "url": "https://twitter.com/search?q=Saint Dr MSG Insan",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 9,
       "name": "Chinnaswamy",
       "url": "https://twitter.com/search?q=Chinnaswamy",
       "volume": "28.0k+",
       "tag": "trending"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "Dewald Brevis",
       "url": "https://twitter.com/search?q=Dewald Brevis",
       "volume": "27.0k+",
       "tag": "trending"
     },
     {
-      "rank": 9,
+      "rank": 11,
       "name": "smandhana citycricket academy",
       "url": "https://twitter.com/search?q=smandhana citycricket academy",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 10,
-      "name": "Nehal Wadhera",
-      "url": "https://twitter.com/search?q=Nehal Wadhera",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 11,
+      "rank": 12,
       "name": "Judiciary",
       "url": "https://twitter.com/search?q=Judiciary",
-      "volume": "92.0k+",
+      "volume": "91.0k+",
       "tag": "trending"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Vintage RCB",
       "url": "https://twitter.com/search?q=Vintage RCB",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 13,
-      "name": "Jesus Christ",
-      "url": "https://twitter.com/search?q=Jesus Christ",
-      "volume": "147.0k+",
-      "tag": "trending"
-    },
-    {
       "rank": 14,
-      "name": "baby ab",
-      "url": "https://twitter.com/search?q=baby ab",
+      "name": "Nehal Wadhera",
+      "url": "https://twitter.com/search?q=Nehal Wadhera",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 15,
-      "name": "happy birthday kl rahul",
-      "url": "https://twitter.com/search?q=happy birthday kl rahul",
-      "volume": "11.0k+",
+      "name": "Brahmins",
+      "url": "https://twitter.com/search?q=Brahmins",
+      "volume": "21.0k+",
       "tag": "trending"
     },
     {
       "rank": 16,
-      "name": "Brahmins",
-      "url": "https://twitter.com/search?q=Brahmins",
-      "volume": "21.0k+",
+      "name": "happy birthday kl rahul",
+      "url": "https://twitter.com/search?q=happy birthday kl rahul",
+      "volume": "11.0k+",
       "tag": "trending"
     },
     {
@@ -121,296 +121,296 @@
     },
     {
       "rank": 18,
-      "name": "another 49",
-      "url": "https://twitter.com/search?q=another 49",
-      "volume": "-",
+      "name": "Jesus Christ",
+      "url": "https://twitter.com/search?q=Jesus Christ",
+      "volume": "149.0k+",
       "tag": "trending"
     },
     {
       "rank": 19,
-      "name": "spiritual quotes",
-      "url": "https://twitter.com/search?q=spiritual quotes",
-      "volume": "31.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 20,
-      "name": "harpreet brar",
-      "url": "https://twitter.com/search?q=harpreet brar",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 21,
-      "name": "Memory of the World Register",
-      "url": "https://twitter.com/search?q=Memory of the World Register",
-      "volume": "20.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 22,
-      "name": "D. Warner",
-      "url": "https://twitter.com/search?q=D. Warner",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 23,
-      "name": "anant ambani reliance bp deal",
-      "url": "https://twitter.com/search?q=anant ambani reliance bp deal",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 24,
-      "name": "ARRESTED",
-      "url": "https://twitter.com/search?q=ARRESTED",
-      "volume": "258.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 25,
-      "name": "Out of Control",
-      "url": "https://twitter.com/search?q=Out of Control",
-      "volume": "26.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 26,
-      "name": "Krunal",
-      "url": "https://twitter.com/search?q=Krunal",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 27,
-      "name": "B. McCullum",
-      "url": "https://twitter.com/search?q=B. McCullum",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 28,
-      "name": "khauf ft chum",
-      "url": "https://twitter.com/search?q=khauf ft chum",
-      "volume": "40.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 29,
-      "name": "Article 142",
-      "url": "https://twitter.com/search?q=Article 142",
-      "volume": "12.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 30,
-      "name": "Hazlewood",
-      "url": "https://twitter.com/search?q=Hazlewood",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 31,
-      "name": "Happy Easter",
-      "url": "https://twitter.com/search?q=Happy Easter",
-      "volume": "124.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 32,
-      "name": "Rain",
-      "url": "https://twitter.com/search?q=Rain",
-      "volume": "116.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 33,
-      "name": "Judges",
-      "url": "https://twitter.com/search?q=Judges",
-      "volume": "115.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 34,
-      "name": "Suyash",
-      "url": "https://twitter.com/search?q=Suyash",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 35,
-      "name": "Seth Rollins",
-      "url": "https://twitter.com/search?q=Seth Rollins",
-      "volume": "11.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 36,
-      "name": "Vice President",
-      "url": "https://twitter.com/search?q=Vice President",
-      "volume": "71.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 37,
-      "name": "#RCBvsPBKS",
-      "url": "https://twitter.com/search?q=%23RCBvsPBKS",
-      "volume": "35.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 38,
-      "name": "#GoodFriday",
-      "url": "https://twitter.com/search?q=%23GoodFriday",
-      "volume": "98.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 39,
-      "name": "Tim David",
-      "url": "https://twitter.com/search?q=Tim David",
-      "volume": "28.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 40,
-      "name": "#RetroTrailer",
-      "url": "https://twitter.com/search?q=%23RetroTrailer",
-      "volume": "51.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 41,
-      "name": "#GalaxyM56",
-      "url": "https://twitter.com/search?q=%23GalaxyM56",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 42,
-      "name": "Saint Rampal Ji Maharaj",
-      "url": "https://twitter.com/search?q=Saint Rampal Ji Maharaj",
-      "volume": "223.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 43,
-      "name": "Chinnaswamy",
-      "url": "https://twitter.com/search?q=Chinnaswamy",
-      "volume": "28.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 44,
-      "name": "Dewald Brevis",
-      "url": "https://twitter.com/search?q=Dewald Brevis",
-      "volume": "27.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 45,
-      "name": "smandhana citycricket academy",
-      "url": "https://twitter.com/search?q=smandhana citycricket academy",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 46,
-      "name": "Nehal Wadhera",
-      "url": "https://twitter.com/search?q=Nehal Wadhera",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 47,
-      "name": "Judiciary",
-      "url": "https://twitter.com/search?q=Judiciary",
-      "volume": "94.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 48,
-      "name": "Vintage RCB",
-      "url": "https://twitter.com/search?q=Vintage RCB",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 49,
-      "name": "Jesus Christ",
-      "url": "https://twitter.com/search?q=Jesus Christ",
-      "volume": "145.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 50,
       "name": "Baby AB",
       "url": "https://twitter.com/search?q=Baby AB",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 51,
-      "name": "happy birthday kl rahul",
-      "url": "https://twitter.com/search?q=happy birthday kl rahul",
-      "volume": "12.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 52,
-      "name": "Brahmins",
-      "url": "https://twitter.com/search?q=Brahmins",
-      "volume": "21.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 53,
-      "name": "Livingstone",
-      "url": "https://twitter.com/search?q=Livingstone",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 54,
+      "rank": 20,
       "name": "another 49",
       "url": "https://twitter.com/search?q=another 49",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 55,
+      "rank": 21,
       "name": "spiritual quotes",
       "url": "https://twitter.com/search?q=spiritual quotes",
-      "volume": "30.0k+",
+      "volume": "31.0k+",
       "tag": "trending"
     },
     {
-      "rank": 56,
-      "name": "Harpreet Brar",
-      "url": "https://twitter.com/search?q=Harpreet Brar",
+      "rank": 22,
+      "name": "harpreet brar",
+      "url": "https://twitter.com/search?q=harpreet brar",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 57,
-      "name": "Memory of the World Register",
-      "url": "https://twitter.com/search?q=Memory of the World Register",
-      "volume": "20.0k+",
+      "rank": 23,
+      "name": "Out of Control",
+      "url": "https://twitter.com/search?q=Out of Control",
+      "volume": "26.0k+",
       "tag": "trending"
     },
     {
-      "rank": 58,
+      "rank": 24,
       "name": "D. Warner",
       "url": "https://twitter.com/search?q=D. Warner",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 59,
+      "rank": 25,
       "name": "anant ambani reliance bp deal",
       "url": "https://twitter.com/search?q=anant ambani reliance bp deal",
       "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 26,
+      "name": "ARRESTED",
+      "url": "https://twitter.com/search?q=ARRESTED",
+      "volume": "267.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 27,
+      "name": "Krunal",
+      "url": "https://twitter.com/search?q=Krunal",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 28,
+      "name": "B. McCullum",
+      "url": "https://twitter.com/search?q=B. McCullum",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 29,
+      "name": "OREO X WILLIAMEST",
+      "url": "https://twitter.com/search?q=OREO X WILLIAMEST",
+      "volume": "547.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 30,
+      "name": "khauf ft chum",
+      "url": "https://twitter.com/search?q=khauf ft chum",
+      "volume": "40.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 31,
+      "name": "Article 142",
+      "url": "https://twitter.com/search?q=Article 142",
+      "volume": "12.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 32,
+      "name": "Happy Easter",
+      "url": "https://twitter.com/search?q=Happy Easter",
+      "volume": "130.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 33,
+      "name": "Rain",
+      "url": "https://twitter.com/search?q=Rain",
+      "volume": "116.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 34,
+      "name": "Judges",
+      "url": "https://twitter.com/search?q=Judges",
+      "volume": "115.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 35,
+      "name": "Suyash",
+      "url": "https://twitter.com/search?q=Suyash",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 36,
+      "name": "#RCBvsPBKS",
+      "url": "https://twitter.com/search?q=%23RCBvsPBKS",
+      "volume": "35.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 37,
+      "name": "#GoodFriday",
+      "url": "https://twitter.com/search?q=%23GoodFriday",
+      "volume": "99.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 38,
+      "name": "Tim david",
+      "url": "https://twitter.com/search?q=Tim david",
+      "volume": "28.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 39,
+      "name": "#RetroTrailer",
+      "url": "https://twitter.com/search?q=%23RetroTrailer",
+      "volume": "51.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 40,
+      "name": "#loveformonster",
+      "url": "https://twitter.com/search?q=%23loveformonster",
+      "volume": "14.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 41,
+      "name": "Saint Rampal Ji Maharaj",
+      "url": "https://twitter.com/search?q=Saint Rampal Ji Maharaj",
+      "volume": "226.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 42,
+      "name": "Chinnaswamy",
+      "url": "https://twitter.com/search?q=Chinnaswamy",
+      "volume": "28.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 43,
+      "name": "Dewald Brevis",
+      "url": "https://twitter.com/search?q=Dewald Brevis",
+      "volume": "27.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 44,
+      "name": "smandhana citycricket academy",
+      "url": "https://twitter.com/search?q=smandhana citycricket academy",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 45,
+      "name": "Nehal Wadhera",
+      "url": "https://twitter.com/search?q=Nehal Wadhera",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 46,
+      "name": "Judiciary",
+      "url": "https://twitter.com/search?q=Judiciary",
+      "volume": "92.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 47,
+      "name": "Vintage RCB",
+      "url": "https://twitter.com/search?q=Vintage RCB",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 48,
+      "name": "Jesus Christ",
+      "url": "https://twitter.com/search?q=Jesus Christ",
+      "volume": "147.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 49,
+      "name": "baby ab",
+      "url": "https://twitter.com/search?q=baby ab",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 50,
+      "name": "happy birthday kl rahul",
+      "url": "https://twitter.com/search?q=happy birthday kl rahul",
+      "volume": "11.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 51,
+      "name": "Brahmins",
+      "url": "https://twitter.com/search?q=Brahmins",
+      "volume": "21.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 52,
+      "name": "Livingstone",
+      "url": "https://twitter.com/search?q=Livingstone",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 53,
+      "name": "another 49",
+      "url": "https://twitter.com/search?q=another 49",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 54,
+      "name": "spiritual quotes",
+      "url": "https://twitter.com/search?q=spiritual quotes",
+      "volume": "31.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 55,
+      "name": "harpreet brar",
+      "url": "https://twitter.com/search?q=harpreet brar",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 56,
+      "name": "Memory of the World Register",
+      "url": "https://twitter.com/search?q=Memory of the World Register",
+      "volume": "20.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 57,
+      "name": "D. Warner",
+      "url": "https://twitter.com/search?q=D. Warner",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 58,
+      "name": "anant ambani reliance bp deal",
+      "url": "https://twitter.com/search?q=anant ambani reliance bp deal",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 59,
+      "name": "ARRESTED",
+      "url": "https://twitter.com/search?q=ARRESTED",
+      "volume": "258.0k+",
       "tag": "trending"
     },
     {
@@ -422,30 +422,30 @@
     },
     {
       "rank": 61,
-      "name": "Article 142",
-      "url": "https://twitter.com/search?q=Article 142",
-      "volume": "12.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 62,
       "name": "Krunal",
       "url": "https://twitter.com/search?q=Krunal",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "name": "B. McCullum",
       "url": "https://twitter.com/search?q=B. McCullum",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 64,
+      "rank": 63,
       "name": "khauf ft chum",
       "url": "https://twitter.com/search?q=khauf ft chum",
       "volume": "40.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 64,
+      "name": "Article 142",
+      "url": "https://twitter.com/search?q=Article 142",
+      "volume": "12.0k+",
       "tag": "trending"
     },
     {
@@ -457,16 +457,16 @@
     },
     {
       "rank": 66,
-      "name": "ARRESTED",
-      "url": "https://twitter.com/search?q=ARRESTED",
-      "volume": "250.0k+",
+      "name": "Happy Easter",
+      "url": "https://twitter.com/search?q=Happy Easter",
+      "volume": "124.0k+",
       "tag": "trending"
     },
     {
       "rank": 67,
-      "name": "Happy Easter",
-      "url": "https://twitter.com/search?q=Happy Easter",
-      "volume": "121.0k+",
+      "name": "Rain",
+      "url": "https://twitter.com/search?q=Rain",
+      "volume": "116.0k+",
       "tag": "trending"
     },
     {
@@ -478,16 +478,16 @@
     },
     {
       "rank": 69,
-      "name": "Rain",
-      "url": "https://twitter.com/search?q=Rain",
-      "volume": "116.0k+",
+      "name": "Suyash",
+      "url": "https://twitter.com/search?q=Suyash",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 70,
-      "name": "Suyash",
-      "url": "https://twitter.com/search?q=Suyash",
-      "volume": "-",
+      "name": "Seth Rollins",
+      "url": "https://twitter.com/search?q=Seth Rollins",
+      "volume": "11.0k+",
       "tag": "trending"
     },
     {
@@ -496,21 +496,7 @@
       "url": "https://twitter.com/search?q=Vice President",
       "volume": "71.0k+",
       "tag": "trending"
-    },
-    {
-      "rank": 72,
-      "name": "Kohli",
-      "url": "https://twitter.com/search?q=Kohli",
-      "volume": "32.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 73,
-      "name": "Punjab",
-      "url": "https://twitter.com/search?q=Punjab",
-      "volume": "43.0k+",
-      "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-19 06:30:46 IST"
+  "last_updated": "2025-04-19 07:31:01 IST"
 }
