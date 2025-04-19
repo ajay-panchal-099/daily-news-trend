@@ -9,466 +9,452 @@
     },
     {
       "rank": 2,
-      "name": "#NikitaRoy",
-      "url": "https://twitter.com/search?q=%23NikitaRoy",
+      "name": "#DalitVirodhi_LaalTopi",
+      "url": "https://twitter.com/search?q=%23DalitVirodhi_LaalTopi",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 3,
-      "name": "#VirtualWarriors",
-      "url": "https://twitter.com/search?q=%23VirtualWarriors",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 4,
       "name": "#DCvsGT",
       "url": "https://twitter.com/search?q=%23DCvsGT",
       "volume": "-",
       "tag": "trending"
     },
     {
+      "rank": 4,
+      "name": "Sai Kishore",
+      "url": "https://twitter.com/search?q=Sai Kishore",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
       "rank": 5,
-      "name": "SHAME ON ASIM RIAZ",
-      "url": "https://twitter.com/search?q=SHAME ON ASIM RIAZ",
-      "volume": "17.0k+",
+      "name": "#JinxColdplay",
+      "url": "https://twitter.com/search?q=%23JinxColdplay",
+      "volume": "35.0k+",
       "tag": "trending"
     },
     {
       "rank": 6,
+      "name": "#VirtualWarriors",
+      "url": "https://twitter.com/search?q=%23VirtualWarriors",
+      "volume": "12.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 7,
+      "name": "Prasidh Krishna",
+      "url": "https://twitter.com/search?q=Prasidh Krishna",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 8,
+      "name": "Abhishek Nayar",
+      "url": "https://twitter.com/search?q=Abhishek Nayar",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 9,
+      "name": "Ishant",
+      "url": "https://twitter.com/search?q=Ishant",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 10,
+      "name": "Rashid",
+      "url": "https://twitter.com/search?q=Rashid",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 11,
+      "name": "WE LOVE CHEF RUBINA",
+      "url": "https://twitter.com/search?q=WE LOVE CHEF RUBINA",
+      "volume": "18.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 12,
+      "name": "The Astronaut",
+      "url": "https://twitter.com/search?q=The Astronaut",
+      "volume": "83.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 13,
+      "name": "Karun Nair",
+      "url": "https://twitter.com/search?q=Karun Nair",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 14,
       "name": "ASEEM REAZ NOT AE MAN",
       "url": "https://twitter.com/search?q=ASEEM REAZ NOT AE MAN",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 7,
-      "name": "#WorldLiverDay",
-      "url": "https://twitter.com/search?q=%23WorldLiverDay",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 8,
+      "rank": 15,
       "name": "moonbin",
       "url": "https://twitter.com/search?q=moonbin",
-      "volume": "75.0k+",
+      "volume": "119.0k+",
       "tag": "trending"
     },
     {
-      "rank": 9,
-      "name": "FKJD FM IN MACAO",
-      "url": "https://twitter.com/search?q=FKJD FM IN MACAO",
-      "volume": "52.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 10,
+      "rank": 16,
       "name": "Gujarat Titans",
       "url": "https://twitter.com/search?q=Gujarat Titans",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 11,
+      "rank": 17,
+      "name": "MACAO",
+      "url": "https://twitter.com/search?q=MACAO",
+      "volume": "98.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 18,
+      "name": "ASIM RIAZ",
+      "url": "https://twitter.com/search?q=ASIM RIAZ",
+      "volume": "24.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 19,
       "name": "Shubman Gill",
       "url": "https://twitter.com/search?q=Shubman Gill",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 12,
-      "name": "Coldplay",
-      "url": "https://twitter.com/search?q=Coldplay",
-      "volume": "118.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 13,
-      "name": "Thalapathy",
-      "url": "https://twitter.com/search?q=Thalapathy",
-      "volume": "42.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 14,
+      "rank": 20,
       "name": "Gmail",
       "url": "https://twitter.com/search?q=Gmail",
-      "volume": "26.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 15,
-      "name": "Harshal Patel",
-      "url": "https://twitter.com/search?q=Harshal Patel",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 16,
-      "name": "Urvashi Rautela",
-      "url": "https://twitter.com/search?q=Urvashi Rautela",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 17,
-      "name": "Happy Easter",
-      "url": "https://twitter.com/search?q=Happy Easter",
-      "volume": "142.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 18,
-      "name": "Airtel",
-      "url": "https://twitter.com/search?q=Airtel",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 19,
-      "name": "Puncture",
-      "url": "https://twitter.com/search?q=Puncture",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 20,
-      "name": "Vishwa Sewa Diwas",
-      "url": "https://twitter.com/search?q=Vishwa Sewa Diwas",
-      "volume": "24.0k+",
+      "volume": "28.0k+",
       "tag": "trending"
     },
     {
       "rank": 21,
-      "name": "#TVKITWingMeeting",
-      "url": "https://twitter.com/search?q=%23TVKITWingMeeting",
-      "volume": "-",
+      "name": "Thalapathy",
+      "url": "https://twitter.com/search?q=Thalapathy",
+      "volume": "40.0k+",
       "tag": "trending"
     },
     {
       "rank": 22,
-      "name": "#MahaWeekendChallenge",
-      "url": "https://twitter.com/search?q=%23MahaWeekendChallenge",
-      "volume": "-",
+      "name": "Puncture",
+      "url": "https://twitter.com/search?q=Puncture",
+      "volume": "15.0k+",
       "tag": "trending"
     },
     {
       "rank": 23,
-      "name": "#AkhileshYadav",
-      "url": "https://twitter.com/search?q=%23AkhileshYadav",
+      "name": "Kesari 2",
+      "url": "https://twitter.com/search?q=Kesari 2",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 24,
-      "name": "#SonakshiSinha",
-      "url": "https://twitter.com/search?q=%23SonakshiSinha",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 25,
-      "name": "#RRvsLSG",
-      "url": "https://twitter.com/search?q=%23RRvsLSG",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 26,
-      "name": "#AnuragKashyap",
-      "url": "https://twitter.com/search?q=%23AnuragKashyap",
-      "volume": "11.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 27,
-      "name": "#TheHeartKillersFMinMacao",
-      "url": "https://twitter.com/search?q=%23TheHeartKillersFMinMacao",
-      "volume": "93.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 28,
-      "name": "#jaintemple",
-      "url": "https://twitter.com/search?q=%23jaintemple",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 29,
-      "name": "#Piku",
-      "url": "https://twitter.com/search?q=%23Piku",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 30,
-      "name": "#HDFCBank",
-      "url": "https://twitter.com/search?q=%23HDFCBank",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 31,
-      "name": "#ramjilalsuman",
-      "url": "https://twitter.com/search?q=%23ramjilalsuman",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 32,
-      "name": "#Afghanistan",
-      "url": "https://twitter.com/search?q=%23Afghanistan",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 33,
-      "name": "#DuraiVaiko",
-      "url": "https://twitter.com/search?q=%23DuraiVaiko",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 34,
       "name": "#NikitaRoy",
       "url": "https://twitter.com/search?q=%23NikitaRoy",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 35,
-      "name": "#VirtualWarriors",
-      "url": "https://twitter.com/search?q=%23VirtualWarriors",
+      "rank": 25,
+      "name": "#jainmandir",
+      "url": "https://twitter.com/search?q=%23jainmandir",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 36,
+      "rank": 26,
+      "name": "#ICICIBank",
+      "url": "https://twitter.com/search?q=%23ICICIBank",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 27,
+      "name": "#HDFCBank",
+      "url": "https://twitter.com/search?q=%23HDFCBank",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 28,
+      "name": "#AmazfitActive2",
+      "url": "https://twitter.com/search?q=%23AmazfitActive2",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 29,
+      "name": "#WinWithAmazfit",
+      "url": "https://twitter.com/search?q=%23WinWithAmazfit",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 30,
+      "name": "#UddhavThackeray",
+      "url": "https://twitter.com/search?q=%23UddhavThackeray",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 31,
+      "name": "#SmartMoves",
+      "url": "https://twitter.com/search?q=%23SmartMoves",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 32,
+      "name": "#RajThackeray",
+      "url": "https://twitter.com/search?q=%23RajThackeray",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 33,
+      "name": "#VijaySethupathi",
+      "url": "https://twitter.com/search?q=%23VijaySethupathi",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 34,
       "name": "#GTvsDC",
       "url": "https://twitter.com/search?q=%23GTvsDC",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 37,
-      "name": "ASEEM REAZ NOT AE MAN",
-      "url": "https://twitter.com/search?q=ASEEM REAZ NOT AE MAN",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 38,
-      "name": "SHAME ON ASIM RIAZ",
-      "url": "https://twitter.com/search?q=SHAME ON ASIM RIAZ",
-      "volume": "16.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 39,
-      "name": "#WorldLiverDay",
-      "url": "https://twitter.com/search?q=%23WorldLiverDay",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 40,
-      "name": "#MahaWeekendChallenge",
-      "url": "https://twitter.com/search?q=%23MahaWeekendChallenge",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 41,
-      "name": "moonbin",
-      "url": "https://twitter.com/search?q=moonbin",
-      "volume": "44.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 42,
-      "name": "Coldplay",
-      "url": "https://twitter.com/search?q=Coldplay",
-      "volume": "110.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 43,
-      "name": "Harshal Patel",
-      "url": "https://twitter.com/search?q=Harshal Patel",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 44,
-      "name": "Thalapathy",
-      "url": "https://twitter.com/search?q=Thalapathy",
-      "volume": "41.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 45,
-      "name": "Urvashi Rautela",
-      "url": "https://twitter.com/search?q=Urvashi Rautela",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 46,
-      "name": "Harsimrat Randhawa",
-      "url": "https://twitter.com/search?q=Harsimrat Randhawa",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 47,
-      "name": "Gmail",
-      "url": "https://twitter.com/search?q=Gmail",
-      "volume": "26.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 48,
-      "name": "Brahmins",
-      "url": "https://twitter.com/search?q=Brahmins",
-      "volume": "27.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 49,
-      "name": "Airtel",
-      "url": "https://twitter.com/search?q=Airtel",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 50,
-      "name": "Happy Easter",
-      "url": "https://twitter.com/search?q=Happy Easter",
-      "volume": "143.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 51,
-      "name": "Vishwa Sewa Diwas",
-      "url": "https://twitter.com/search?q=Vishwa Sewa Diwas",
-      "volume": "23.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 52,
-      "name": "#TVKITWingMeeting",
-      "url": "https://twitter.com/search?q=%23TVKITWingMeeting",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 53,
-      "name": "#SonakshiSinha",
-      "url": "https://twitter.com/search?q=%23SonakshiSinha",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 54,
-      "name": "#Afghanistan",
-      "url": "https://twitter.com/search?q=%23Afghanistan",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 55,
-      "name": "#TheHeartKillersFMinMacao",
-      "url": "https://twitter.com/search?q=%23TheHeartKillersFMinMacao",
-      "volume": "64.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 56,
-      "name": "#AkhileshYadav",
-      "url": "https://twitter.com/search?q=%23AkhileshYadav",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 57,
-      "name": "#AnuragKashyap",
-      "url": "https://twitter.com/search?q=%23AnuragKashyap",
-      "volume": "11.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 58,
-      "name": "#Piku",
-      "url": "https://twitter.com/search?q=%23Piku",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 59,
+      "rank": 35,
       "name": "#DCvsGT",
       "url": "https://twitter.com/search?q=%23DCvsGT",
       "volume": "-",
       "tag": "trending"
     },
     {
+      "rank": 36,
+      "name": "#VirtualWarriors",
+      "url": "https://twitter.com/search?q=%23VirtualWarriors",
+      "volume": "11.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 37,
+      "name": "#NikitaRoy",
+      "url": "https://twitter.com/search?q=%23NikitaRoy",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 38,
+      "name": "Rashid Khan",
+      "url": "https://twitter.com/search?q=Rashid Khan",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 39,
+      "name": "Sai Kishore",
+      "url": "https://twitter.com/search?q=Sai Kishore",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 40,
+      "name": "Prasidh Krishna",
+      "url": "https://twitter.com/search?q=Prasidh Krishna",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 41,
+      "name": "Karun Nair",
+      "url": "https://twitter.com/search?q=Karun Nair",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 42,
+      "name": "moonbin",
+      "url": "https://twitter.com/search?q=moonbin",
+      "volume": "101.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 43,
+      "name": "ASIM RIAZ",
+      "url": "https://twitter.com/search?q=ASIM RIAZ",
+      "volume": "23.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 44,
+      "name": "ASEEM REAZ NOT AE MAN",
+      "url": "https://twitter.com/search?q=ASEEM REAZ NOT AE MAN",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 45,
+      "name": "FKJD FM IN MACAO",
+      "url": "https://twitter.com/search?q=FKJD FM IN MACAO",
+      "volume": "74.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 46,
+      "name": "Jain",
+      "url": "https://twitter.com/search?q=Jain",
+      "volume": "16.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 47,
+      "name": "Gujarat Titans",
+      "url": "https://twitter.com/search?q=Gujarat Titans",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 48,
+      "name": "Coldplay",
+      "url": "https://twitter.com/search?q=Coldplay",
+      "volume": "126.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 49,
+      "name": "Shubman Gill",
+      "url": "https://twitter.com/search?q=Shubman Gill",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 50,
+      "name": "Thalapathy",
+      "url": "https://twitter.com/search?q=Thalapathy",
+      "volume": "41.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 51,
+      "name": "Gmail",
+      "url": "https://twitter.com/search?q=Gmail",
+      "volume": "27.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 52,
+      "name": "Harshal Patel",
+      "url": "https://twitter.com/search?q=Harshal Patel",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 53,
+      "name": "Puncture",
+      "url": "https://twitter.com/search?q=Puncture",
+      "volume": "14.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 54,
+      "name": "Airtel",
+      "url": "https://twitter.com/search?q=Airtel",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 55,
+      "name": "#AmazfitActive2",
+      "url": "https://twitter.com/search?q=%23AmazfitActive2",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 56,
+      "name": "#TVKITWingMeeting",
+      "url": "https://twitter.com/search?q=%23TVKITWingMeeting",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 57,
+      "name": "#SmartMoves",
+      "url": "https://twitter.com/search?q=%23SmartMoves",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 58,
+      "name": "#RRvsLSG",
+      "url": "https://twitter.com/search?q=%23RRvsLSG",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 59,
+      "name": "#WorldLiverDay",
+      "url": "https://twitter.com/search?q=%23WorldLiverDay",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
       "rank": 60,
-      "name": "#DuraiVaiko",
-      "url": "https://twitter.com/search?q=%23DuraiVaiko",
+      "name": "#HDFCBank",
+      "url": "https://twitter.com/search?q=%23HDFCBank",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 61,
-      "name": "#LiverHealth",
-      "url": "https://twitter.com/search?q=%23LiverHealth",
+      "name": "#MahaWeekendChallenge",
+      "url": "https://twitter.com/search?q=%23MahaWeekendChallenge",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 62,
-      "name": "#WWEHOF",
-      "url": "https://twitter.com/search?q=%23WWEHOF",
-      "volume": "34.0k+",
+      "name": "#ICICIBank",
+      "url": "https://twitter.com/search?q=%23ICICIBank",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 63,
-      "name": "#JEEMainsResult2025",
-      "url": "https://twitter.com/search?q=%23JEEMainsResult2025",
+      "name": "#UddhavThackeray",
+      "url": "https://twitter.com/search?q=%23UddhavThackeray",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 64,
-      "name": "#SaturdayVibes",
-      "url": "https://twitter.com/search?q=%23SaturdayVibes",
-      "volume": "24.0k+",
+      "name": "#AkhileshYadav",
+      "url": "https://twitter.com/search?q=%23AkhileshYadav",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 65,
-      "name": "#ramjilalsuman",
-      "url": "https://twitter.com/search?q=%23ramjilalsuman",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 66,
-      "name": "#jaintemple",
-      "url": "https://twitter.com/search?q=%23jaintemple",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 67,
-      "name": "#MDMK",
-      "url": "https://twitter.com/search?q=%23MDMK",
-      "volume": "-",
+      "name": "#ValeTudo",
+      "url": "https://twitter.com/search?q=%23ValeTudo",
+      "volume": "18.0k+",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-19 17:30:46 IST"
+  "last_updated": "2025-04-19 18:30:48 IST"
 }
