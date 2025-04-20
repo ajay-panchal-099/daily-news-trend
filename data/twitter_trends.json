@@ -2,23 +2,23 @@
   "trends": [
     {
       "rank": 1,
-      "name": "#DigitalFasting",
-      "url": "https://twitter.com/search?q=%23DigitalFasting",
-      "volume": "11.0k+",
+      "name": "Happy Easter",
+      "url": "https://twitter.com/search?q=Happy Easter",
+      "volume": "256.0k+",
       "tag": "trending"
     },
     {
       "rank": 2,
-      "name": "#HappyEaster",
-      "url": "https://twitter.com/search?q=%23HappyEaster",
-      "volume": "19.0k+",
+      "name": "#DigitalFasting",
+      "url": "https://twitter.com/search?q=%23DigitalFasting",
+      "volume": "14.0k+",
       "tag": "trending"
     },
     {
       "rank": 3,
-      "name": "Saint Dr MSG Insan",
-      "url": "https://twitter.com/search?q=Saint Dr MSG Insan",
-      "volume": "18.0k+",
+      "name": "#WrestleMania41",
+      "url": "https://twitter.com/search?q=%23WrestleMania41",
+      "volume": "39.0k+",
       "tag": "trending"
     },
     {
@@ -30,445 +30,487 @@
     },
     {
       "rank": 5,
-      "name": "#WrestleMania",
-      "url": "https://twitter.com/search?q=%23WrestleMania",
-      "volume": "509.0k+",
+      "name": "Saint Dr MSG Insan",
+      "url": "https://twitter.com/search?q=Saint Dr MSG Insan",
+      "volume": "19.0k+",
       "tag": "trending"
     },
     {
       "rank": 6,
-      "name": "#HappyBirthdayCBN",
-      "url": "https://twitter.com/search?q=%23HappyBirthdayCBN",
-      "volume": "12.0k+",
+      "name": "Paul Heyman",
+      "url": "https://twitter.com/search?q=Paul Heyman",
+      "volume": "44.0k+",
       "tag": "trending"
     },
     {
       "rank": 7,
+      "name": "#HappyBirthdayCBN",
+      "url": "https://twitter.com/search?q=%23HappyBirthdayCBN",
+      "volume": "14.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 8,
       "name": "Nadda",
       "url": "https://twitter.com/search?q=Nadda",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 8,
-      "name": "Gunther",
-      "url": "https://twitter.com/search?q=Gunther",
-      "volume": "64.0k+",
-      "tag": "trending"
-    },
-    {
       "rank": 9,
-      "name": "Nishikant Dubey",
-      "url": "https://twitter.com/search?q=Nishikant Dubey",
-      "volume": "51.0k+",
+      "name": "#HealthTips",
+      "url": "https://twitter.com/search?q=%23HealthTips",
+      "volume": "13.0k+",
       "tag": "trending"
     },
     {
       "rank": 10,
-      "name": "SEED",
-      "url": "https://twitter.com/search?q=SEED",
-      "volume": "43.0k+",
+      "name": "Seth",
+      "url": "https://twitter.com/search?q=Seth",
+      "volume": "87.0k+",
       "tag": "trending"
     },
     {
       "rank": 11,
-      "name": "He is Risen",
-      "url": "https://twitter.com/search?q=He is Risen",
-      "volume": "18.0k+",
+      "name": "Nishikant Dubey",
+      "url": "https://twitter.com/search?q=Nishikant Dubey",
+      "volume": "57.0k+",
       "tag": "trending"
     },
     {
       "rank": 12,
-      "name": "Tiffany",
-      "url": "https://twitter.com/search?q=Tiffany",
-      "volume": "68.0k+",
+      "name": "SEED Campaign",
+      "url": "https://twitter.com/search?q=SEED Campaign",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 13,
-      "name": "Charlotte",
-      "url": "https://twitter.com/search?q=Charlotte",
-      "volume": "60.0k+",
+      "name": "Lakers",
+      "url": "https://twitter.com/search?q=Lakers",
+      "volume": "134.0k+",
       "tag": "trending"
     },
     {
       "rank": 14,
-      "name": "Lakers",
-      "url": "https://twitter.com/search?q=Lakers",
-      "volume": "112.0k+",
+      "name": "He is Risen",
+      "url": "https://twitter.com/search?q=He is Risen",
+      "volume": "20.0k+",
       "tag": "trending"
     },
     {
       "rank": 15,
-      "name": "Naomi",
-      "url": "https://twitter.com/search?q=Naomi",
-      "volume": "50.0k+",
+      "name": "Gunther",
+      "url": "https://twitter.com/search?q=Gunther",
+      "volume": "66.0k+",
       "tag": "trending"
     },
     {
       "rank": 16,
-      "name": "Jey Uso",
-      "url": "https://twitter.com/search?q=Jey Uso",
-      "volume": "72.0k+",
+      "name": "Garu",
+      "url": "https://twitter.com/search?q=Garu",
+      "volume": "18.0k+",
       "tag": "trending"
     },
     {
       "rank": 17,
-      "name": "Garu",
-      "url": "https://twitter.com/search?q=Garu",
-      "volume": "12.0k+",
+      "name": "Charlotte",
+      "url": "https://twitter.com/search?q=Charlotte",
+      "volume": "62.0k+",
       "tag": "trending"
     },
     {
       "rank": 18,
-      "name": "Seth",
-      "url": "https://twitter.com/search?q=Seth",
-      "volume": "45.0k+",
+      "name": "Nupur Sharma",
+      "url": "https://twitter.com/search?q=Nupur Sharma",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 19,
-      "name": "Rajasthan Royals",
-      "url": "https://twitter.com/search?q=Rajasthan Royals",
-      "volume": "-",
+      "name": "Tiffany",
+      "url": "https://twitter.com/search?q=Tiffany",
+      "volume": "71.0k+",
       "tag": "trending"
     },
     {
       "rank": 20,
-      "name": "Avesh Khan",
-      "url": "https://twitter.com/search?q=Avesh Khan",
-      "volume": "-",
+      "name": "Night 1",
+      "url": "https://twitter.com/search?q=Night 1",
+      "volume": "502.0k+",
       "tag": "trending"
     },
     {
       "rank": 21,
-      "name": "Jesus Christ",
-      "url": "https://twitter.com/search?q=Jesus Christ",
-      "volume": "120.0k+",
+      "name": "LeBron",
+      "url": "https://twitter.com/search?q=LeBron",
+      "volume": "52.0k+",
       "tag": "trending"
     },
     {
       "rank": 22,
-      "name": "#HealthTips",
-      "url": "https://twitter.com/search?q=%23HealthTips",
-      "volume": "-",
+      "name": "Naomi",
+      "url": "https://twitter.com/search?q=Naomi",
+      "volume": "51.0k+",
       "tag": "trending"
     },
     {
       "rank": 23,
+      "name": "Luka",
+      "url": "https://twitter.com/search?q=Luka",
+      "volume": "97.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 24,
+      "name": "Kannada",
+      "url": "https://twitter.com/search?q=Kannada",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 25,
+      "name": "Christ",
+      "url": "https://twitter.com/search?q=Christ",
+      "volume": "266.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 26,
+      "name": "Jains",
+      "url": "https://twitter.com/search?q=Jains",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 27,
       "name": "#RanjitSinghAhir",
       "url": "https://twitter.com/search?q=%23RanjitSinghAhir",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 24,
+      "rank": 28,
+      "name": "#CMPunk",
+      "url": "https://twitter.com/search?q=%23CMPunk",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 29,
+      "name": "#NewBeginnings",
+      "url": "https://twitter.com/search?q=%23NewBeginnings",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 30,
+      "name": "#RomanReigns",
+      "url": "https://twitter.com/search?q=%23RomanReigns",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 31,
       "name": "#sundayvibes",
       "url": "https://twitter.com/search?q=%23sundayvibes",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 25,
-      "name": "#ChandrababuNaidu",
-      "url": "https://twitter.com/search?q=%23ChandrababuNaidu",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 26,
-      "name": "#vaibhavsuryavanshi",
-      "url": "https://twitter.com/search?q=%23vaibhavsuryavanshi",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 27,
-      "name": "#shailenzo",
-      "url": "https://twitter.com/search?q=%23shailenzo",
-      "volume": "30.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 28,
-      "name": "#RRvLSG",
-      "url": "https://twitter.com/search?q=%23RRvLSG",
-      "volume": "12.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 29,
-      "name": "#ENHYPEN",
-      "url": "https://twitter.com/search?q=%23ENHYPEN",
-      "volume": "452.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 30,
-      "name": "#ENCHELLA",
-      "url": "https://twitter.com/search?q=%23ENCHELLA",
-      "volume": "444.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 31,
-      "name": "#SaudiArabianGP",
-      "url": "https://twitter.com/search?q=%23SaudiArabianGP",
-      "volume": "85.0k+",
-      "tag": "trending"
-    },
-    {
       "rank": 32,
-      "name": "#DigitalFasting",
-      "url": "https://twitter.com/search?q=%23DigitalFasting",
+      "name": "#SundayMorning",
+      "url": "https://twitter.com/search?q=%23SundayMorning",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 33,
-      "name": "Happy Easter",
-      "url": "https://twitter.com/search?q=Happy Easter",
-      "volume": "229.0k+",
+      "name": "#NaraChandrababuNaidu",
+      "url": "https://twitter.com/search?q=%23NaraChandrababuNaidu",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 34,
-      "name": "#WrestleMania",
-      "url": "https://twitter.com/search?q=%23WrestleMania",
-      "volume": "425.0k+",
+      "name": "#amici24",
+      "url": "https://twitter.com/search?q=%23amici24",
+      "volume": "56.0k+",
       "tag": "trending"
     },
     {
       "rank": 35,
-      "name": "#RRvsLSG",
-      "url": "https://twitter.com/search?q=%23RRvsLSG",
-      "volume": "21.0k+",
+      "name": "#GodMorningSunday",
+      "url": "https://twitter.com/search?q=%23GodMorningSunday",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 36,
-      "name": "Saint Dr MSG Insan",
-      "url": "https://twitter.com/search?q=Saint Dr MSG Insan",
-      "volume": "16.0k+",
+      "name": "#SpringVibes",
+      "url": "https://twitter.com/search?q=%23SpringVibes",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 37,
       "name": "#vaibhavsuryavanshi",
       "url": "https://twitter.com/search?q=%23vaibhavsuryavanshi",
-      "volume": "-",
+      "volume": "10.0k+",
       "tag": "trending"
     },
     {
       "rank": 38,
-      "name": "Fake Kathavachak",
-      "url": "https://twitter.com/search?q=Fake Kathavachak",
-      "volume": "224.0k+",
+      "name": "#ENCHELLA",
+      "url": "https://twitter.com/search?q=%23ENCHELLA",
+      "volume": "585.0k+",
       "tag": "trending"
     },
     {
       "rank": 39,
-      "name": "Gunther",
-      "url": "https://twitter.com/search?q=Gunther",
-      "volume": "63.0k+",
+      "name": "#ENHYPEN",
+      "url": "https://twitter.com/search?q=%23ENHYPEN",
+      "volume": "582.0k+",
       "tag": "trending"
     },
     {
       "rank": 40,
-      "name": "Jey Uso",
-      "url": "https://twitter.com/search?q=Jey Uso",
-      "volume": "70.0k+",
+      "name": "#JeyUso",
+      "url": "https://twitter.com/search?q=%23JeyUso",
+      "volume": "17.0k+",
       "tag": "trending"
     },
     {
       "rank": 41,
-      "name": "Charlotte",
-      "url": "https://twitter.com/search?q=Charlotte",
-      "volume": "54.0k+",
+      "name": "#shailenzo",
+      "url": "https://twitter.com/search?q=%23shailenzo",
+      "volume": "30.0k+",
       "tag": "trending"
     },
     {
       "rank": 42,
+      "name": "#RRvLSG",
+      "url": "https://twitter.com/search?q=%23RRvLSG",
+      "volume": "13.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 43,
+      "name": "#DigitalFasting",
+      "url": "https://twitter.com/search?q=%23DigitalFasting",
+      "volume": "11.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 44,
+      "name": "#HappyEaster",
+      "url": "https://twitter.com/search?q=%23HappyEaster",
+      "volume": "19.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 45,
+      "name": "Saint Dr MSG Insan",
+      "url": "https://twitter.com/search?q=Saint Dr MSG Insan",
+      "volume": "18.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 46,
+      "name": "#HBDLegendCBN",
+      "url": "https://twitter.com/search?q=%23HBDLegendCBN",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 47,
+      "name": "#WrestleMania",
+      "url": "https://twitter.com/search?q=%23WrestleMania",
+      "volume": "509.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 48,
+      "name": "#HappyBirthdayCBN",
+      "url": "https://twitter.com/search?q=%23HappyBirthdayCBN",
+      "volume": "12.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 49,
       "name": "Nadda",
       "url": "https://twitter.com/search?q=Nadda",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 43,
-      "name": "Avesh Khan",
-      "url": "https://twitter.com/search?q=Avesh Khan",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 44,
-      "name": "Tiffany",
-      "url": "https://twitter.com/search?q=Tiffany",
-      "volume": "62.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 45,
-      "name": "Nishikant Dubey",
-      "url": "https://twitter.com/search?q=Nishikant Dubey",
-      "volume": "45.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 46,
-      "name": "Tim David",
-      "url": "https://twitter.com/search?q=Tim David",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 47,
-      "name": "Naomi",
-      "url": "https://twitter.com/search?q=Naomi",
-      "volume": "49.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 48,
-      "name": "SEED",
-      "url": "https://twitter.com/search?q=SEED",
-      "volume": "44.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 49,
-      "name": "Jacob Fatu",
-      "url": "https://twitter.com/search?q=Jacob Fatu",
-      "volume": "22.0k+",
-      "tag": "trending"
-    },
-    {
       "rank": 50,
-      "name": "Jos Buttler",
-      "url": "https://twitter.com/search?q=Jos Buttler",
-      "volume": "11.0k+",
+      "name": "Gunther",
+      "url": "https://twitter.com/search?q=Gunther",
+      "volume": "64.0k+",
       "tag": "trending"
     },
     {
       "rank": 51,
-      "name": "LA Knight",
-      "url": "https://twitter.com/search?q=LA Knight",
-      "volume": "16.0k+",
+      "name": "Nishikant Dubey",
+      "url": "https://twitter.com/search?q=Nishikant Dubey",
+      "volume": "51.0k+",
       "tag": "trending"
     },
     {
       "rank": 52,
-      "name": "Westbrook",
-      "url": "https://twitter.com/search?q=Westbrook",
-      "volume": "41.0k+",
+      "name": "SEED",
+      "url": "https://twitter.com/search?q=SEED",
+      "volume": "43.0k+",
       "tag": "trending"
     },
     {
       "rank": 53,
-      "name": "Brahmins",
-      "url": "https://twitter.com/search?q=Brahmins",
-      "volume": "21.0k+",
+      "name": "He is Risen",
+      "url": "https://twitter.com/search?q=He is Risen",
+      "volume": "18.0k+",
       "tag": "trending"
     },
     {
       "rank": 54,
-      "name": "shame on asim riaz",
-      "url": "https://twitter.com/search?q=shame on asim riaz",
-      "volume": "19.0k+",
+      "name": "Tiffany",
+      "url": "https://twitter.com/search?q=Tiffany",
+      "volume": "68.0k+",
       "tag": "trending"
     },
     {
       "rank": 55,
+      "name": "Charlotte",
+      "url": "https://twitter.com/search?q=Charlotte",
+      "volume": "60.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 56,
+      "name": "Lakers",
+      "url": "https://twitter.com/search?q=Lakers",
+      "volume": "112.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 57,
+      "name": "Naomi",
+      "url": "https://twitter.com/search?q=Naomi",
+      "volume": "50.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 58,
+      "name": "Jey Uso",
+      "url": "https://twitter.com/search?q=Jey Uso",
+      "volume": "72.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 59,
+      "name": "Garu",
+      "url": "https://twitter.com/search?q=Garu",
+      "volume": "12.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 60,
+      "name": "Seth",
+      "url": "https://twitter.com/search?q=Seth",
+      "volume": "45.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 61,
       "name": "Rajasthan Royals",
       "url": "https://twitter.com/search?q=Rajasthan Royals",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 56,
-      "name": "Big E",
-      "url": "https://twitter.com/search?q=Big E",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 57,
-      "name": "ASIM DESTROYED MX SCRIPT",
-      "url": "https://twitter.com/search?q=ASIM DESTROYED MX SCRIPT",
-      "volume": "37.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 58,
-      "name": "Jain",
-      "url": "https://twitter.com/search?q=Jain",
-      "volume": "29.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 59,
-      "name": "sai kishore",
-      "url": "https://twitter.com/search?q=sai kishore",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 60,
-      "name": "Abdul Samad",
-      "url": "https://twitter.com/search?q=Abdul Samad",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 61,
-      "name": "Reaves",
-      "url": "https://twitter.com/search?q=Reaves",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
       "rank": 62,
-      "name": "Bayley",
-      "url": "https://twitter.com/search?q=Bayley",
-      "volume": "14.0k+",
+      "name": "Avesh Khan",
+      "url": "https://twitter.com/search?q=Avesh Khan",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 63,
-      "name": "LeBron",
-      "url": "https://twitter.com/search?q=LeBron",
-      "volume": "44.0k+",
+      "name": "Jesus Christ",
+      "url": "https://twitter.com/search?q=Jesus Christ",
+      "volume": "120.0k+",
       "tag": "trending"
     },
     {
       "rank": 64,
-      "name": "vishwa sewa diwas",
-      "url": "https://twitter.com/search?q=vishwa sewa diwas",
-      "volume": "29.0k+",
+      "name": "#HealthTips",
+      "url": "https://twitter.com/search?q=%23HealthTips",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 65,
-      "name": "Roxanne",
-      "url": "https://twitter.com/search?q=Roxanne",
-      "volume": "13.0k+",
+      "name": "#RanjitSinghAhir",
+      "url": "https://twitter.com/search?q=%23RanjitSinghAhir",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 66,
-      "name": "3in1 msg bhandara",
-      "url": "https://twitter.com/search?q=3in1 msg bhandara",
+      "name": "#sundayvibes",
+      "url": "https://twitter.com/search?q=%23sundayvibes",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 67,
-      "name": "BOSS MENTOR FUKRA INSAAN",
-      "url": "https://twitter.com/search?q=BOSS MENTOR FUKRA INSAAN",
-      "volume": "17.0k+",
+      "name": "#ChandrababuNaidu",
+      "url": "https://twitter.com/search?q=%23ChandrababuNaidu",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 68,
+      "name": "#vaibhavsuryavanshi",
+      "url": "https://twitter.com/search?q=%23vaibhavsuryavanshi",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 69,
+      "name": "#shailenzo",
+      "url": "https://twitter.com/search?q=%23shailenzo",
+      "volume": "30.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 70,
+      "name": "#RRvLSG",
+      "url": "https://twitter.com/search?q=%23RRvLSG",
+      "volume": "12.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 71,
+      "name": "#ENHYPEN",
+      "url": "https://twitter.com/search?q=%23ENHYPEN",
+      "volume": "452.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 72,
+      "name": "#ENCHELLA",
+      "url": "https://twitter.com/search?q=%23ENCHELLA",
+      "volume": "444.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 73,
+      "name": "#SaudiArabianGP",
+      "url": "https://twitter.com/search?q=%23SaudiArabianGP",
+      "volume": "85.0k+",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-20 08:30:43 IST"
+  "last_updated": "2025-04-20 09:30:46 IST"
 }
