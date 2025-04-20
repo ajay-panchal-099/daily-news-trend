@@ -9,6 +9,7 @@ from pytrends.request import TrendReq
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from zoneinfo import ZoneInfo
+from s3_operations import store_trends_in_s3
 
 from render_ssh_config import setup_git
 load_dotenv()
@@ -738,6 +739,11 @@ if __name__ == "__main__":
         
         end_time = time.time()
         print(f"⏱️ Collection completed in {round(end_time - start_time)} seconds")
+
+        # Upload to S3
+        bucket_name = os.getenv('AWS_S3_BUCKET')
+        if bucket_name:
+            store_trends_in_s3(DATA_DIR, bucket_name)
         
         print("🔄 Setting Github and SSH Config...")
         setup_git()

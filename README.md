@@ -139,3 +139,4 @@ ISSUES
 - Finally addded logic to update github repo on every push(via cron job), that will trigger the redeployment 
 - Committing and Pushing to Github didn't work,because all ssh info were getting lost -> Adding ssh info at runtime
 - Copying Key to another temp file worked
+- Added code to store the data in AWS S3 Bucket
