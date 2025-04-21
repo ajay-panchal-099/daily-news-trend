@@ -27,7 +27,7 @@
       "url": "https://open.spotify.com/track/4OV1XWa6OSz4W4oUoRk9A7",
       "album": "FEEL THE NIGHT",
       "duration": 163,
-      "popularity": 38,
+      "popularity": 39,
       "tag": "trending"
     },
     {
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH",
       "album": "Aaj Ki Raat (From \"Stree 2\")",
       "duration": 228,
-      "popularity": 65,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -127,7 +127,7 @@
       "url": "https://open.spotify.com/track/67dJV3idtBksu5R4igT0b3",
       "album": "Raat da Time",
       "duration": 135,
-      "popularity": 31,
+      "popularity": 32,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/5K6Ulyna4f9AOc8cPBiS7n",
       "album": "Ik Chann 2.0",
       "duration": 166,
-      "popularity": 34,
+      "popularity": 35,
       "tag": "trending"
     },
     {
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP",
       "album": "Teri Baaton Mein Aisa Uljha Jiya",
       "duration": 153,
-      "popularity": 68,
+      "popularity": 69,
       "tag": "trending"
     },
     {
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/0TkquWzzuxcrwbCWlTrKYF",
       "album": "Yaad Piya Ki Aane Lagi",
       "duration": 256,
-      "popularity": 65,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -987,7 +987,7 @@
       "url": "https://open.spotify.com/track/1IInNAVdueQgjrtVsPZEkW",
       "album": "Super Hits Of Yo Yo Honey Singh",
       "duration": 191,
-      "popularity": 53,
+      "popularity": 54,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-21 13:30:44 IST"
+  "last_updated": "2025-04-21 14:30:43 IST"
 }
