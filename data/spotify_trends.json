@@ -42,16 +42,6 @@
     },
     {
       "rank": 5,
-      "title": "Mafia",
-      "artists": "Harjas dhaliwal, Indomi",
-      "url": "https://open.spotify.com/track/42fEUT0qYN0BNsHwz8RZgH",
-      "album": "Mafia",
-      "duration": 148,
-      "popularity": 43,
-      "tag": "trending"
-    },
-    {
-      "rank": 6,
       "title": "Peelings (From \"Pushpa 2 The Rule\") [HINDI]",
       "artists": "Javed Ali, Madhubanti Bagchi, Devi Sri Prasad, Raqueeb Alam, Siju Thuravoor",
       "url": "https://open.spotify.com/track/0Tvybk3jWj7usdP3LALmHI",
@@ -61,17 +51,7 @@
       "tag": "trending"
     },
     {
-      "rank": 7,
-      "title": "Djyaan Te Paaiye Bhangra",
-      "artists": "Armaan Sabharwal",
-      "url": "https://open.spotify.com/track/2SXMgCc4DHqOSlHo4m768c",
-      "album": "Djyaan Te Paaiye Bhangra",
-      "duration": 291,
-      "popularity": 36,
-      "tag": "trending"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "title": "Nain Matakka - From \"Baby John\"",
       "artists": "Thaman S, Diljit Dosanjh, Dhee, Irshad Kamil",
       "url": "https://open.spotify.com/track/2We0kZg7AZaIMsrBkqp2SI",
@@ -81,17 +61,17 @@
       "tag": "trending"
     },
     {
-      "rank": 9,
-      "title": "Abhi Kabhi Sabhi",
-      "artists": "Rameez Khalid",
-      "url": "https://open.spotify.com/track/5N5BkfZu9TftLhIf8ffX0w",
-      "album": "Abhi Kabhi Sabhi",
-      "duration": 245,
-      "popularity": 38,
+      "rank": 7,
+      "title": "Mafia",
+      "artists": "Harjas dhaliwal, Indomi",
+      "url": "https://open.spotify.com/track/42fEUT0qYN0BNsHwz8RZgH",
+      "album": "Mafia",
+      "duration": 148,
+      "popularity": 43,
       "tag": "trending"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
       "artists": "Pitbull, Diljit Dosanjh, Tanishk Bagchi, Pritam, Neeraj Shridhar, Dhrruv Yogi, Sameer Anjaan",
       "url": "https://open.spotify.com/track/7r6iwgXcR85d9rfqsuf2Af",
@@ -101,17 +81,17 @@
       "tag": "trending"
     },
     {
-      "rank": 11,
-      "title": "CHASIN' YOU",
-      "artists": "DANNY DIORR",
-      "url": "https://open.spotify.com/track/5tmD0PU9JZ9UFjTnERr2xd",
-      "album": "CHASIN' YOU",
-      "duration": 166,
-      "popularity": 35,
+      "rank": 9,
+      "title": "Djyaan Te Paaiye Bhangra",
+      "artists": "Armaan Sabharwal",
+      "url": "https://open.spotify.com/track/2SXMgCc4DHqOSlHo4m768c",
+      "album": "Djyaan Te Paaiye Bhangra",
+      "duration": 291,
+      "popularity": 36,
       "tag": "trending"
     },
     {
-      "rank": 12,
+      "rank": 10,
       "title": "Aaj Ki Raat (From \"Stree 2\")",
       "artists": "Sachin-Jigar, Amitabh Bhattacharya, Madhubanti Bagchi, Divya Kumar",
       "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH",
@@ -121,17 +101,17 @@
       "tag": "trending"
     },
     {
-      "rank": 13,
-      "title": "Raat da Time",
-      "artists": "Anmol Gandhi",
-      "url": "https://open.spotify.com/track/67dJV3idtBksu5R4igT0b3",
-      "album": "Raat da Time",
-      "duration": 135,
-      "popularity": 32,
+      "rank": 11,
+      "title": "Abhi Kabhi Sabhi",
+      "artists": "Rameez Khalid",
+      "url": "https://open.spotify.com/track/5N5BkfZu9TftLhIf8ffX0w",
+      "album": "Abhi Kabhi Sabhi",
+      "duration": 245,
+      "popularity": 38,
       "tag": "trending"
     },
     {
-      "rank": 14,
+      "rank": 12,
       "title": "Aayi Nai (From \"Stree 2\")",
       "artists": "Amitabh Bhattacharya, Sachin-Jigar, Pawan Singh, Simran Choudhary",
       "url": "https://open.spotify.com/track/2TnmSSPkcPdHYYw2Lu84C1",
@@ -141,17 +121,17 @@
       "tag": "trending"
     },
     {
-      "rank": 15,
-      "title": "Ik Chann 2.0",
-      "artists": "Armaan Sabharwal",
-      "url": "https://open.spotify.com/track/5K6Ulyna4f9AOc8cPBiS7n",
-      "album": "Ik Chann 2.0",
+      "rank": 13,
+      "title": "CHASIN' YOU",
+      "artists": "DANNY DIORR",
+      "url": "https://open.spotify.com/track/5tmD0PU9JZ9UFjTnERr2xd",
+      "album": "CHASIN' YOU",
       "duration": 166,
       "popularity": 35,
       "tag": "trending"
     },
     {
-      "rank": 16,
+      "rank": 14,
       "title": "Teri Baaton Mein Aisa Uljha Jiya Title Song",
       "artists": "Raghav, Tanishk Bagchi, Asees Kaur, Nina Mathur",
       "url": "https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP",
@@ -161,17 +141,17 @@
       "tag": "trending"
     },
     {
-      "rank": 17,
-      "title": "STRANGER",
-      "artists": "Kp Lubana",
-      "url": "https://open.spotify.com/track/6d9IM3RHRtD7jeLwhXQoUy",
-      "album": "STRANGER",
-      "duration": 165,
-      "popularity": 35,
+      "rank": 15,
+      "title": "Raat da Time",
+      "artists": "Anmol Gandhi",
+      "url": "https://open.spotify.com/track/67dJV3idtBksu5R4igT0b3",
+      "album": "Raat da Time",
+      "duration": 135,
+      "popularity": 32,
       "tag": "trending"
     },
     {
-      "rank": 18,
+      "rank": 16,
       "title": "Laal Peeli Akhiyaan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
       "artists": "Tanishk Bagchi, Romy, Neeraj Rajawat",
       "url": "https://open.spotify.com/track/2ibipg9GBEZ5YKOdskobJZ",
@@ -181,13 +161,33 @@
       "tag": "trending"
     },
     {
-      "rank": 19,
+      "rank": 17,
+      "title": "Ik Chann 2.0",
+      "artists": "Armaan Sabharwal",
+      "url": "https://open.spotify.com/track/5K6Ulyna4f9AOc8cPBiS7n",
+      "album": "Ik Chann 2.0",
+      "duration": 166,
+      "popularity": 35,
+      "tag": "trending"
+    },
+    {
+      "rank": 18,
       "title": "Ishq Jaisa Kuch (From \"Fighter\")",
       "artists": "Vishal-Shekhar, Vishal Dadlani, Shekhar Ravjiani, Shilpa Rao, Mellow D, Kumaar",
       "url": "https://open.spotify.com/track/23YpzkTDtU78GK6vpgRbkM",
       "album": "Ishq Jaisa Kuch (From \"Fighter\")",
       "duration": 169,
       "popularity": 61,
+      "tag": "trending"
+    },
+    {
+      "rank": 19,
+      "title": "STRANGER",
+      "artists": "Kp Lubana",
+      "url": "https://open.spotify.com/track/6d9IM3RHRtD7jeLwhXQoUy",
+      "album": "STRANGER",
+      "duration": 165,
+      "popularity": 35,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-22 19:30:44 IST"
+  "last_updated": "2025-04-22 20:30:43 IST"
 }
