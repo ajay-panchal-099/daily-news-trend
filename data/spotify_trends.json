@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/42fEUT0qYN0BNsHwz8RZgH",
       "album": "Mafia",
       "duration": 148,
-      "popularity": 42,
+      "popularity": 43,
       "tag": "trending"
     },
     {
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/2TnmSSPkcPdHYYw2Lu84C1",
       "album": "Aayi Nai (From \"Stree 2\")",
       "duration": 178,
-      "popularity": 62,
+      "popularity": 63,
       "tag": "trending"
     },
     {
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF",
       "album": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "duration": 213,
-      "popularity": 52,
+      "popularity": 53,
       "tag": "trending"
     },
     {
@@ -287,7 +287,7 @@
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm",
       "album": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
       "duration": 266,
-      "popularity": 76,
+      "popularity": 77,
       "tag": "trending"
     },
     {
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/45C7tXCrmp3R5E65XUtLLj",
       "album": "Jehda Nasha (From \"An Action Hero\")",
       "duration": 222,
-      "popularity": 58,
+      "popularity": 59,
       "tag": "trending"
     },
     {
@@ -367,7 +367,7 @@
       "url": "https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O",
       "album": "Deva Deva (From \"Brahmastra\")",
       "duration": 279,
-      "popularity": 70,
+      "popularity": 71,
       "tag": "trending"
     },
     {
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/3hts3cIWNG8A2063si9GLP",
       "album": "Bijli (From \"Govinda Naam Mera\")",
       "duration": 174,
-      "popularity": 49,
+      "popularity": 50,
       "tag": "trending"
     },
     {
@@ -527,7 +527,7 @@
       "url": "https://open.spotify.com/track/5bAed2aRbQbjDZF9qkNSA2",
       "album": "Hui Malang (From \"Malang - Unleash The Madness\")",
       "duration": 192,
-      "popularity": 45,
+      "popularity": 46,
       "tag": "trending"
     },
     {
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3",
       "album": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
       "duration": 187,
-      "popularity": 67,
+      "popularity": 68,
       "tag": "trending"
     },
     {
@@ -907,7 +907,7 @@
       "url": "https://open.spotify.com/track/5DIt4eq2D6CZjX1s5jwrnP",
       "album": "Tere Naal Nachna (From \"Nawabzaade\")",
       "duration": 166,
-      "popularity": 64,
+      "popularity": 65,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-22 13:30:44 IST"
+  "last_updated": "2025-04-22 14:30:51 IST"
 }
