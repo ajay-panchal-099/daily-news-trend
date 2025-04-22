@@ -2,14 +2,6 @@
   "trends": [
     {
       "rank": 1,
-      "title": "Tesla earnings updates: Investors seek details on brand damage, lower-cost model - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMThkc1EwVFRlUXVRZUNtYzZ4Rm5yZTdsbF82UFluTWU5MG1iOVBEZ3cwa25ZVnFhY2JGeWdiMUtROUxyNnFDQ3YtMVRDU3pYVEEySE1tZlhMaHVacW8zU0ZPMnVNMTFaS3FJQXN6NFZaeU5aY0lyc0NMX2dodjlaeWxrUkFOcEZ3SWZmSnJtWEFxa2M?oc=5",
-      "source": "Business Insider",
-      "pub_date": "Tue, 22 Apr 2025 19:01:00 GMT",
-      "tag": "headline"
-    },
-    {
-      "rank": 2,
       "title": "Hegseth is in hot water again over sharing attack plans. But this time it may be worse - NPR",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOVVnbTZxTU5UUUt6dEpUYUpVM1J2STd2djZYRGpfa2h5YkpiMVZMWDlKS0dZTFdtQ3lzSS1nd2p4RFVHZGdiUWUwNlUxc0gwbGxVZ2xEaDFFMUFoaExSSkNXUW5ZQ2VGYXV3cVJZRFhRemk0Qi1hWW44LUZwRW9CMno3aTYtbTBfR1hn?oc=5",
       "source": "NPR",
@@ -17,67 +9,75 @@
       "tag": "headline"
     },
     {
+      "rank": 2,
+      "title": "We're orphans now, say Gaza Catholics the Pope called daily - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Xb0hVanhOMVNUWkM5ZlRqX1FpY3lidFZ2RldibEVzOVVGbGMtOHROU2haOW56LXJDM0FXcGJiRy00SlUwWm5qdi10cENneXFBMC1mbDJlMHo3Z9IBX0FVX3lxTE9QWXJrWG5LV2J3TG5QOU4tTld1MGdCTDE4b2ctNlhYSjVwZGVHcThTNnpLUkhmY19vTXJEcGJ0dWJha1FiRlljTnhUYWIzZ1E5Q3U0YTVST3dCa25NTnBN?oc=5",
+      "source": "BBC",
+      "pub_date": "Tue, 22 Apr 2025 16:57:14 GMT",
+      "tag": "headline"
+    },
+    {
       "rank": 3,
       "title": "Supreme Court seems likely to let religious families opt out of LGBTQ storybooks - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRzkzZjRuNWw0cDhhMmYtMmhOMENMNDdxbjUwRlJEeXZlX2tkSHlfTnNweXVGeVRFN01RWDZtcFlucW0teVdvUGpqcHdoMWN5Zy15RXBFbUQ3WndzaGU5RFk1S2dvWUMySGRiTEJPd2hMcm5ZOVNIR1VTY3lrVzBEWU5RWTFMSTAtcUgwbG9vVWZ3cXZiZGJWdUE3NmpKN2RYdlEyQTdNZWlLRmc?oc=5",
       "source": "The Washington Post",
-      "pub_date": "Tue, 22 Apr 2025 18:38:38 GMT",
+      "pub_date": "Tue, 22 Apr 2025 21:38:38 GMT",
       "tag": "headline"
     },
     {
       "rank": 4,
-      "title": "Marco Rubio announces sweeping reorganisation of US state department - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObDVDRW85OG8xa21yN0tXYVdwWld1OUg1bG9VNmpScGhRQXByd0kxYm1PeEdKSUcyVWp6Y21UeHEwZVVzamV1cHc3ZWFOb01SbUpaTjhJOTdHZk5abTN1cGRSN0Z3dHowblN0RkFKZWp2TkR3Z05hT2lPUDZxb0FQWFpGX2xjZUtFd0dqVTdR?oc=5",
-      "source": "The Guardian",
-      "pub_date": "Tue, 22 Apr 2025 14:38:00 GMT",
+      "title": "HHS, FDA to Phase Out Petroleum-Based Synthetic Dyes in Nation\u2019s Food Supply - HHS.gov",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xVTNyUDFUdUd4Y25XS09pZ215M0VsWC1RdlR1QnNldlRNcVlwQkVVY1dCN3FkX3Q2UFpuM0JKZ2xaUUNtMDBxNkVDYUl5N1hrSEZrem0wbFJESHNKVVU0ci1Ma25kYWNoT0E?oc=5",
+      "source": "HHS.gov",
+      "pub_date": "Tue, 22 Apr 2025 20:14:13 GMT",
       "tag": "headline"
     },
     {
       "rank": 5,
-      "title": "How Pope Francis Changed the Catholic Church - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaVNxM2Q5c3BzQVFGeEFCeF9McGRRSnRNZDJvcnhpWDVwUTFkbzgzc1NWUjNXZ2lUd1ZyMDRhYTBNcHJUdmlOeUhYZ1kzVEhBbmFFOUExNElDOWhTenVxT2xBNkhVcXd3UTlFbk55Z0Y0bDBQaWtKODFrU2VteWl6bV9uNTF5LURjN2hmT0YzS1NxblowbWJkak4xTFJ1RWhBVUVVTDlR?oc=5",
-      "source": "The New York Times",
-      "pub_date": "Tue, 22 Apr 2025 21:39:06 GMT",
+      "title": "Trump administration proposes major shake-up of US State Department - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmk3US1tdk5LcnlOYUNvZ216WF9wSzFESnpFeEtLNDFpTzJXVmxtOU5DU1VOd0dKeXpFQWRuUVlRdmY4Wm1nZ0ZHeFNsTUk5WFJqdWtaaVY4M1MwTXpHQ0FsZndDUXhobGJXSjk3RVhvbXVjMDI1YkRjd1VXaWFsdkZxT0ZUakhVbFpnSXFtTkgyNGZOLWF2RWFhazlQVEU3SWN4eTFtczduUQ?oc=5",
+      "source": "Reuters",
+      "pub_date": "Tue, 22 Apr 2025 20:13:10 GMT",
       "tag": "headline"
     },
     {
       "rank": 6,
-      "title": "FDA to phase out dyes used in Flamin' Hot Cheetos, Skittles and other snacks - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xMXBfbHR5ZmdPUnFZcUFUWHBWWTVkdVpQclpJcGhYLThKRndseGNQOWM1a2paUVJJaHdRemc5RzVuY2ZDTG5JVlVmdFRqTkpiYkU3YUxMdFVVOERGalZzNVdwOHk5ckNaa2dvWE1HOWnSAXZBVV95cUxNOGRiek5UVWtYYm4xTUhrSkpzcXJlOERMa0JqMXJsd0pQQmtub0xMTURjcXBrVm50UFh2cHVRYzJ2VWtGZFFTTHU2ZEtOZzI4Rk9nRXlDaXFCWTFIMUZwNHA4SmV2R1VRLVREVFhGdUU4Skwta3R3?oc=5",
-      "source": "CNBC",
-      "pub_date": "Tue, 22 Apr 2025 20:22:17 GMT",
+      "title": "Jury Rules Against Palin in Libel Case Against The New York Times - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckhoVnNCcXN5Vmlyd3ZVUWVsbjRFZjk3Mzc1OUQtbTZxempuYUg3blVYTHVuNUI2em5GaG1XRVc4Y1dtMXRDbTN6SUJ2RFotSVVCbDlXVEV4dzM3alZBNU5VTXRjZUk5WXZrdXQ2M0pDNUZEdk5KcTJUcUp2Mk9LSk14VmVNYkMybWVQbklLSERxNVM5a0cxS1Q1b004WHVYbnc?oc=5",
+      "source": "The New York Times",
+      "pub_date": "Tue, 22 Apr 2025 21:03:42 GMT",
       "tag": "headline"
     },
     {
       "rank": 7,
-      "title": "Six men charged in woman\u2019s removal from Idaho town hall - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVByS2VZQk11Nzl1Y0U3SF9UUTVsMTRua1ppMXhmT2YtWnpyWDIzUXVnOTFKWk9nQ1BYZjBDMHJZM1paalRTRVdjUHRjYlp0QmJXREZCdXAtaFFwMjZSemlLc3F6bFlIMjZfMVVZdHRLUVVVeUZpUzZCa1p5X012ejc4cUk0eVhaQWcyS0piMG9YRzFOWm9ZbA?oc=5",
-      "source": "The Hill",
-      "pub_date": "Tue, 22 Apr 2025 16:47:00 GMT",
+      "title": "Can Harvard Withstand Trump\u2019s Financial Attack? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SYXJWWXFjWmt4QXFCdkVlTE9hMHhUeF9oQzIxUnhnZ2ZFb1JEMm85a0RGVEcwQnRSaFlCN19ZcGw3M2t3Q3dnUkozUDhDOTRQd1pObmRUd0Rac3Qzb1RoUnZqNlFhM2JIYTBtb0E3SVlDOFpweWUzSkRGelZPQkE?oc=5",
+      "source": "The New York Times",
+      "pub_date": "Tue, 22 Apr 2025 18:35:24 GMT",
       "tag": "headline"
     },
     {
       "rank": 8,
-      "title": "The Texas Lottery's top executive resigns as scrutiny over big jackpot winners intensifies - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQVg1QmZjVTZUbF9QNXQyQ3UxNTZCNkozeGE5N0pCNUVoYlVfX1FtMlk3eGJ0MUVYcmEwUHllUEg5TGF4ckNCcXFlNjl6QVQ2MUFvTXVjQmlWRWN2MS1odVBlTlR0SEptUGw5T0IzNFQxc2VnS2lEQ2hQMG8tTFRHNTFIcGg5ZXFrSnc?oc=5",
-      "source": "Yahoo Finance",
-      "pub_date": "Tue, 22 Apr 2025 18:31:54 GMT",
+      "title": "Jury reaches verdict in Lori Daybell Arizona trial - ABC15 Arizona",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3hLaXJBWkl0ZGE3aEJRbmk2ekN1UV9DeU9LZDQwZTdJV0xhRHhkb2JseXNudDlBWHRHWHlscWpPV3hyaXo0c3NaamxRN3VCOV81eDZBYV9wbXdOQzRlMUl5NHIySXFOX2JpNkxrRkRmNDdzYTFuSi1TLWozM3ktSVlGb1N5UmxIRE9vQUw2b1BnWXJlX2NKS0oyOXp5Rks3S2h4SDlmZlhqajViejBvTw?oc=5",
+      "source": "ABC15 Arizona",
+      "pub_date": "Tue, 22 Apr 2025 22:04:04 GMT",
       "tag": "headline"
     },
     {
       "rank": 9,
-      "title": "Mahmoud Khalil, detained in ICE custody, misses baby's birth - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oLVdPMFlhR0dlX3FoWjVHazZWQ2x5ZWxJWEdpOTVEb01aUFFBUVNFRFdWUkpuOHJKdy1COUNTS3BRbzR3YkZoejdJb3BUUVB2X1BqUlpENXBISkZ3V3FudHI0QnZKLTBNaUNQSjd0YzZyckh0?oc=5",
-      "source": "Axios",
-      "pub_date": "Tue, 22 Apr 2025 00:11:37 GMT",
+      "title": "Texas Lottery executive director resigns as lawmakers\u2019 scrutiny mounts - The Texas Tribune",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYjRlZ0JQMTdHcG5GaFBILWUwT1d1bW1xbUN1SVpCN0VoaFA2T2hYWjVOLWFHSmdsamg4TGVWX1JSNGpvdzU5cjlLb1daM1cwdFF0eEtsblFDMTV6Y3ZmaENJM1dsMktVVW5nMHJrWlFfS0ZsckFoWk12eUpyVW43cXdOQV9XUEltMkZXUWFqb01meVdGU2lMeE40Z2s?oc=5",
+      "source": "The Texas Tribune",
+      "pub_date": "Mon, 21 Apr 2025 22:02:08 GMT",
       "tag": "headline"
     },
     {
       "rank": 10,
-      "title": "Harvard\u2019s lawsuit sets up monumental clash between America\u2019s most prestigious university and the Trump administration - CNN",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlY4MXI0cm1UZXg2NVFlWUJhSUdtN1hvbDVfd3Z2cmlFZUpFQURkc2V3SnFJaU9jOVRzMHBEMklYVUhKQ2VyS29qSktVY29fV1E0dU5ZX2RLVVdnVWQ4Y2RaY2dRYkNtZkNQQzZjVVJ4OHZUQVBMd3ZKU2lIaDB6RmFnNFdNQklvZUJsMm9OSG1KQkZjSGfSAYwBQVVfeXFMUFB3bEE4T3RSNnNmWUREeDJ0UGRwVkZkbWJJOHpDdWVEWGlzMXdZOVNnRXk0Q1ZlWGFldmJVVWYxOXlGcW9nVlgwVzZhc2dBcmF1d2IxaWNHV3ozenJoMTk0c3B2OEVjNDF5cTFpOENmTXM5eENkeW0yVFZWRHdpQV9JT200N2ZkUVk2NTE?oc=5",
-      "source": "CNN",
-      "pub_date": "Tue, 22 Apr 2025 18:48:00 GMT",
+      "title": "Federal prosecutors in Eric Adams case resign after being put on administrative leave - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGlRUzVHQUxxNTQ3MlBIX2wxUFhZTkd1WWZsWE9qR21zTlFvN2M1OG5EaDhaT0luN0hydDJTeHEtc2M4d2FfMU85cUxFZWlEbHUxUFM0MDNISFUwV0tCNFpXTjZpWGx2RzFDNEIwaVRMYkYybEZvM1RveU5mb2NnLXVJOV9uSWdJVUxTWA?oc=5",
+      "source": "Politico",
+      "pub_date": "Tue, 22 Apr 2025 17:50:19 GMT",
       "tag": "headline"
     },
     {
@@ -93,19 +93,27 @@
       "title": "Ukraine ready to negotiate with Russia \u2014 if it agrees to ceasefire first - politico.eu",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEkwZS1NbkhCc0VYRXYtZE5aOGh3MXBDVzI3ZDFVVVFpblp2ZlhEVWJjZndyNllzX0ZldWdidlBwRFlvMU44ZzlfT3N5Q2tNcndaNVQwMTE3MTl3TjFEbGdMc04xeC1JeDM5YTJQby1IRUxUY0RiMlBVdFo0dlp6cEdMaFBSTFIyeXc?oc=5",
       "source": "politico.eu",
-      "pub_date": "Tue, 22 Apr 2025 19:53:49 GMT",
+      "pub_date": "Tue, 22 Apr 2025 20:29:00 GMT",
       "tag": "headline"
     },
     {
       "rank": 13,
+      "title": "Tesla profits plunge as Musk promises he\u2019s ready to step away from role at DOGE - CNN",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPblFSQ09EQVU4MkIxMXJHNnVfZzFjOFIycFpreVhxek1VdkVtQXltUm5OZHJjSkZvdnJOZUt3TDRWQ29qSTJWc284RHNiMFl3VnJNdDBIVjJxTExzc0hVZDAxSmVFNXFlc2U2Ujh6YTNmNHFrZUI4eGpfbk5mazlFNVI0VDAtSFhYb1p2WG8zVjM2UnNpb25ibDlYRGhQRW9QTy16VS130gGcAUFVX3lxTE9MS0syQWl1alJJYUxuTnZWUEtVU2RYNmxBZGNhamhyV21zcXhJQ1pvaEx4bzJBdDVNdzF5RWdfcGQ5OC1wSzFyR3NybUtRVTVqd2g4RmlaZ3NOTGphc2xtcXMtN3hTMVVUbzBjM1lONFExRXR3ZXhlcUhMZHM1Q0FZbFljNFlmeWY3eVRITDB2OW10b3dkOFViRUMxcQ?oc=5",
+      "source": "CNN",
+      "pub_date": "Tue, 22 Apr 2025 22:38:00 GMT",
+      "tag": "headline"
+    },
+    {
+      "rank": 14,
       "title": "Trump says he has 'no intention' of firing Fed Chair Powell - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlFpbXFrbE9iM0IxRjhlN3hfbXNObHBkZWtHbk1IV1dUd3VIeHpHV09Gb1hvMEtIWXpReW9GblJ4RVdFTzNIdWctX3BrRlRoYUNjZHhST3pFc29fbWk1T09kMjRJUmZUMVFkTzlEZVFneGhtUDZidjlYTWx0YUtZc085emlWLS04VndoYmNndmhKT3YyWjVFZmdB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlFpbXFrbE9iM0IxRjhlN3hfbXNObHBkZWtHbk1IV1dUd3VIeHpHV09Gb1hvMEtIWXpReW9GblJ4RVdFTzNIdWctX3BrRlRoYUNjZHhST3pFc29fbWk1T09kMjRJUmZUMVFkTzlEZVFneGhtUDZidjlYTWx0YUtZc085emlWLS04VndoYmNndmhKT3YyWjVFZmdB0gGfAUFVX3lxTE5aa0dBN0FTY2ZtTDJaTHQ0Q1RmMXZNclE0TzBPZTlOeEV3TFhGelZMRE91VTMzbEp0cThFVUVfNmNBdkR6XzV1S2p6NzFVYXBONzQ4dDEwX09QMVZGeXRWdndXelZTRVNNWmxyNzFrTmlXWkdXMG5CckxZVy0wQkpHLVFQdU1zSzVsWTYxNWpYM3VZQmZaRFQ5RXhhX21CSQ?oc=5",
       "source": "CNBC",
       "pub_date": "Tue, 22 Apr 2025 21:32:03 GMT",
       "tag": "headline"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Stock market rallies after closed-door remarks by Treasury Secretary Bessent - Fortune",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaW5pTjI5WGVocy1oR25OWk9IVnJnNUh6SFRLRXNhRm1PQlo3TWh6WVliZGVmTlV1T3hYTG0zM2VfLXlsUHZxWFBFUlQtbGJ5Tms0Wk1WekFlSnRNelAwZ3Vncjc2dlB0MmNVY0ZnOXZqNTItaWROaFJwR3FTc19vTWNKSjRxOWhRTERVYUFLZlFYUQ?oc=5",
       "source": "Fortune",
@@ -113,19 +121,11 @@
       "tag": "headline"
     },
     {
-      "rank": 15,
-      "title": "IMF says Trump\u2019s tariffs will be a drag on global economic growth - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbzdGa01NSXhlbWs5bUhLRl9nck1Pa0dUa3VqbVdROFlqb2VBU3FTeV9sYkVFV1BtU2JjQ0FDMm5iSUhMY0VPaGlNbUZuVGJUTFpJSVJqVWM5Y0IzTGV6RU84ZW44TkJwTzlTZ0dRUjc4YTdKN1lwenlpVDc2R1RFZkc3R1Mxa1Q0ZTdJeEFXV21MTDN1UWlWZHNVcw?oc=5",
-      "source": "The Washington Post",
-      "pub_date": "Tue, 22 Apr 2025 20:30:17 GMT",
-      "tag": "headline"
-    },
-    {
       "rank": 16,
-      "title": "The Dow soars 1,000 points and the S&P 500 and Nasdaq rebound even as gold hits a record - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVl9FV1AyMzVLb0FQc3QxS1dwNDBKYUVhMG9lZkh1Y2VvSlpfMi1YU2ZZNWg3V2loc3EwcFRteGJFdlR1TTdHMG5WNk84MVZpU0tzS3ptRFltX3F5aFdJYW9JdnJ4ek9XSmJ0blNIQVg0S0s5LXpweUZ1d053ZXZZQmUxRXJEdw?oc=5",
-      "source": "Yahoo Finance",
-      "pub_date": "Tue, 22 Apr 2025 16:16:00 GMT",
+      "title": "The global economy will be hit hard by Trump's tariffs, IMF warns - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2JIQi1RMkw1NTFwNUNNdmRSaTQyX1VEZ01DcGR3RTFVMXlIRlJ2Q2JVRWlqSndta053LWduU19PU3JpMGFrWFpjVHQyWTdaM2ZOM1ZDNncwNnR5dWU2bGRQeUxSd0pZdzVFZHNaaUk3SEV3MG9QcDBkRlhmemZwYUtkczJVOS0yanc?oc=5",
+      "source": "NPR",
+      "pub_date": "Tue, 22 Apr 2025 19:06:55 GMT",
       "tag": "headline"
     },
     {
@@ -138,6 +138,14 @@
     },
     {
       "rank": 18,
+      "title": "Nvidia\u2019s GPU drivers are a mess - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0JTRzFNZXZHZ0ZzXzFEbF9pR200b2FfN2xHaXBTaS0zRVdIVzE2LS1mWjB0MkRfdVhlaG1yWWhGSldjQTQ4LTE0YktmSXJQOFBzbF9zWC1VZzZ1TzFaR1ZnamcyYU5tREpKSThScjVqSDdMd0F5VHo0LUZKTXdWbDgwcmM1TFc3S19V?oc=5",
+      "source": "The Verge",
+      "pub_date": "Tue, 22 Apr 2025 11:19:49 GMT",
+      "tag": "headline"
+    },
+    {
+      "rank": 19,
       "title": "Apple\u2019s New Siri Chief Enlists Vision Pro Talent to Start Comeback Bid - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNellzZUdKM0RPcHVFRnd2dkhhVXo3bnFkQzNpZWplVjBqLU9USldaWUFjUjhkRDdaOUx1VENmRlJKVkNZX202MWRqemlEOF8wZzhrNW40eWpmaVlfV1dJOFhIa0FuQXN3ODNyeXNsVDFkNEZBc0ZhWjliV0V1ZG1iUmRrVlJqa2pMNnJiSFlUc2ZoUTlJTjVrbWVKNm10V19mRXlhWk1fVDZTSi1zTF9kT3RVWkVaeEhUZThvaG51LTJ1QTFJS1dV?oc=5",
       "source": "Bloomberg.com",
@@ -145,7 +153,7 @@
       "tag": "headline"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "Samsung launches \u2018Re-Newed\u2019 Galaxy S24 series with $250 minimum trade-in value - 9to5Google",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNajVza0ZFUlJMNG5MNm1JOFdadDAya0JXSTVERkRRWEVYaTBGOTEyNURGd0JzVU02LXhDZFEwczVjOHB3WFNyNDJmYnU2WVpZWWdrSDAwaDMxS2Z4VjVQWGQzT0ROOENOSHptX2U2anRTWnF4ckVOU0xPRU92Ums0UXAyc3dfUUt4bkRXVXgxMktQLWVtRG5Z?oc=5",
       "source": "9to5Google",
@@ -153,23 +161,7 @@
       "tag": "headline"
     },
     {
-      "rank": 20,
-      "title": "NVIDIA Pushes Out New GeForce Hotfix Driver 576.15, Addressing Display Crashing & GPU Temperature Sensor Issues - Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRWU52dk1oNHduaHMwZzAyRmJ3MkJhQzJXTDlCM3VtR3lnVkZhSnFoRjdTYzlNZ3A4bFRSS0xORUhwNzlEZC1kLVp0OHdWZy14UXBJYkNvT3J2eDhYMGVRQTRCUHp3TXBpSkwzeUg3OG0xSkZaakZFZUV3NW3SAYIBQVVfeXFMTlNJUnZtaTVoNWt6XzBMSXNBMXJ6VnVhX2llV0xVTUZNMEl3QXpPZGVubExSMXZLYXdPb3NuNVFhY0U1bDYzZXpqT1I5Vy1nZmphZ04zcFBnWkt6RHhjTVJmSXR0WGFCNVllVy1UeGl5MDNwM1o4UVAzeUhWaS14SG96QQ?oc=5",
-      "source": "Wccftech",
-      "pub_date": "Mon, 21 Apr 2025 18:53:00 GMT",
-      "tag": "headline"
-    },
-    {
       "rank": 21,
-      "title": "\u2018Andor\u2019 Season 2 Becomes the Highest Rated Star Wars TV Show or Movie - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEFrMzFUQ2Z2THJvcVR1dGg4SVhFMm5mSFlSSFhtZHRYNjhqUmhwc2VvWDZ6NXR2SDlaTkI2U0p2WFNHSnpfLWdkQXQwdEk2V3l5YUJ4Ykt4Z1FsTEZha3dXV1Mwbm14c0Vfel92VmdYbzNVTUt2bHBMTHlubXY2bFRVejdRYXpBbFp6VXlteGRhb21OVFo1T1RDR2RJcGNLeThz?oc=5",
-      "source": "The Hollywood Reporter",
-      "pub_date": "Tue, 22 Apr 2025 17:17:04 GMT",
-      "tag": "headline"
-    },
-    {
-      "rank": 22,
       "title": "Sophie Nyweide, former child actor in 'Mammoth' and 'Noah,' dies at 24 - Entertainment Weekly",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WM19rMmVERHQ0YzZMSEd1Qm5ra0lSdG1Sa0VPNmRpQkhPTXZIa3pWdlQzRTJ5cjc0Wm0yMlg5ZTdTVmxPUTR0aG1TTnlRQ0lYWEU2YzB6SUQwY1p2NUdfM1VlTWtnNU1kR3B2Ql94ZHRPWFk?oc=5",
       "source": "Entertainment Weekly",
@@ -177,51 +169,59 @@
       "tag": "headline"
     },
     {
+      "rank": 22,
+      "title": "Top producer of \u201960 Minutes\u2019 resigns in wake of Trump lawsuit - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0ZSVWY2dlRBRjRMYVZLVVRKRmVwbFV6MWktTjdoMEQtY3BTcXBraGg1TGFzSlJibHBsa3hiUFdvNEphTmVxVkdGelBCVnpqdElDWVBBS3ZWQkpndjFtU3hJcXRhN3FwYjVNdjhPOXJkd3N0SWozbGdKanBJMGJNRmpsLXl2TWEz?oc=5",
+      "source": "The Hill",
+      "pub_date": "Tue, 22 Apr 2025 18:04:00 GMT",
+      "tag": "headline"
+    },
+    {
       "rank": 23,
-      "title": "Oprah Winfrey selects \"Matriarch\" by Tina Knowles, a memoir about motherhood and resilience, as latest book club pick - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM09EUnlCZDdyWEhkRllnYlUzN05KV0tsZGRWN2FnT2ZYWENzTlpULTRTRVJzVzJxenM4MHp4dUNsaHNUMVV1cUdQd0dxZ2QxRnhYVHliTVlHMVBLRGFOTTVvQV8tUzlVbjQ2dDFSOExKNGdZN1FsSGhDRk05NUZmQ3ZVQzdYdVFZVTFj0gGQAUFVX3lxTE5ONmxoY0ZvOUo0TWZzQi01aG9oM3ZLYlN2MUY2cjJUeVpPU1JGX2RIUlBEWDN5d012RXN3N1d1QWNTcFdQSzhNVzE0R2JsSDhvMnhuNGdFMGJpVEZRa0RJMEs0MGxHWWFoZy03UkNrUTNsMW12Y1F1d0RhR2p5YS1zd0FJNmNoYTFlSzd0LWUtbQ?oc=5",
-      "source": "CBS News",
-      "pub_date": "Tue, 22 Apr 2025 18:09:06 GMT",
+      "title": "\u2018Andor\u2019 Season 2 Becomes the Highest Rated Star Wars TV Show or Movie - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEFrMzFUQ2Z2THJvcVR1dGg4SVhFMm5mSFlSSFhtZHRYNjhqUmhwc2VvWDZ6NXR2SDlaTkI2U0p2WFNHSnpfLWdkQXQwdEk2V3l5YUJ4Ykt4Z1FsTEZha3dXV1Mwbm14c0Vfel92VmdYbzNVTUt2bHBMTHlubXY2bFRVejdRYXpBbFp6VXlteGRhb21OVFo1T1RDR2RJcGNLeThz?oc=5",
+      "source": "The Hollywood Reporter",
+      "pub_date": "Tue, 22 Apr 2025 17:17:04 GMT",
       "tag": "headline"
     },
     {
       "rank": 24,
-      "title": "The internet reacts to The Last of Us season two's latest episode - Eurogamer",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQU5Ydkthc0JyRkY3MmgxWklKdDg0S2htZTlFLWtRQ1dFTnVCYzUwY3NlS0NVbEV6eWZ6RnZteVMxcTkyNzNYSUJBaC1Sdi1qbUd6QUhuN1hDXzFNTEVkQmVKRlhSbXJFX1dZTENLOGt1QkV2U2NpeFFBTjNtM093c1dsSFkxUXhiNlNtTGNuZlVCUFJB?oc=5",
-      "source": "Eurogamer",
-      "pub_date": "Tue, 22 Apr 2025 11:24:31 GMT",
+      "title": "George Clooney and Patti LuPone on Surviving Trump and Broadway Pay - Variety",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1lkLUxPUHpnLTdBQnM5SGNQWk5sN2JTelhnbzlCekxVem1uVjVYRlZQQkRFbjd2Mmx2T2NaQU9Bb3JPNExqVUFrQlFGR3Y1NFZralRyS1pRMi1FaVpuQzg2cmhya0R5N2dNNHQ0ZUdaOFNDc0JFblZYVXE0S0l5MFpDenRyNl8wNllIdGhzVTE5Rzh1ajRqQk5vMVVySkl3NlphU3I3Yw?oc=5",
+      "source": "Variety",
+      "pub_date": "Tue, 22 Apr 2025 15:00:00 GMT",
       "tag": "headline"
     },
     {
       "rank": 25,
-      "title": "2025 NFL mock draft: Shedeur Sanders taken late in Round 1 after QB-needy team trades up to get him - CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV0x2dHhUYTZFejVseVZZTjZqWTVTdUgweDZpVW9YNkhGNG02d24zTkhMRWtud1VXQ0M2MTUyd0dFZGphMjZNWGVtWGtxbnVKTXY1c09MaDl2ZF9rUXctWnhhUFdNSWh6bEluV1VlU2ZXQUl2OHd0Y1NsNkpFSE1ackwyWnlvb2VqUnNfQ0s0blh3Y05WSzQxalE4bUpfQi00VVBYNDJrX0NaaWdGcjRpbjVvN2NhNWN4N1cwcG5mZHVObGloNHV1czFJUHRQaVBHM214SDVoUQ?oc=5",
-      "source": "CBS Sports",
-      "pub_date": "Tue, 22 Apr 2025 16:12:38 GMT",
+      "title": "Bucky Brooks 2025 NFL mock draft 4.0: Steelers land Shedeur Sanders; Cowboys, Broncos select RBs - NFL.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGxsOS10UVg4NHZKcnFXUnRQYkZPQlBLOG1pQXlXZF9UbFNrMlJzb2NYRkEtZngxNzk3c1hWdlZCNm9MdTk0LW55QWxYUTJJcWhES1AwUXFPOGpGbW1GemlNS1ZjNmxxY0U5clNNdk5HNEJHZmFmWEYxMmNEcEE4b04tUTdTRTN5VGxqeHctM2RRSzlOMURlaV9YdU95alpwV2VzWm5ZMUpOb2ZvMjVCbzkzT1BpeGg0U1E?oc=5",
+      "source": "NFL.com",
+      "pub_date": "Tue, 22 Apr 2025 18:12:00 GMT",
       "tag": "headline"
     },
     {
       "rank": 26,
-      "title": "NBA Parlay Picks Tonight: +435 Bet for Tuesday, April 22 - Action Network",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUtGQjZERnl2X2h4bnBIYTBqNGp4U2paMkZENkE3emJ3Vmo3UUN1Qm53WnhrX0xyelJzUXRMV3B3NzFCU3h4SnAxekNzQk5ZMS1JMUJkcGhmWHRFS1c3RTA3Z2tjaTNoemZPWVlZODVuVGp3clBoeHRkMEpUY3d6WnNLN3Z6TnE1dlE?oc=5",
-      "source": "Action Network",
-      "pub_date": "Tue, 22 Apr 2025 16:31:00 GMT",
+      "title": "Projected Lineup: Round 1, Game 2 vs. NJD - NHL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqSXNMdjhpVWxSM1RiVkh3Mlhpb0dKbm5uNE95Z05ZVXFsLXRsMjFkVjlJc0ZsVE95QzdoNFZpTkIxWm1iU2pQY2M5N2ZISjk2NVVtTVRJbEgyaVpfekZqZGpJOHNpdHBXT0RPYm5raUZ0NS1GUF83eU1zTWRpVlE?oc=5",
+      "source": "NHL.com",
+      "pub_date": "Tue, 22 Apr 2025 15:20:14 GMT",
       "tag": "headline"
     },
     {
       "rank": 27,
-      "title": "The Luka Doncic trade makes sense once you understand Nico Harrison - SBNation.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPanFNRlhiQWpXNHBYMmRsa25yOXRtdVlWM1RNLTZXeGQxSXhJUi03TVJ6a0hScHVUMG1xQ29Ja0UxT2RGQ0dQNUpOdUxIQ1Y4RXNYZE1pbUFFQ3BsUGdkMUNNUjBNRC1EVGp0c1ViSEl6RnBiSkJ4LXBlWVVpU1k3ZTNCWXZrWmFTUmU2dlpMSnNNSmNiVXA0OVcxRWNzcktWX0FkX28xRU9QbEU4a0hCUzVJaw?oc=5",
-      "source": "SBNation.com",
-      "pub_date": "Tue, 22 Apr 2025 15:35:16 GMT",
+      "title": "NBA Parlay Picks Tonight: +435 Bet for Tuesday, April 22 - Action Network",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUtGQjZERnl2X2h4bnBIYTBqNGp4U2paMkZENkE3emJ3Vmo3UUN1Qm53WnhrX0xyelJzUXRMV3B3NzFCU3h4SnAxekNzQk5ZMS1JMUJkcGhmWHRFS1c3RTA3Z2tjaTNoemZPWVlZODVuVGp3clBoeHRkMEpUY3d6WnNLN3Z6TnE1dlE?oc=5",
+      "source": "Action Network",
+      "pub_date": "Tue, 22 Apr 2025 18:59:00 GMT",
       "tag": "headline"
     },
     {
       "rank": 28,
-      "title": "Al Horford calls out Magic guard after controversial Jayson Tatum foul - MassLive",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1BQdUo2RnRVWEZDUlY5Vnc0NDJVYmhsdUpia2otVHZRTW9HR2o3aDUweWZXRFZuOVh2bkZ0TnJzdFlYbndiUXVQaDBzMEo2dzRCWFZPaHNVZzhocXFqYkVOUHd3OFRuM1dkaF9uLVRVUEtHNWFFRmNQN0NmRi1vTFczdnlYWlVPQ004TE5hQUpweVhNTlNTVjNIU0xFRnJpVXEwRnlEOVd0R0oyR0l4QWh5WmN6LTTSAcsBQVVfeXFMTVd0N1EtUVJzU2x2SVBJWjRGdWFlOS0zaTVuaXFIREhrN0FqeXE2eFJHMG1xT3JGd1BnQzdHelJUeE9DV3ZrbGF5U3BvZkJmOW9pU0t5QjJqbVdGUGRkbFdMb1dpRFBnNDgwVUZvdjJYR3p5Y0pmRHNpVWdxOGtneUV0dWJoVl91allsS3owSXRSaDFNU1oxYnZ4dVpMT29kcWktMzFoUjl0UWhCc1JNNlNYeVdjeS1aM0hGdXVNRGx1Zk5pT3Q4VnNHZnM?oc=5",
-      "source": "MassLive",
-      "pub_date": "Tue, 22 Apr 2025 17:34:00 GMT",
+      "title": "Evaluating teams likely to draft a 2025 quarterback, plus guides for Colts, Bengals, Seahawks - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkd1YXhhZEhmcVphVlVUSFBPRWRVMWg1bFdWR3BtdUllQzRRelNrQUFJQzVNaEVrLUVCRTQ2cVNfemFKTkdHcUZLMGpuNHFRWWptZlZuTW9iSWstQ2gyUkV5LUpXblFXUkpkNW9zWmN0aHlrZV84b0lJSl9VS2lPYzhOVEdDLW1Tc3FtRnlMNFQ5eUYxcGZoTDAyZElrUHFoWTFiU3JrUHNLRS03TG5oVGNEMXVqeXM5WHpZYS1QVVVRZ1RILVVIUVowc1FiRTdy?oc=5",
+      "source": "The New York Times",
+      "pub_date": "Tue, 22 Apr 2025 17:14:01 GMT",
       "tag": "headline"
     },
     {
@@ -242,18 +242,18 @@
     },
     {
       "rank": 31,
-      "title": "NASA rover discovers out-of-place 'Skull' on Mars, and scientists are baffled - Live Science",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTQ4OTRlOG9oQUtkMEppV0FnWkh0R3J2ZWZ5YlN0OFBveVJOMVY5NzBkeDRqTFVIRmZfR1Y0M0p0aXEzNHp5LXBwM0xsck9HTVVoMHhLbmVGZDNmc0Z4Vkt4RmdMTUFyODZqNEV5dU5FNWxJNjQzNTRMMzRfMkFEZjJVTTNlSUk3dllnRDZlTUJZQTV5eFFtZVZ6YWJFMTFuVy1yRUtZRU1wRF96WS1mV2pTaw?oc=5",
-      "source": "Live Science",
-      "pub_date": "Tue, 22 Apr 2025 17:27:15 GMT",
+      "title": "NASA spacecraft zooms by strange asteroid, beams back images - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VN1AybE81TDBCU3NxUUxOV2NxMGIyRmpZLW5kRktOdFBGbDR1Nk9ZTzBHRGNzV05xbzNXOWMxWDBXblVuTXpTaGw5TF9CQVBWbnNEaHh1cFppd2hSVWFjNG5VZjlVQWFaT0IxVWVsdDRjQXBVcThV?oc=5",
+      "source": "Mashable",
+      "pub_date": "Tue, 22 Apr 2025 09:00:00 GMT",
       "tag": "headline"
     },
     {
       "rank": 32,
-      "title": "NASA's Lucy probe captures 1st close-up images of asteroid Donaldjohanson, revealing 'strikingly complicated geology' - Space",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLUFJRW9Nc2NvUENDTFdpZmVsZUw3dWNCNlFsXzZrbGlDRE1oaVIzX1lNZjdfZ05EUUxJUTQ3NzBxYmRjaWRiOVV5Y3dNZzNHb2g3ZGc3c2V1WVV5UHFhUThzZERhLWZENHdUTzdSQUIzOWdUQUw4UEIzOEhQQndTUkNOLTZlTmhoSVpxa0l0VmxzZXhEVHJCM3NFTFI3Q19VdDZfeUpya0pPMEFoOEZRMU1XTG1fanNPN0FBdndLeVRxdnBENlFBZ1ROWVBtQmRpdFBvb3hOdlBhS1VzbTVhNjZRR3dnNXllRVBXMG93Zw?oc=5",
-      "source": "Space",
-      "pub_date": "Tue, 22 Apr 2025 16:17:08 GMT",
+      "title": "NASA rover discovers out-of-place 'Skull' on Mars, and scientists are baffled - Live Science",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTQ4OTRlOG9oQUtkMEppV0FnWkh0R3J2ZWZ5YlN0OFBveVJOMVY5NzBkeDRqTFVIRmZfR1Y0M0p0aXEzNHp5LXBwM0xsck9HTVVoMHhLbmVGZDNmc0Z4Vkt4RmdMTUFyODZqNEV5dU5FNWxJNjQzNTRMMzRfMkFEZjJVTTNlSUk3dllnRDZlTUJZQTV5eFFtZVZ6YWJFMTFuVy1yRUtZRU1wRF96WS1mV2pTaw?oc=5",
+      "source": "Live Science",
+      "pub_date": "Tue, 22 Apr 2025 17:27:15 GMT",
       "tag": "headline"
     },
     {
@@ -282,12 +282,12 @@
     },
     {
       "rank": 36,
-      "title": "I Ate Blueberries Every Day for 2 Weeks and Here\u2019s What Happened - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlV3BmdW5keC1vRHg1SVlBcnhtc3lzNnBRXzllMXJ3ZktWdmhBd0ptY3dzSjNEd0hiZ3VZajZ2SkMtcHcxUHhQRzgxa25Ec1h3MTRLaG1pMEpHR21Sa2hEY1pVN2lSNFJpbTdKNFR5VQ?oc=5",
-      "source": "AOL.com",
-      "pub_date": "Tue, 22 Apr 2025 19:36:14 GMT",
+      "title": "Intensive lowering of blood pressure tied to lower dementia risk - statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU25uMjdESElES2ZVbmtoV2RrUVAxZlR4eXQycVd3VmhLWHlDRTBMVjhBVzBTNURKeEVLM0RqLWFDLWxvcUwwRnBnd3p0bzNvYm10ZkFfT2Z2c0VzY2JWWldPMWg0Y1VZZmJuN0l1OEFmZVlNZHpabVNEaHhkOEg0SExRVWptT0otcHg0a1NlV0NoaG5hUUpnRVJmUlc1aVFMMzh0U0VBVlg0MGdsbno2RE9nN2ozOHpqbkU0by1xZFVFOFBzZUR2WjZWRQ?oc=5",
+      "source": "statnews.com",
+      "pub_date": "Mon, 21 Apr 2025 15:03:43 GMT",
       "tag": "headline"
     }
   ],
-  "last_updated": "2025-04-23 03:30:52 IST"
+  "last_updated": "2025-04-23 04:30:50 IST"
 }
