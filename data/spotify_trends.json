@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/2TnmSSPkcPdHYYw2Lu84C1",
       "album": "Aayi Nai (From \"Stree 2\")",
       "duration": 178,
-      "popularity": 63,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -667,7 +667,7 @@
       "url": "https://open.spotify.com/track/2TbCdbFzs2xO2nzasn0Qvw",
       "album": "Don't Be Shy Again (From \"Bala\")",
       "duration": 164,
-      "popularity": 55,
+      "popularity": 56,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-23 14:30:41 IST"
+  "last_updated": "2025-04-23 15:30:41 IST"
 }
