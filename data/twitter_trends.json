@@ -2,473 +2,403 @@
   "trends": [
     {
       "rank": 1,
-      "name": "#PahalgamTerroristAttack",
-      "url": "https://twitter.com/search?q=%23PahalgamTerroristAttack",
-      "volume": "386.0k+",
+      "name": "#PahalgamTerrorAttack",
+      "url": "https://twitter.com/search?q=%23PahalgamTerrorAttack",
+      "volume": "114.0k+",
       "tag": "trending"
     },
     {
       "rank": 2,
-      "name": "#WednesdayWisdom",
-      "url": "https://twitter.com/search?q=%23WednesdayWisdom",
-      "volume": "17.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 3,
-      "name": "#UnderThreat",
-      "url": "https://twitter.com/search?q=%23UnderThreat",
-      "volume": "22.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 4,
-      "name": "Spiritual Heritage",
-      "url": "https://twitter.com/search?q=Spiritual Heritage",
-      "volume": "85.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 5,
       "name": "#WorldBookDay",
       "url": "https://twitter.com/search?q=%23WorldBookDay",
       "volume": "-",
       "tag": "trending"
     },
     {
+      "rank": 3,
+      "name": "#WednesdayWisdom",
+      "url": "https://twitter.com/search?q=%23WednesdayWisdom",
+      "volume": "20.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 4,
+      "name": "Pakistan",
+      "url": "https://twitter.com/search?q=Pakistan",
+      "volume": "384.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 5,
+      "name": "Hindus",
+      "url": "https://twitter.com/search?q=Hindus",
+      "volume": "449.0k+",
+      "tag": "trending"
+    },
+    {
       "rank": 6,
-      "name": "Ahmedabad Ashram",
-      "url": "https://twitter.com/search?q=Ahmedabad Ashram",
-      "volume": "24.0k+",
+      "name": "#UnderThreat",
+      "url": "https://twitter.com/search?q=%23UnderThreat",
+      "volume": "31.0k+",
       "tag": "trending"
     },
     {
       "rank": 7,
-      "name": "Pakistan",
-      "url": "https://twitter.com/search?q=Pakistan",
-      "volume": "346.0k+",
+      "name": "Spiritual Heritage",
+      "url": "https://twitter.com/search?q=Spiritual Heritage",
+      "volume": "94.0k+",
       "tag": "trending"
     },
     {
       "rank": 8,
-      "name": "Saint Dr MSG Insan",
-      "url": "https://twitter.com/search?q=Saint Dr MSG Insan",
-      "volume": "21.0k+",
+      "name": "Ahmedabad Ashram",
+      "url": "https://twitter.com/search?q=Ahmedabad Ashram",
+      "volume": "33.0k+",
       "tag": "trending"
     },
     {
       "rank": 9,
-      "name": "Dharam",
-      "url": "https://twitter.com/search?q=Dharam",
+      "name": "Shia",
+      "url": "https://twitter.com/search?q=Shia",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 10,
-      "name": "Israel",
-      "url": "https://twitter.com/search?q=Israel",
-      "volume": "641.0k+",
+      "name": "Intelligence",
+      "url": "https://twitter.com/search?q=Intelligence",
+      "volume": "146.0k+",
       "tag": "trending"
     },
     {
       "rank": 11,
-      "name": "Security",
-      "url": "https://twitter.com/search?q=Security",
-      "volume": "349.0k+",
+      "name": "Indian Muslims",
+      "url": "https://twitter.com/search?q=Indian Muslims",
+      "volume": "32.0k+",
       "tag": "trending"
     },
     {
       "rank": 12,
-      "name": "Pulwama",
-      "url": "https://twitter.com/search?q=Pulwama",
-      "volume": "41.0k+",
+      "name": "Dharm",
+      "url": "https://twitter.com/search?q=Dharm",
+      "volume": "26.0k+",
       "tag": "trending"
     },
     {
       "rank": 13,
-      "name": "Chup",
-      "url": "https://twitter.com/search?q=Chup",
-      "volume": "12.0k+",
+      "name": "Security",
+      "url": "https://twitter.com/search?q=Security",
+      "volume": "359.0k+",
       "tag": "trending"
     },
     {
       "rank": 14,
-      "name": "Never Forgive",
-      "url": "https://twitter.com/search?q=Never Forgive",
-      "volume": "19.0k+",
+      "name": "Luka",
+      "url": "https://twitter.com/search?q=Luka",
+      "volume": "86.0k+",
       "tag": "trending"
     },
     {
       "rank": 15,
       "name": "Kalma",
       "url": "https://twitter.com/search?q=Kalma",
-      "volume": "30.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 16,
-      "name": "Indian Muslims",
-      "url": "https://twitter.com/search?q=Indian Muslims",
-      "volume": "28.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 17,
-      "name": "Intelligence",
-      "url": "https://twitter.com/search?q=Intelligence",
-      "volume": "140.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 18,
-      "name": "Bsdk",
-      "url": "https://twitter.com/search?q=Bsdk",
-      "volume": "15.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 19,
-      "name": "Amit Shah",
-      "url": "https://twitter.com/search?q=Amit Shah",
-      "volume": "70.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 20,
-      "name": "Omar Abdullah",
-      "url": "https://twitter.com/search?q=Omar Abdullah",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 21,
-      "name": "Gaza",
-      "url": "https://twitter.com/search?q=Gaza",
-      "volume": "556.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 22,
-      "name": "Teri",
-      "url": "https://twitter.com/search?q=Teri",
-      "volume": "25.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 23,
-      "name": "Indian Army",
-      "url": "https://twitter.com/search?q=Indian Army",
       "volume": "33.0k+",
       "tag": "trending"
     },
     {
-      "rank": 24,
-      "name": "Arnab",
-      "url": "https://twitter.com/search?q=Arnab",
+      "rank": 16,
+      "name": "Rafah",
+      "url": "https://twitter.com/search?q=Rafah",
+      "volume": "17.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 17,
+      "name": "Israel",
+      "url": "https://twitter.com/search?q=Israel",
+      "volume": "641.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 18,
+      "name": "Gaza",
+      "url": "https://twitter.com/search?q=Gaza",
+      "volume": "549.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 19,
+      "name": "Omar Abdullah",
+      "url": "https://twitter.com/search?q=Omar Abdullah",
+      "volume": "16.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 20,
+      "name": "Bsdk",
+      "url": "https://twitter.com/search?q=Bsdk",
+      "volume": "17.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 21,
+      "name": "Srinagar",
+      "url": "https://twitter.com/search?q=Srinagar",
+      "volume": "48.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 22,
+      "name": "Saint Dr MSG Insan",
+      "url": "https://twitter.com/search?q=Saint Dr MSG Insan",
       "volume": "20.0k+",
       "tag": "trending"
     },
     {
+      "rank": 23,
+      "name": "Hindu Muslim",
+      "url": "https://twitter.com/search?q=Hindu Muslim",
+      "volume": "74.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 24,
+      "name": "Palestine",
+      "url": "https://twitter.com/search?q=Palestine",
+      "volume": "189.0k+",
+      "tag": "trending"
+    },
+    {
       "rank": 25,
-      "name": "Atankwadi",
-      "url": "https://twitter.com/search?q=Atankwadi",
-      "volume": "-",
+      "name": "Arnab",
+      "url": "https://twitter.com/search?q=Arnab",
+      "volume": "22.0k+",
       "tag": "trending"
     },
     {
       "rank": 26,
       "name": "Secularism",
       "url": "https://twitter.com/search?q=Secularism",
-      "volume": "26.0k+",
+      "volume": "34.0k+",
       "tag": "trending"
     },
     {
       "rank": 27,
-      "name": "Rawalpindi",
-      "url": "https://twitter.com/search?q=Rawalpindi",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 28,
-      "name": "J & K",
-      "url": "https://twitter.com/search?q=J & K",
-      "volume": "137.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 29,
-      "name": "Balochistan",
-      "url": "https://twitter.com/search?q=Balochistan",
+      "name": "Never Forgive",
+      "url": "https://twitter.com/search?q=Never Forgive",
       "volume": "20.0k+",
       "tag": "trending"
     },
     {
-      "rank": 30,
-      "name": "Goli",
-      "url": "https://twitter.com/search?q=Goli",
-      "volume": "23.0k+",
+      "rank": 28,
+      "name": "Accountability",
+      "url": "https://twitter.com/search?q=Accountability",
+      "volume": "70.0k+",
       "tag": "trending"
     },
     {
-      "rank": 31,
-      "name": "Hamas",
-      "url": "https://twitter.com/search?q=Hamas",
-      "volume": "150.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 32,
-      "name": "#PahalgamTerroristAttack",
-      "url": "https://twitter.com/search?q=%23PahalgamTerroristAttack",
-      "volume": "337.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 33,
-      "name": "#WednesdayWisdom",
-      "url": "https://twitter.com/search?q=%23WednesdayWisdom",
+      "rank": 29,
+      "name": "Chup",
+      "url": "https://twitter.com/search?q=Chup",
       "volume": "13.0k+",
       "tag": "trending"
     },
     {
-      "rank": 34,
-      "name": "#UnderThreat",
-      "url": "https://twitter.com/search?q=%23UnderThreat",
+      "rank": 30,
+      "name": "Agniveer",
+      "url": "https://twitter.com/search?q=Agniveer",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 35,
-      "name": "Spiritual Heritage",
-      "url": "https://twitter.com/search?q=Spiritual Heritage",
-      "volume": "72.0k+",
+      "rank": 31,
+      "name": "#PahalgamTerroristAttack",
+      "url": "https://twitter.com/search?q=%23PahalgamTerroristAttack",
+      "volume": "441.0k+",
       "tag": "trending"
     },
     {
-      "rank": 36,
-      "name": "Ahmedabad Ashram",
-      "url": "https://twitter.com/search?q=Ahmedabad Ashram",
-      "volume": "11.0k+",
+      "rank": 32,
+      "name": "#WednesdayWisdom",
+      "url": "https://twitter.com/search?q=%23WednesdayWisdom",
+      "volume": "19.0k+",
       "tag": "trending"
     },
     {
-      "rank": 37,
+      "rank": 33,
       "name": "#WorldBookDay",
       "url": "https://twitter.com/search?q=%23WorldBookDay",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 38,
+      "rank": 34,
+      "name": "Kashmir",
+      "url": "https://twitter.com/search?q=Kashmir",
+      "volume": "762.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 35,
+      "name": "#UnderThreat",
+      "url": "https://twitter.com/search?q=%23UnderThreat",
+      "volume": "29.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 36,
       "name": "Pakistan",
       "url": "https://twitter.com/search?q=Pakistan",
-      "volume": "330.0k+",
+      "volume": "365.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 37,
+      "name": "Spiritual Heritage",
+      "url": "https://twitter.com/search?q=Spiritual Heritage",
+      "volume": "91.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 38,
+      "name": "Ahmedabad Ashram",
+      "url": "https://twitter.com/search?q=Ahmedabad Ashram",
+      "volume": "30.0k+",
       "tag": "trending"
     },
     {
       "rank": 39,
-      "name": "Saint Dr MSG Insan",
-      "url": "https://twitter.com/search?q=Saint Dr MSG Insan",
-      "volume": "24.0k+",
+      "name": "Baramulla",
+      "url": "https://twitter.com/search?q=Baramulla",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 40,
-      "name": "Ajit Doval",
-      "url": "https://twitter.com/search?q=Ajit Doval",
-      "volume": "17.0k+",
+      "name": "Security",
+      "url": "https://twitter.com/search?q=Security",
+      "volume": "355.0k+",
       "tag": "trending"
     },
     {
       "rank": 41,
-      "name": "Israel",
-      "url": "https://twitter.com/search?q=Israel",
-      "volume": "639.0k+",
+      "name": "Indian Muslims",
+      "url": "https://twitter.com/search?q=Indian Muslims",
+      "volume": "30.0k+",
       "tag": "trending"
     },
     {
       "rank": 42,
-      "name": "Never Forgive",
-      "url": "https://twitter.com/search?q=Never Forgive",
-      "volume": "18.0k+",
+      "name": "Saint Dr MSG Insan",
+      "url": "https://twitter.com/search?q=Saint Dr MSG Insan",
+      "volume": "21.0k+",
       "tag": "trending"
     },
     {
       "rank": 43,
-      "name": "Security",
-      "url": "https://twitter.com/search?q=Security",
-      "volume": "345.0k+",
+      "name": "Luka",
+      "url": "https://twitter.com/search?q=Luka",
+      "volume": "79.0k+",
       "tag": "trending"
     },
     {
       "rank": 44,
-      "name": "Dharm",
-      "url": "https://twitter.com/search?q=Dharm",
-      "volume": "19.0k+",
+      "name": "Shia",
+      "url": "https://twitter.com/search?q=Shia",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 45,
-      "name": "Pulwama",
-      "url": "https://twitter.com/search?q=Pulwama",
-      "volume": "37.0k+",
+      "name": "Intelligence",
+      "url": "https://twitter.com/search?q=Intelligence",
+      "volume": "143.0k+",
       "tag": "trending"
     },
     {
       "rank": 46,
-      "name": "Gaza",
-      "url": "https://twitter.com/search?q=Gaza",
-      "volume": "559.0k+",
+      "name": "Israel",
+      "url": "https://twitter.com/search?q=Israel",
+      "volume": "641.0k+",
       "tag": "trending"
     },
     {
       "rank": 47,
-      "name": "Chup",
-      "url": "https://twitter.com/search?q=Chup",
-      "volume": "12.0k+",
+      "name": "Kalma",
+      "url": "https://twitter.com/search?q=Kalma",
+      "volume": "31.0k+",
       "tag": "trending"
     },
     {
       "rank": 48,
-      "name": "Intelligence",
-      "url": "https://twitter.com/search?q=Intelligence",
-      "volume": "138.0k+",
+      "name": "Dharam",
+      "url": "https://twitter.com/search?q=Dharam",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 49,
-      "name": "Indian Muslims",
-      "url": "https://twitter.com/search?q=Indian Muslims",
-      "volume": "25.0k+",
+      "name": "Palestine",
+      "url": "https://twitter.com/search?q=Palestine",
+      "volume": "190.0k+",
       "tag": "trending"
     },
     {
       "rank": 50,
       "name": "Omar Abdullah",
       "url": "https://twitter.com/search?q=Omar Abdullah",
-      "volume": "12.0k+",
+      "volume": "15.0k+",
       "tag": "trending"
     },
     {
       "rank": 51,
-      "name": "Pedri",
-      "url": "https://twitter.com/search?q=Pedri",
-      "volume": "116.0k+",
+      "name": "Gaza",
+      "url": "https://twitter.com/search?q=Gaza",
+      "volume": "553.0k+",
       "tag": "trending"
     },
     {
       "rank": 52,
-      "name": "Kalma",
-      "url": "https://twitter.com/search?q=Kalma",
-      "volume": "29.0k+",
+      "name": "Bsdk",
+      "url": "https://twitter.com/search?q=Bsdk",
+      "volume": "16.0k+",
       "tag": "trending"
     },
     {
       "rank": 53,
-      "name": "Bsdk",
-      "url": "https://twitter.com/search?q=Bsdk",
-      "volume": "14.0k+",
+      "name": "Chup",
+      "url": "https://twitter.com/search?q=Chup",
+      "volume": "13.0k+",
       "tag": "trending"
     },
     {
       "rank": 54,
-      "name": "Teri",
-      "url": "https://twitter.com/search?q=Teri",
-      "volume": "24.0k+",
+      "name": "Atankwadi",
+      "url": "https://twitter.com/search?q=Atankwadi",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 55,
-      "name": "Rawalpindi",
-      "url": "https://twitter.com/search?q=Rawalpindi",
+      "name": "Agniveer",
+      "url": "https://twitter.com/search?q=Agniveer",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 56,
-      "name": "Hamas",
-      "url": "https://twitter.com/search?q=Hamas",
-      "volume": "149.0k+",
+      "name": "J & K",
+      "url": "https://twitter.com/search?q=J & K",
+      "volume": "146.0k+",
       "tag": "trending"
     },
     {
       "rank": 57,
-      "name": "Balochistan",
-      "url": "https://twitter.com/search?q=Balochistan",
-      "volume": "19.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 58,
-      "name": "Amit Shah",
-      "url": "https://twitter.com/search?q=Amit Shah",
-      "volume": "66.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 59,
-      "name": "Asim Munir",
-      "url": "https://twitter.com/search?q=Asim Munir",
-      "volume": "17.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 60,
-      "name": "Hindu Muslim",
-      "url": "https://twitter.com/search?q=Hindu Muslim",
-      "volume": "64.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 61,
-      "name": "Netanyahu",
-      "url": "https://twitter.com/search?q=Netanyahu",
-      "volume": "102.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 62,
-      "name": "Ghibli",
-      "url": "https://twitter.com/search?q=Ghibli",
-      "volume": "14.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 63,
-      "name": "Home Minister",
-      "url": "https://twitter.com/search?q=Home Minister",
-      "volume": "53.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 64,
-      "name": "Secularism",
-      "url": "https://twitter.com/search?q=Secularism",
-      "volume": "23.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 65,
-      "name": "Boycott",
-      "url": "https://twitter.com/search?q=Boycott",
-      "volume": "51.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 66,
-      "name": "Shameless",
-      "url": "https://twitter.com/search?q=Shameless",
-      "volume": "37.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 67,
-      "name": "Resign",
-      "url": "https://twitter.com/search?q=Resign",
-      "volume": "74.0k+",
+      "name": "Never Forgive",
+      "url": "https://twitter.com/search?q=Never Forgive",
+      "volume": "20.0k+",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-23 10:30:51 IST"
+  "last_updated": "2025-04-23 11:30:52 IST"
 }
