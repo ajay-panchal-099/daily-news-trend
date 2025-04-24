@@ -2,22 +2,6 @@
   "trends": [
     {
       "rank": 1,
-      "title": "Markets Fade as China Calls Reports of U.S. Tariff Talks \u2018Baseless\u2019 - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mN1pXakdVVzZPME9tX2hNZVR4T3Y3eHphbWtyTC1aWXBTaWlpYnl4eXFjLTlLRXM4eWFjQnVRemVLakRlemRSQThQRFUyNE15NExwWUNuVzFaZEFzZEVxWmpVUVVCQlJ4WUhRbHNCamlpcXJOREV6bA?oc=5",
-      "source": "The New York Times",
-      "pub_date": "Thu, 24 Apr 2025 09:03:52 GMT",
-      "tag": "headline"
-    },
-    {
-      "rank": 2,
-      "title": "Trump signs executive actions on education, including efforts to rein in DEI - NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONzllVFNlSzFzekozU2pZQUY4Nm1lcWFvQ3dSUHJIRE1EV0hGY1lrZG9fcnBXRVpkTEtRdjliUUV4R2V5NTlZOTBnbzNXV3NZamw4c1dteGhZdkY0UHVFUVZvcU9uLVMwaWZFUFd3S0hWMWl4OU4tZ3VLR252bW1mUUJtLWEzbVJfaE84Qw?oc=5",
-      "source": "NPR",
-      "pub_date": "Thu, 24 Apr 2025 02:32:10 GMT",
-      "tag": "headline"
-    },
-    {
-      "rank": 3,
       "title": "Kyiv hit by deadly Russian missile and drone attack - officials - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ocS1lYUFmbGsxbHRRM3Y4RHBmYjlXSzhSZjM1czFVQVEzb0RmNFJBTkhYRWVpOHgzSVlsN0xjcHBBd2U3bkFMZ0ducldlTllpSVdkMjVOYnRtUdIBX0FVX3lxTE9uQUxHdXB3dW9VZVBCaG93RkRKcmsycDQ1VEEtZi1fR3BPQ1JnYWhiTmxCbTZNeGNNWl9kbExIcFZjZjNhQkJQZEstSmtlUlg0UG9xZzFfVExXRzZ2TzJ3?oc=5",
       "source": "BBC",
@@ -25,39 +9,63 @@
       "tag": "headline"
     },
     {
+      "rank": 2,
+      "title": "China tells US to \u2018cancel all unilateral tariffs\u2019 if it wants talks - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ua09HaVRnakFGUzIyYjhKbFdTTFNvWnZiWk9yVHNfbGgwdUxLUnNDTWE2UkUzVlU0U2tFYmxaMWY3M1dkSFZpaW5zLXZ6ME5ETXA4X2hUOG9mcGI5V0VfVHQzLThrSHhpeWMxeEJ6Mm4?oc=5",
+      "source": "Financial Times",
+      "pub_date": "Thu, 24 Apr 2025 11:20:04 GMT",
+      "tag": "headline"
+    },
+    {
+      "rank": 3,
+      "title": "Trump signs executive actions on education, including efforts to rein in DEI - NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONzllVFNlSzFzekozU2pZQUY4Nm1lcWFvQ3dSUHJIRE1EV0hGY1lrZG9fcnBXRVpkTEtRdjliUUV4R2V5NTlZOTBnbzNXV3NZamw4c1dteGhZdkY0UHVFUVZvcU9uLVMwaWZFUFd3S0hWMWl4OU4tZ3VLR252bW1mUUJtLWEzbVJfaE84Qw?oc=5",
+      "source": "NPR",
+      "pub_date": "Thu, 24 Apr 2025 02:32:10 GMT",
+      "tag": "headline"
+    },
+    {
       "rank": 4,
-      "title": "Officials: Ocean County wildfire consumes more than 13,200 acres, is 50% contained - News 12",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnhHYXVFdkJMWFRVQkhoZV95U1ZVRzdXMnJLczMzWlN2LVJOakk5cU5aVmx4X3hjY1BfMUtXVEIzMEg1X21xMGZGVWxSajVOZGVDX2dUVzZQX1FiVFdVUnVkRnlYbWFrZzktMkhSTU84NTZVUDN1M3A1YXhLbzhYYm9UbVRhLW1hNVFpdGtlMGsyWEFpeWZ1dFcwMWZlR2tYTEFOX2hFbE5nelk?oc=5",
-      "source": "News 12",
-      "pub_date": "Thu, 24 Apr 2025 02:03:45 GMT",
+      "title": "A tourist massacre in Kashmir is escalating tensions between India and Pakistan. Here\u2019s what we know - CNN",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2VicTZua1lHNlN5SDZNSlV1ajJFZXV0dHk3ZEkxTVRrbkNmaGVreXIxdmxWZzg5bE1lVjJVaFp2R05JY0Z3VFQ0RWc4LVN5UWtibzhpUmNrOGRiaWxfMlJLN3ROVzNkN0tRYmFSVFZOZGNndUVRcE9SQXRJc1ZRVkFJT2taZEJuX1lJalpnZXpxQ2F5WkZUT3BiUS1oZ9IBlAFBVV95cUxQbmFLTGczcnh5eDQ0aTUzZTZpY3ZQUWVBWUZHTzlNYUF0X3FaZ3RPVm9Mc25FY0xFVUtUR1B1MG1pOWEtMFpueXp4T3BHYU9jbTZxV3paTHJ5UW55dmdJcFFWVnJzVGNPR0lndnl3bXludDFzZWJPczRDV21EVVBYRlpkWnJ2TVBMcGF6bXFrSUtzQnBN?oc=5",
+      "source": "CNN",
+      "pub_date": "Thu, 24 Apr 2025 08:43:00 GMT",
       "tag": "headline"
     },
     {
       "rank": 5,
-      "title": "Trump administration granted leeway in case of mistakenly deported man - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmFsaHBmdWtuWTZLLUJXYVJLbU1YcGRXUTVkUndZeUpSWnRYeE92Ui1EMFhXelo2ZVFMNVJGZzJ0U1FTZE9CU1p5LU5fTG1LUEJKNWJieVRtbm94dzhCbXZ3WnNjVGE4M1VTUzZQYWlhSHpnd2JXdmVOc0lNWkxFV0hkY25sTU4xVWtSbkQ1Uk0zR0xtMjJoRy1iSzhQc2VtZnNGQ195Y2cyT3BMdklYbkNkTkwzOGtQcVRn?oc=5",
-      "source": "The Washington Post",
-      "pub_date": "Thu, 24 Apr 2025 05:04:00 GMT",
+      "title": "Senate Dems brace for leadership fight after Durbin retirement - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTlNJVFcwWWlCYmtWbTJfd0lMWlJpUjNVSzNCTjBEdUx5eXluYVFGai1MMXBUU2ViZUJSQXMzRmZCUHZvUldfMTcycExNMnJrX3MzSGR4QVpTbmEyTC1IT2VMbEM1aU8zTEJwUTdqXzcyaWFicTJNVGV4NkpTVk1ZQUZqTXc?oc=5",
+      "source": "Axios",
+      "pub_date": "Thu, 24 Apr 2025 08:30:24 GMT",
       "tag": "headline"
     },
     {
       "rank": 6,
-      "title": "How Sam Alito Inadvertently Revealed His Own Homophobia From the Bench - Slate",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXBUMmZhUnMxQzhhcHZtVGZRR3I3eDE0V21QYThKa1VlYVBZNHM3YVZOYS1RZHRnNXNvUFU1bVBrMTljZmdBN0RxTWVZVTYwWlpfOHM4RmJ3RWN6b0VPNHJ2OUJyYnpLTDdBRlZGZlNIQUJkYTkwZVk5Y2ZMRS0xeFBtOU9KY0N5cE1fM0Jmbi15dVJMdDdZ?oc=5",
-      "source": "Slate",
-      "pub_date": "Wed, 23 Apr 2025 21:43:00 GMT",
+      "title": "Officials: Ocean County wildfire consumes more than 13,200 acres, is 50% contained - News 12 - New Jersey",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnhHYXVFdkJMWFRVQkhoZV95U1ZVRzdXMnJLczMzWlN2LVJOakk5cU5aVmx4X3hjY1BfMUtXVEIzMEg1X21xMGZGVWxSajVOZGVDX2dUVzZQX1FiVFdVUnVkRnlYbWFrZzktMkhSTU84NTZVUDN1M3A1YXhLbzhYYm9UbVRhLW1hNVFpdGtlMGsyWEFpeWZ1dFcwMWZlR2tYTEFOX2hFbE5nelk?oc=5",
+      "source": "News 12 - New Jersey",
+      "pub_date": "Thu, 24 Apr 2025 02:03:45 GMT",
       "tag": "headline"
     },
     {
       "rank": 7,
-      "title": "Russia and Ukraine trade blame over faltering peace moves - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeURzRWkzRVhtdURSQ2N4N0VOS1AxeE54ZHF5RWhHc1Voc1hacGN4QmNIcUpqRzFaMGdmTlBYYVJEZnR4LVFnRWNZS0ZTY3RVcU9HTkJPRHl1VE5DSW1obWdRN3JmR2VHU2JSTHRlSW8yMjNxbDBSS1NmQVZJc2VGdVh1TERkVlFXOFlzRUgxQVBYSE02bVE4V3JROGc0TVE?oc=5",
-      "source": "Reuters",
-      "pub_date": "Thu, 24 Apr 2025 11:11:00 GMT",
+      "title": "DOJ's new take on civil rights and students meet in secret to stage a protest at Columbia: Morning Rundown - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSXN1SlRsOE9BYXJGTmYyTmpiWjY4cXlLVXMzRHZmMXlFOERxX3U0T1ZpZlRZWU1LVE15VDd2bFd2Z2RWTzJjMnpReDA1RXgwMlZpYi1vTHhXN3VZaEJHcXpCd29VMTVtRE1hV1NnMjgxOEZiMzVYUmxfM3h2QnFQWGlJYlBHRVBwWHY1Si1nZmw3WUZzUkVwT0xhbXRjWFo3UTZhMGF3X24wdGNLX0tjS05kWC1nRTVOblHSAVZBVV95cUxQVklPRmgyd3NuWGw4c3Z1dkRKd1RNWTJuRVh6c29oXzI2ZjJBdldKM0RaSUEzSjB4TEdxTzJOVjVKUHdVMFlaUktNRHgzeFVMMmtZWFNMZw?oc=5",
+      "source": "NBC News",
+      "pub_date": "Thu, 24 Apr 2025 11:12:45 GMT",
       "tag": "headline"
     },
     {
       "rank": 8,
+      "title": "Ukraine's Zelenskiy notes 'emotions' in talks, alludes to dispute with U.S. over Crimea - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX1l0NU8wYXFPTDFhU0pfU1ZsTXFDZU53TWhCa0RLMmkzV3RjaVdrZkhSaFBhRGlfUDBlRC0yMkVLMzIzZTFLZTdqampZa2FDU3k0YUZjaWhTbDZRU1cxWThuLXRtTWNnZndDQkJDSllJbnlKTUduMWVsd2stN3FIVllxT2VQSjZTWmhkNzZfWVNBYm9jY0VWYXA3WEI2QVBPNmdteVlEWVIwOHZJVEVGaGlXNTFrQTZSRk9HZ2x2YUU3QQ?oc=5",
+      "source": "Reuters",
+      "pub_date": "Wed, 23 Apr 2025 21:09:44 GMT",
+      "tag": "headline"
+    },
+    {
+      "rank": 9,
       "title": "What to know about the Trump administration task force targeting Harvard - CNN",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM1VjVU85NnNSNmRKb0pSZDRHWTBOTVNsaDBNWWdDZ2dZR0EtSlpLQUZCNkRPYXVLcFZOLTN2ZE52Mk9maGZLQ05oSVZ1ZGNTck8zczN3dGdVWmtHdUt2U3NRYXlTOUtfYnk2cjFLdzF2cWR3LVpaWld0eEtIS3hKZmViY1JOaDRwSjRRUjlWTXhmd9IBiAFBVV95cUxOQ3A2b04xZWMxTTl3RDBuSTU1ZDNoeFBQaUxOQVRrMldBSl9Qd1lRUWxBVWticllxXzJxMjVnR3JOV0w0VXpRX3Q4bUpUaWt0SEdVX0ZvdGFpQTlRbVd4UUNmMmFlZGZoMGxQcXhpX3h0Z1o5Q1RBMXJIc0g5S2pvZXNxZFQzZmsw?oc=5",
       "source": "CNN",
@@ -65,19 +73,11 @@
       "tag": "headline"
     },
     {
-      "rank": 9,
-      "title": "New York leads 12 states suing to block Trump's tariffs - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BYXE5TWFPak1KTmU4OThhWlR3TEZkVzFRalFMa2t3X2hsX3ZyV0pQQ3kweWdqR3U5cGdhQzJnY3JLbEg1QXNNeDI5a083aDdoUWxQZFhuU2xJZw?oc=5",
-      "source": "BBC",
-      "pub_date": "Thu, 24 Apr 2025 00:59:57 GMT",
-      "tag": "headline"
-    },
-    {
       "rank": 10,
-      "title": "Trump crashes the home stretch of Canada\u2019s election - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORWtCbGNvanN5R0ptZllORW5fNXlBSnpIb1RWNXJaZWtBaS1rMnJhQ2toMTlDMEVsR2tUc1ZENmU4Tk1VbHdUSDVsTmp4a0pPMm4yZ0ZxRFN2OWc3aGpWeGlQSE5WeFBoQm1OTDl3ak10RElpMHdhdnM5aHdkeGlhNmZvekJHZw?oc=5",
-      "source": "Politico",
-      "pub_date": "Thu, 24 Apr 2025 11:08:33 GMT",
+      "title": "Hegseth Set Up Signal on a Computer in His Pentagon Office - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXhQWTJ1dGZBM21oNVQwSHo2QkU5dV96OHcwQjB5NFI5ODhyQVpBOFg1N1pmM3JOOURxeTdCRXAxV1E2WjVReTF6QnVwUGFPRS16eFlpLVdfUnhOUTEtRGh3WmRPTk4zZUMtQ3A5MDdTS082cWdzcVpySDF1a2YtSg?oc=5",
+      "source": "The New York Times",
+      "pub_date": "Thu, 24 Apr 2025 08:09:05 GMT",
       "tag": "headline"
     },
     {
@@ -90,26 +90,26 @@
     },
     {
       "rank": 12,
-      "title": "A tourist massacre in Kashmir is escalating tensions between India and Pakistan. Here\u2019s what we know - CNN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2VicTZua1lHNlN5SDZNSlV1ajJFZXV0dHk3ZEkxTVRrbkNmaGVreXIxdmxWZzg5bE1lVjJVaFp2R05JY0Z3VFQ0RWc4LVN5UWtibzhpUmNrOGRiaWxfMlJLN3ROVzNkN0tRYmFSVFZOZGNndUVRcE9SQXRJc1ZRVkFJT2taZEJuX1lJalpnZXpxQ2F5WkZUT3BiUS1oZ9IBlAFBVV95cUxQbmFLTGczcnh5eDQ0aTUzZTZpY3ZQUWVBWUZHTzlNYUF0X3FaZ3RPVm9Mc25FY0xFVUtUR1B1MG1pOWEtMFpueXp4T3BHYU9jbTZxV3paTHJ5UW55dmdJcFFWVnJzVGNPR0lndnl3bXludDFzZWJPczRDV21EVVBYRlpkWnJ2TVBMcGF6bXFrSUtzQnBN?oc=5",
-      "source": "CNN",
-      "pub_date": "Thu, 24 Apr 2025 08:43:00 GMT",
+      "title": "Trump changes tone over tariffs on China. And, new executive actions target education - NPR",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb1ZsSlJ5VDNTY2prb2dIbWlzVmJsLXZ6VnJ2WWVhNlFhM1k4LWRLSjJHVUpTcXQzSHU0RThLalM4ZjR5b2UtRGpfelpuTEhfOEhoMUVXTUczcTdsM3Rwd3VpWXpUU1ZJT1BIZjk0bnEwME1CM3dUalFMVjQ1RXIzbk9BYkNXcU9LTFlWb2ZrZlNpSlo5TkdDclRHTThueVU5d1hpdU1jejhrdGpXU3ViVGt4OUh2dThiLVp2QVFpdFVJMHB1N1Jz?oc=5",
+      "source": "NPR",
+      "pub_date": "Thu, 24 Apr 2025 10:59:45 GMT",
       "tag": "headline"
     },
     {
       "rank": 13,
-      "title": "Ex-President Moon of South Korea Is Indicted on Bribery Charge - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ19fbDJ3cGNsNVl3WDB1eUZmemRtOHUwOUNYdGhUcGt2NUtEZklXcjRRNGxzaXZFMjhibVNwWks3aGw4Q25KMjFOSTY2MmRCcHRwMkxGZ2xQbk83d0hWQWtCYlhMVi10NVN2MGJnNFhuajdzS3JnVjNmMF84c2prWDN3?oc=5",
-      "source": "The New York Times",
-      "pub_date": "Thu, 24 Apr 2025 05:21:27 GMT",
+      "title": "South Korea\u2019s ex-President Moon Jae-in indicted for bribery - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcU96bExNTWFPTXdwYXZoUlJMOWtKNWdMVDFQRXlDMXNNUUNFWE40RDN3dGFGWlJHZGQ1OVNFd3c1NnFhZVF4a09UUFBuVkFpbDhSS2dROTBXZUREUlo4SzVrVkwyZkVmcDdzMTVPUWw1VHgyVG5YWHpvNlB0b3NxMUVnU1REWXJsazBOQ01CUFd1UjFvOEhXdFFMNVcxaUxB0gGmAUFVX3lxTE9qaXRuTVJFSWk2Y05Xcy1Db1NkTHRiR2h4a21MQ1UxQWFhSEtwQnowbDdIRE5HclJwcDlUX0J5NkVySXpYTDJyR0lucVJOeTZWclhuTXVmUHVqSjRYdGNwV3d3Mnh2bjFBeUJuMGdYYlFBaDlFTG9GNUJ2VGR0Yk4xX3QwOW02UmV1ZUN4cnVfTU41YS1wT2IwRWR1SmlIYzlDY3QzclE?oc=5",
+      "source": "Al Jazeera",
+      "pub_date": "Thu, 24 Apr 2025 03:56:14 GMT",
       "tag": "headline"
     },
     {
       "rank": 14,
-      "title": "Israeli strike kills 23 in Gaza; IDF, Shin Bet: struck a Hamas, Islamic Jihad target - Haaretz",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZGZucS12bU8xejB4b21oZ0I4TUh3RFFtb1RCNFkyUlIwRVFfNUpxbTZNU05nc0R5SVU3SVZ2QUJESHd6b0gtbXFvdjMxRGxKUVNXS1pERjlSczJYVE83T2MwT2VIZjRXWHkyWkMxSlFOX2F1MkhCd3dFYnNmMUZBREpuQ3R3YnQzMlFnTFlocUxQR3FmVHJpbFMtS1ZwXzZMRjVSX24wUUFGbnlUanZQYnhUTjhyMTFndXFXT2lwYnFIS2JfRk80d0phb2VKb3lPMjJxTjZrOHhUd3FBbldSS1FpUEhtdVdqOThZcHF4eDJWOFVDUWhvTmptVHZiOTQ?oc=5",
-      "source": "Haaretz",
-      "pub_date": "Wed, 23 Apr 2025 18:32:17 GMT",
+      "title": "Pahalgam terror attack: CM Omar hails ponywallah who died trying to save tourists - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3IxM3NWZ1Y0T1BZV3dlc3BYRFFIQ0ltdG5sVzFJS1hZZUtka2N2bzBSTzEzbm9JcnB2U3Q5Q2Nldzh3Z0pJeUJtRjJYbDVSRk04ZXJrdzBjRmN5VHMzWE1STnRwZnpxRG1FOFdoRnVtTXJfX2V1V3I1N1drNEZuM2lScjduSThjMzU0djdWOVdpQVdDMG9XTk5YS215NjBXN0JkSC1USnByU3RvLVA2N0tSeWpqaDlNQ0hZ0gG_AUFVX3lxTFBkNnM3LWFlOUlNc0RMc1hSVFhaZW1FYXFvQ0xwcHJqNGlYVFNEUE9Yd2licklCRFpUN0tmTmZ3bnVsYWl5UUdwMGFlOVNRZjJlcnlYaVV5eVBSRWVzeTh0OUVUbWFWZmxPdWFvUkRpczNDV2ZCWndiUHNXQ0IxOEtZVHhwaHc5c2xLRGRLVzc2MnJOQkVqSElyNkhvazgyQTk2UU5MM0otc2JFUU5BLXFEdG1NcWVqV1hUa3REbGtF?oc=5",
+      "source": "The Tribune",
+      "pub_date": "Wed, 23 Apr 2025 13:25:33 GMT",
       "tag": "headline"
     },
     {
@@ -122,18 +122,18 @@
     },
     {
       "rank": 16,
-      "title": "Stock futures slip after China says trade talks haven't even started: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85RXZYNUloeEdybWdJTTBERzctVEpfeFZScmhZcmNNRURYaDFZdUhneUY1MGJ2Wjg1LWg3OFZHNFJLbDZqQ3dpUlJteDdWOUZGS2kxODJDSzQ5cVVBOVJPTFVrTUdqYlk1X3FuZzdSM0U0NnZMb0Fj0gF8QVVfeXFMTmRSa09nRGI1VmkyQmZGODZDbFBvaWIwZjQ5WGFJTW02b1czbUh3Wk5KQVVraTBTVVVoYVloODNDLXhmQ05zdjFrLXJWRXZ4YnloSHIwdVV1enJTdFNsejQzdmREbkFQajl5UTB3RnNhMnZPMmR6NU5PSmZrMw?oc=5",
-      "source": "CNBC",
-      "pub_date": "Thu, 24 Apr 2025 11:53:00 GMT",
-      "tag": "headline"
-    },
-    {
-      "rank": 17,
       "title": "PepsiCo cuts earnings forecast as it predicts 'uncertainty' in tariffs, consumer spending - CNBC",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GSTVMd2ZjRDRmTUl4c2lDclVnRk1OQVVKMVF5WU5zazhweDI5WHNiY0lQM29NYnFFZEV5UnVBeTJOSG1EVmlsd0o4aWxka2ZfTktnUmhZdnROWlp2UXBaY2EwM0Z0ZUpMekFuVFU1a2RYc0XSAXhBVV95cUxPSUJmbktzWlV0Y2ZuZUVGZ0ZmZUE0YTAwNTR3b2xzS01DS29VcHVtY2RocTdvUUl4WnZrS2VQU2VwNzdDMEtWU25Tb1lJM3BUYVRiZWFfa0Q4U3RTMmdscWFWdmx4Zks4UmJUaXo1OVZCNjBTVnVUcUQ?oc=5",
       "source": "CNBC",
       "pub_date": "Thu, 24 Apr 2025 10:15:18 GMT",
+      "tag": "headline"
+    },
+    {
+      "rank": 17,
+      "title": "Trump\u2019s Tariffs Expected to Grind Germany\u2019s Economy to a Halt - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmZkOHFjWnZ5Y29XTVpVSnZRSnVHOEg1NVNMRXF2OUdKejg4a2FyazFOZGozSWJOUEFBYWdRVUh3THpVMjdQR2dXbG1kWjB3WVZXN1RlWi00MWFjNktTLWFtWDlTVHJFbURTb0dPMDNyc1RtVnROLTVzTkVCWVV4VlJRYw?oc=5",
+      "source": "The New York Times",
+      "pub_date": "Thu, 24 Apr 2025 11:59:50 GMT",
       "tag": "headline"
     },
     {
@@ -154,9 +154,9 @@
     },
     {
       "rank": 20,
-      "title": "Adobe adds more image generators to its growing AI family - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjVseWNZUDhvWnBPSjU0MTFlenQ2V1NtbGYtbmVQMlNSeHF3TjY5bVhwODdTZ2Y2U2pLREk3OF9BVVIycXZwZjk1a1Z6Z2RiRGNvNkJ4ZDBpVGtnUUt3eDFnMWZ4NS02SXktM1p4Q0t4bkNmLUEzUUdiLTAySUh4UnlfNjZQQlE?oc=5",
-      "source": "The Verge",
+      "title": "Adobe releases new Firefly image generation models and a redesigned Firefly web app - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1lxTVYydlBKNjdmcFZlcHJNR1lNeUU4eDdmeklxZFpOSW1land1dlFjQWt2S2VHUXZiT29vT0ZnLXoxNVF6TWx6b09yM2lWVUg4WkI2TUl6NVkyT1VSNGVFQk9ud0F2MDdONjkzSEZyQlFKeXhHdXlZcUE2VmFsR1liTG5sT3R3MEdyTlJjU1pqeHExWW1qU0k1UmxIMzVjMXpNV0FONUNCRWtSLXYxbi04OW9hMWpZNFE?oc=5",
+      "source": "TechCrunch",
       "pub_date": "Thu, 24 Apr 2025 09:00:00 GMT",
       "tag": "headline"
     },
@@ -170,42 +170,42 @@
     },
     {
       "rank": 22,
-      "title": "iPhone 17 Air barely thicker than side buttons in latest design leak - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzV1UnVwbWR5Z3FLM1ZGWnkxQkROLUlMUlpLVFdWY3EyQlkwUHRmd0ZzN3pxT1NucG5BVnRiSWNFd2xrLUczakpkMEVKZUFGSHRERzZWODYzOVlheEZxT0diN1hWUTJPLXBaMWl3YTAxcENpUVdRVnV0U0tHV0NRb0xiS3lLNXJVMThJelN2TzVKazgtaFVweFAzc2loVWlwVHc?oc=5",
-      "source": "9to5Mac",
-      "pub_date": "Thu, 24 Apr 2025 07:52:00 GMT",
+      "title": "Review: Ryzen AI CPU makes this the fastest the Framework Laptop 13 has ever been - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHNQQ21jWFg2bUt1ZzdFdWk0TEVnRXRuZ0Vfd2s0SDlpMHdTb09zaXdaeExvZ0UxbEw1ZzlLTDczLTlGZ3VPQl9RQjBNY1pabWZkVjF6NlEwRjFqRHNzU3BMeFhiNE5VQkN3ZXd3OHR1NXFWSm5aSjZhWmMxeWUwXzVfUnVENE1QV2hmRmdQVEFPQm1CYmVPZGczc1hQdWotdWFlR3R1WEp0aVRSNElJT3FPRDBXaS1xbG1uSjR3?oc=5",
+      "source": "Ars Technica",
+      "pub_date": "Thu, 24 Apr 2025 10:30:40 GMT",
       "tag": "headline"
     },
     {
       "rank": 23,
-      "title": "Star Wars\u2019 \u2018Andor\u2019 Season 2 Depicts the Banality of American Fascism - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVhHT0dCOGlYNnZPa1lKODBmV1dCTzFydm1SNmZHY18xQWR6SUVVR1JsaUNXdTNJTllrVUhCVkMwUVl5WlBVLVVvMTFyRUFnSHNZbzdpN3lPLVZPWDl5SVprLXpBX0dXeWdQdFB0WHpUUnRwZE5IQnZyN2FFc0hOM2dLOVdNeFkxTlV5V0E3bUtVejBjN0pQWDhn?oc=5",
-      "source": "WIRED",
-      "pub_date": "Wed, 23 Apr 2025 17:43:12 GMT",
+      "title": "Brooke Burke, 53, Stuns in Neon Green Bikini, Shows Off Toned Figure in Carefree Beach Photos - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XeUVMaFlXOWNESHRWWVo5dkdwTHQ3QUZBZUFVYzhtWTc4V2VnUjY4ZzI0Q2EydUxlaWVmZHVsQ0RtYnl1am12M05NbHBqMlk5RHBmNVRqeEt3R0loQnNnTjFBdDZISkJLbTFYZV93?oc=5",
+      "source": "AOL.com",
+      "pub_date": "Thu, 24 Apr 2025 11:09:55 GMT",
       "tag": "headline"
     },
     {
       "rank": 24,
-      "title": "Your daily horoscope: April 24, 2025 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQUJYbm93cld0dWp6YVNSNHItRXdsazFNTXc3TGxQZm1IdDhKbWVQd204VUJFN3JFUExrYTZWb21FcDRZLUNBc2sxUkczZFh5bjFEVzlVMVluRmF0TDNjaDdQTTJtdW9CVzlMT1REbVBheDFZSEFfN3BwXzlValR5aVFVYXdxcl9xNXJrN2cyWUZ5UlB1R0E?oc=5",
-      "source": "The Globe and Mail",
-      "pub_date": "Thu, 24 Apr 2025 04:01:00 GMT",
+      "title": "Jay Leno on becoming his wife's caretaker after her dementia diagnosis: 'I mean, that's really what love is' - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTFyQ3lDTlBpOC1pM2JXaUh6ZlZuVkJFWkgwMFlucWRKeFFMbFNVYlZzOU80X0VreEQyRU1VNlllNld2bV91YlI4eUwzU0FpUmhweXRHM0lxbGJLQmVZYnZIRldyOTk5NjdvRnI4TVN1RTVlR1ZXbW95UU0wZmlDbnFIVE12QldFVFlxenJoTFd3OE9tTjl6d0VSZlVXMG55ZkdjVlJQMXg5Y18zeUZPVWQ5RXNHS3pOa2U5ag?oc=5",
+      "source": "Business Insider",
+      "pub_date": "Thu, 24 Apr 2025 07:35:00 GMT",
       "tag": "headline"
     },
     {
       "rank": 25,
-      "title": "Seth Rogen Talks Real-Life Inspiration Behind \u2018The Studio\u2019s Charity Gala Episode: \u201cEgo Is A Very Powerful Thing In Hollywood\u201d - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaEZ1YS1qOGhoOFlkTlhVVlhWSHZ5eUwwMUdYSlVKV0RoSGxXUVEzTkdYUkJ5ZkRyN2tsMnBGcmt2OURQQkd6V1ZWUzE1czFIVGJJZWxFdVh3c1I1ci1fSzF6aFpxc1dTVGMwQmQ3RXlZajIzc1JJUFpzRVlfTjRNLVFYbGNpUXRDcHhZTVpnNVNyeUdzTE90Yg?oc=5",
-      "source": "Deadline",
-      "pub_date": "Wed, 23 Apr 2025 18:40:00 GMT",
+      "title": "Sunrise on the Reaping Casts Its Haymitch and Lenore - Vulture",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdE5IamptZGdSYUt4V0cycXdNZjZlVjhEWTVSTWZ6d2QyZjk0el92dmpKaVJZN244dElNS2J5TXVOUEFqOG9tX1h0aXRNZ2NiTDBNemZnYzlCdDJUM21IVElwdjlsZTVhN3Z1X1J4X2dwR1NNQWVYQjZVSzl2aDZKX1pTNlJycUQwSVYzM2RVTk1YMy0w?oc=5",
+      "source": "Vulture",
+      "pub_date": "Thu, 24 Apr 2025 01:58:03 GMT",
       "tag": "headline"
     },
     {
       "rank": 26,
-      "title": "Harvey Weinstein Attacked Polish Model Kaja Sokola, Prosecutors Say - Vulture",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHFaRGpJLWhpYzJjNk9EVmJwekpRbmYxUzN3NzNpZ3FjVk1OcDFSYjBnb18tMER2eGZEY2hvRUQ3ektMN2tISlMwWFhfVllFVk1sNzQzTmU1elo3TGdRUFlQYXAyYzExS2lkVmpoSlNJMzNKWHF0TnNWaU02OUlXTjExN1haY3k1RE9xdTJScEVpcTN6?oc=5",
-      "source": "Vulture",
-      "pub_date": "Wed, 23 Apr 2025 21:58:00 GMT",
+      "title": "Star Wars\u2019 \u2018Andor\u2019 Season 2 Depicts the Banality of American Fascism - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVhHT0dCOGlYNnZPa1lKODBmV1dCTzFydm1SNmZHY18xQWR6SUVVR1JsaUNXdTNJTllrVUhCVkMwUVl5WlBVLVVvMTFyRUFnSHNZbzdpN3lPLVZPWDl5SVprLXpBX0dXeWdQdFB0WHpUUnRwZE5IQnZyN2FFc0hOM2dLOVdNeFkxTlV5V0E3bUtVejBjN0pQWDhn?oc=5",
+      "source": "WIRED",
+      "pub_date": "Wed, 23 Apr 2025 17:43:12 GMT",
       "tag": "headline"
     },
     {
@@ -234,18 +234,18 @@
     },
     {
       "rank": 30,
-      "title": "The NFL draft's most polarizing prospect isn't scared of the spotlight - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0ZuZko4UWpIREJxN1p4NVRFclpMb201VTFzSkx2dWhnbzgtaEpjalVodk5INngtRFBIZm93RWduNzVwcldYV2NCQUJFN2p6YkI5eUFUbGljdGZxakFhN1JXZHU2V1A3WFFnM2NvaFhsRHJYY0d1V2xIZmVOclVRQW9YQXdlQzE3eno3SjVWamNydk94dDJGZzQzRktVWjTSAVZBVV95cUxOZ09Rdl81b2lZYVNTT0pjNUlGdjdBbVJsUk5KT1lzYzNuNUtaRmtNNlFLemJieEU4T2o4dGlGR1NKUjd5bjRzbkNiYUZuVWxaWjBySmlPQQ?oc=5",
-      "source": "NBC News",
-      "pub_date": "Thu, 24 Apr 2025 09:01:00 GMT",
+      "title": "What Donovan Mitchell said after his heroic fourth quarter performance in Game 2 - Cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGZaR0ZPTkloZ3NKWkxwcnYxcFRrV0xrT0VLUGx5Vm85cXR3eGZqZmRlX3RUZ2NUVlpqcW1tdWlhQXVhMFdmOGFBNTFHYkRiNnhwZjd0b0tzT3ZNa2hnTkZ1VndlMXdRX2RGb2R4OS1va29qUTI3UEo1VFU0VkkxUC1qRGpUeGp4OTZQRnFoSjlGMEJ5a2lyQ2IyY3g1MXF6OU95eTRjLVg1TnZrdUEtRjM5TWRBcm5PRXFjQ0F2azFaZ9IB1gFBVV95cUxOMU5tM0J4V2l3T0c3bkZKNkdxVGZMQkUtZ3Budk5aSnpSNnJNWGVJSkZOMWx1R24xeWhsTlJva3JBMnY2Q1EwSWh3eVp2c0lXaUowRXJpWTZuVFFxY2NtYjdUYThlVi1xeXJRN2hiS2l4VmJqTnV1dDFXMUFMUmxnRjhGTFpTMGxHeFhabVdRNWRhckZLRWptbS12cFFLU2RiUnhVbDFVLTFPVlEzVE5ybzhacVhzbU1yNFVkSngxZ24ySHMyUnA0TUhJb1NrSzdrU3FKVXpn?oc=5",
+      "source": "Cleveland.com",
+      "pub_date": "Thu, 24 Apr 2025 04:17:00 GMT",
       "tag": "headline"
     },
     {
       "rank": 31,
-      "title": "Hubble Celebrates 35 Years by Gifting Us 4 Breathtaking Cosmic Images - ScienceAlert",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3Q1dVhKWDZrajUyUHE4RnRTdnl3Z2tUTThIazNWUkdadUJpT0MyNE5objY1NHpNeDVlY3lFclZiSkVIOENNTkNzbnNWM3M4UzZpd2lPMDljUjVIWnJOOGJUV3pWanVmb2JmWnFVTTZaOE1Ob050QmdUX3BCSEYzOG1TNWNRWEtQWTZ1RVlPNnNacnNVTEVOaWU0TXp0S2c?oc=5",
-      "source": "ScienceAlert",
-      "pub_date": "Thu, 24 Apr 2025 01:16:55 GMT",
+      "title": "Happy 35th birthday, Hubble Telescope! 10 times the iconic observatory blew astronomers' minds (photos) - Space",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcnZicmZZc1ltR3BXQXhuUHJ2c1hZWUZEc3RlM05RX29tdXBEZk9DOHViRERZb1NweUtmOHRIOWt1NmtZbzRWYVB1OGwxYzU4dXFnWDVpbFEtM2N0dEdlRkNGYW9PM3NtQWI2OHN6ODNNMHBfX1puRmFoU19RWEtIQXdlSTVEd2FWMm4zQTUteUZsRXZ3Y1U3MDVUZXdSWmZrM25wN25ERWczMndDSDVkNVpFNGhiTm44WUpmUXBIOWxlN2NHMUh1U1hkX2hlZXJMUGtLX3lQSjhzUHQ1SlA3Y1Z6U1o1UkVjY3M5QlFINC0wSmM?oc=5",
+      "source": "Space",
+      "pub_date": "Thu, 24 Apr 2025 10:00:00 GMT",
       "tag": "headline"
     },
     {
@@ -261,15 +261,15 @@
       "title": "Hidden magma cap discovered at Yellowstone National Park - ABC News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHMwUk16OW5wZ3lqQnBmbkYtS0ExRkRBSFFPOHNCZ09xNDB5ZUdxWFNRTWhhbjBhTjlFR1JlWTZlYmIwbG1PSzJSQmltZ0phTER0ODV0U2JzYWZmTzZKTVlzX0pnUXA3NzFtMWxOTkUxeDZ1RkNoYVBWeGxsd3d2aG1ydDRucW83cWN5VUtMaVl3MmpiRUpqQjh3cm83TG_SAaQBQVVfeXFMTnRuN05ITnNWOUpzX3JCSEYyZ0d6V1hHUE5jWF9KVzVYY19nWllJN0hub2RCTldSTjh0ZGlpQlJXUUpmbk9oVWZxdTRwTFNqSlFhT0x4TmI3MDlyREpBX0E4RzdKMi05SFUyZnZHNktZTGpleDZid1J5RDdLek5oZHd0U3NyNmpERlZxZ2RMSkJHcFdmWEdQbkE4SjdLbUxXWHNvWTE?oc=5",
       "source": "ABC News",
-      "pub_date": "Thu, 24 Apr 2025 00:27:19 GMT",
+      "pub_date": "Thu, 24 Apr 2025 09:43:47 GMT",
       "tag": "headline"
     },
     {
       "rank": 34,
-      "title": "Fossil teeth show extinct giant kangaroos spent their lives close to home \u2013 and perished when the climate changed - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV01UNHVlUW52WlFTdGF0SnExVHY1dmxkZ1NzTUx6blM5U0VBeEV5b3BIVkN5eVVpdFBJN05FM2w4U2VJSWtnU1dybDA1X2tDWVpWel9SRURFd19ZczBXX3liclFWR0NyMlk0a29JUjhUZWxGU3JscnNXTlhhWER6cGNYSGs4UlFUa0JSV3VHUzRNUF84SzNmSXhnaUNsc0lWbWFNaVR2eXNjTE4wZElvUEYtc3E1cFNqRThBVTBPVlpQSDFRUkQ4U2Ixdmh0YUxmUXlJNDVZOFdFTnV1RFBj?oc=5",
-      "source": "The Conversation",
-      "pub_date": "Wed, 23 Apr 2025 20:08:51 GMT",
+      "title": "Giant prehistoric kangaroos preferred to \u2018chill at home\u2019 and didn\u2019t like to go out much, scientists say - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOERZTGZvcVpnWUdUbFNLRUF4enY2dnp0NEdUUkpBcVRLczh5NUhYVkllNFBTdC1LR0JabUZXaUlrREJoYUVKVzVwel9fX3BJcWJiUVk2Ym9NQm0tT1lmWGowbjI2RGlYUktWTm9kUXlPWUJDOVNoMTdweFRZSTdvdXpFT0ZwVm1oMm4zUlVFcVJmMnZmNTEzWXM4dE0zbGQxbjFiek9XM3RRZHUzeTlMUUZBWWR2SVN5VkJnVE8tOUtRLXF0MFlJQlEwWE5KYTdFSkJUSVk5aHc4OWZENUw0TGlmanhBUQ?oc=5",
+      "source": "The Guardian",
+      "pub_date": "Thu, 24 Apr 2025 11:56:00 GMT",
       "tag": "headline"
     },
     {
@@ -285,7 +285,7 @@
       "title": "Measles misinformation taking hold amid outbreak: poll - Axios",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcTczRjFib090RlotUGVSb2RCeEprNHVlcmZEZFRhdlRBbG0wZkNzcktTWXZkSW1hM205dG8zMDdaOVdVcDlDWW83RXVZMFVTUkQxeVR6UE51eDIxVnUwek9xNHBOaFR5QWlMbDZGU1RzMVV4MnBHQTdnQXlpSk1URWpSTzdpY2V2?oc=5",
       "source": "Axios",
-      "pub_date": "Thu, 24 Apr 2025 00:45:57 GMT",
+      "pub_date": "Wed, 23 Apr 2025 15:46:53 GMT",
       "tag": "headline"
     },
     {
@@ -305,5 +305,5 @@
       "tag": "headline"
     }
   ],
-  "last_updated": "2025-04-24 17:30:48 IST"
+  "last_updated": "2025-04-24 18:30:48 IST"
 }
