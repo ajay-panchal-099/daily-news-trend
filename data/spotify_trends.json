@@ -7,7 +7,7 @@
       "url": "https://open.spotify.com/track/6VWAOBFjr8N5SsGz2tTiqd",
       "album": "Kurti",
       "duration": 199,
-      "popularity": 34,
+      "popularity": 37,
       "tag": "trending"
     },
     {
@@ -167,7 +167,7 @@
       "url": "https://open.spotify.com/track/5K6Ulyna4f9AOc8cPBiS7n",
       "album": "Ik Chann 2.0",
       "duration": 166,
-      "popularity": 35,
+      "popularity": 34,
       "tag": "trending"
     },
     {
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/2ibipg9GBEZ5YKOdskobJZ",
       "album": "Laal Peeli Akhiyaan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
       "duration": 188,
-      "popularity": 67,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -647,7 +647,7 @@
       "url": "https://open.spotify.com/track/7ofWUKeNCUw1P64ArIwG9b",
       "album": "Dheeme Dheeme (From \"Pati Patni Aur Woh\")",
       "duration": 177,
-      "popularity": 56,
+      "popularity": 57,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-27 05:31:14 IST"
+  "last_updated": "2025-04-28 05:30:45 IST"
 }
