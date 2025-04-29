@@ -7,7 +7,7 @@
       "url": "https://open.spotify.com/track/6VWAOBFjr8N5SsGz2tTiqd",
       "album": "Kurti",
       "duration": 199,
-      "popularity": 37,
+      "popularity": 39,
       "tag": "trending"
     },
     {
@@ -27,7 +27,7 @@
       "url": "https://open.spotify.com/track/4OV1XWa6OSz4W4oUoRk9A7",
       "album": "FEEL THE NIGHT",
       "duration": 163,
-      "popularity": 38,
+      "popularity": 39,
       "tag": "trending"
     },
     {
@@ -167,7 +167,7 @@
       "url": "https://open.spotify.com/track/5K6Ulyna4f9AOc8cPBiS7n",
       "album": "Ik Chann 2.0",
       "duration": 166,
-      "popularity": 34,
+      "popularity": 35,
       "tag": "trending"
     },
     {
@@ -367,7 +367,7 @@
       "url": "https://open.spotify.com/track/5OcGETO7eEKjKme4gm0r7y",
       "album": "Dance Ka Bhoot (From \"Brahmastra\")",
       "duration": 245,
-      "popularity": 57,
+      "popularity": 56,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-28 05:30:45 IST"
+  "last_updated": "2025-04-29 05:30:43 IST"
 }
