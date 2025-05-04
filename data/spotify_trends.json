@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/6VWAOBFjr8N5SsGz2tTiqd",
       "album": "Kurti",
       "duration": 199,
-      "popularity": 41,
+      "popularity": 42,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/6qpv8Q6bEV3Ke0Mc6LUSPL",
       "album": "Chal Koi Na",
       "duration": 128,
-      "popularity": 5,
+      "popularity": 14,
       "tag": "trending"
     },
     {
@@ -307,7 +307,7 @@
       "url": "https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE",
       "album": "Munda Sona Hoon Main (From \"Shehzada\")",
       "duration": 229,
-      "popularity": 53,
+      "popularity": 52,
       "tag": "trending"
     },
     {
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/6EKY8rpjaBxxB0WbXJhedU",
       "album": "Chedkhaniyan (From \"Shehzada\")",
       "duration": 231,
-      "popularity": 52,
+      "popularity": 51,
       "tag": "trending"
     },
     {
@@ -507,7 +507,7 @@
       "url": "https://open.spotify.com/track/4Xba44w0LihzNJj1xgjs8J",
       "album": "De Taali (From \"Bhool Bhulaiyaa 2\")",
       "duration": 210,
-      "popularity": 47,
+      "popularity": 46,
       "tag": "trending"
     },
     {
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/5x72Q1SyiDHJ4IF2mRzfkg",
       "album": "Gali Gali (From \"Kgf Chapter 1\")",
       "duration": 174,
-      "popularity": 69,
+      "popularity": 68,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-03 05:30:45 IST"
+  "last_updated": "2025-05-04 05:30:44 IST"
 }
