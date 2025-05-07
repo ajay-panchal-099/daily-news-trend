@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/6VWAOBFjr8N5SsGz2tTiqd",
       "album": "Kurti",
       "duration": 199,
-      "popularity": 42,
+      "popularity": 43,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/6qpv8Q6bEV3Ke0Mc6LUSPL",
       "album": "Chal Koi Na",
       "duration": 128,
-      "popularity": 20,
+      "popularity": 22,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-06 05:30:50 IST"
+  "last_updated": "2025-05-07 05:30:48 IST"
 }
