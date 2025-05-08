@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/6qpv8Q6bEV3Ke0Mc6LUSPL",
       "album": "Chal Koi Na",
       "duration": 128,
-      "popularity": 22,
+      "popularity": 23,
       "tag": "trending"
     },
     {
@@ -247,7 +247,7 @@
       "url": "https://open.spotify.com/track/1t39FBb0zsKv5krZaqZKCB",
       "album": "Show Me The Thumka (From \"Tu Jhoothi Main Makkaar\")",
       "duration": 236,
-      "popularity": 63,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -687,7 +687,7 @@
       "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm",
       "album": "Aankh Marey (From \"Simmba\")",
       "duration": 212,
-      "popularity": 63,
+      "popularity": 64,
       "tag": "trending"
     },
     {
@@ -767,7 +767,7 @@
       "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8",
       "album": "Muqabla (From \"Street Dancer 3D\")",
       "duration": 176,
-      "popularity": 63,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-07 05:30:48 IST"
+  "last_updated": "2025-05-08 05:30:49 IST"
 }
