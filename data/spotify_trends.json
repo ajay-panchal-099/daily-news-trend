@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/6qpv8Q6bEV3Ke0Mc6LUSPL",
       "album": "Chal Koi Na",
       "duration": 128,
-      "popularity": 24,
+      "popularity": 25,
       "tag": "trending"
     },
     {
@@ -167,7 +167,7 @@
       "url": "https://open.spotify.com/track/5K6Ulyna4f9AOc8cPBiS7n",
       "album": "Ik Chann 2.0",
       "duration": 166,
-      "popularity": 35,
+      "popularity": 34,
       "tag": "trending"
     },
     {
@@ -307,7 +307,7 @@
       "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H",
       "album": "Pathaan",
       "duration": 208,
-      "popularity": 68,
+      "popularity": 67,
       "tag": "trending"
     },
     {
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo",
       "album": "Besharam Rang (From \"Pathaan\")",
       "duration": 258,
-      "popularity": 72,
+      "popularity": 71,
       "tag": "trending"
     },
     {
@@ -527,7 +527,7 @@
       "url": "https://open.spotify.com/track/7CY0CmCpSglfUKCBOOiRfw",
       "album": "Street Dancer 3D",
       "duration": 188,
-      "popularity": 65,
+      "popularity": 64,
       "tag": "trending"
     },
     {
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/2TbCdbFzs2xO2nzasn0Qvw",
       "album": "Don't Be Shy Again (From \"Bala\")",
       "duration": 164,
-      "popularity": 56,
+      "popularity": 55,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-09 05:30:43 IST"
+  "last_updated": "2025-05-10 05:31:04 IST"
 }
