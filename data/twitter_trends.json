@@ -2,606 +2,550 @@
   "trends": [
     {
       "rank": 1,
-      "name": "#IMFSupportsTerrorism",
-      "url": "https://twitter.com/search?q=%23IMFSupportsTerrorism",
-      "volume": "-",
+      "name": "#ceasefire",
+      "url": "https://twitter.com/search?q=%23ceasefire",
+      "volume": "606.0k+",
       "tag": "trending"
     },
     {
       "rank": 2,
-      "name": "Sirsa",
-      "url": "https://twitter.com/search?q=Sirsa",
-      "volume": "14.0k+",
+      "name": "#IndiaPakistanWar2025",
+      "url": "https://twitter.com/search?q=%23IndiaPakistanWar2025",
+      "volume": "287.0k+",
       "tag": "trending"
     },
     {
       "rank": 3,
-      "name": "#IMFLoan",
-      "url": "https://twitter.com/search?q=%23IMFLoan",
+      "name": "Trump",
+      "url": "https://twitter.com/search?q=Trump",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 4,
-      "name": "The IMF",
-      "url": "https://twitter.com/search?q=The IMF",
-      "volume": "93.0k+",
+      "name": "#IndiaPakistanConflict",
+      "url": "https://twitter.com/search?q=%23IndiaPakistanConflict",
+      "volume": "143.0k+",
       "tag": "trending"
     },
     {
       "rank": 5,
-      "name": "Noor Khan",
-      "url": "https://twitter.com/search?q=Noor Khan",
-      "volume": "24.0k+",
+      "name": "Indira Gandhi",
+      "url": "https://twitter.com/search?q=Indira Gandhi",
+      "volume": "184.0k+",
       "tag": "trending"
     },
     {
       "rank": 6,
-      "name": "#IndiaPakWar",
-      "url": "https://twitter.com/search?q=%23IndiaPakWar",
-      "volume": "74.0k+",
+      "name": "China",
+      "url": "https://twitter.com/search?q=China",
+      "volume": "601.0k+",
       "tag": "trending"
     },
     {
       "rank": 7,
-      "name": "Rawalpindi",
-      "url": "https://twitter.com/search?q=Rawalpindi",
-      "volume": "72.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 8,
-      "name": "#IndiaPakistanWar2025",
-      "url": "https://twitter.com/search?q=%23IndiaPakistanWar2025",
-      "volume": "219.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 9,
-      "name": "Ballistic",
-      "url": "https://twitter.com/search?q=Ballistic",
-      "volume": "43.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 10,
-      "name": "#karachiport",
-      "url": "https://twitter.com/search?q=%23karachiport",
-      "volume": "75.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 11,
-      "name": "INDIA STANDS TALL",
-      "url": "https://twitter.com/search?q=INDIA STANDS TALL",
-      "volume": "15.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 12,
-      "name": "Turkey",
-      "url": "https://twitter.com/search?q=Turkey",
-      "volume": "202.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 13,
-      "name": "T 5374",
-      "url": "https://twitter.com/search?q=T 5374",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 14,
-      "name": "Islamabad",
-      "url": "https://twitter.com/search?q=Islamabad",
-      "volume": "108.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 15,
-      "name": "TikTok",
-      "url": "https://twitter.com/search?q=TikTok",
-      "volume": "21.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 16,
-      "name": "Arrested",
-      "url": "https://twitter.com/search?q=Arrested",
-      "volume": "411.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 17,
-      "name": "Dhruv",
-      "url": "https://twitter.com/search?q=Dhruv",
-      "volume": "55.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 18,
-      "name": "Pinaka",
-      "url": "https://twitter.com/search?q=Pinaka",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 19,
-      "name": "Josh",
-      "url": "https://twitter.com/search?q=Josh",
-      "volume": "98.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 20,
-      "name": "DG ISPR",
-      "url": "https://twitter.com/search?q=DG ISPR",
-      "volume": "22.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 21,
-      "name": "Ferozepur",
-      "url": "https://twitter.com/search?q=Ferozepur",
-      "volume": "18.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 22,
-      "name": "Bheekh",
-      "url": "https://twitter.com/search?q=Bheekh",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 23,
-      "name": "International",
-      "url": "https://twitter.com/search?q=International",
-      "volume": "340.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 24,
-      "name": "Chandigarh",
-      "url": "https://twitter.com/search?q=Chandigarh",
-      "volume": "38.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 25,
-      "name": "Brahmos",
-      "url": "https://twitter.com/search?q=Brahmos",
-      "volume": "14.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 26,
-      "name": "Missile",
-      "url": "https://twitter.com/search?q=Missile",
-      "volume": "186.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 27,
-      "name": "NRIs",
-      "url": "https://twitter.com/search?q=NRIs",
-      "volume": "16.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 28,
-      "name": "Turkish",
-      "url": "https://twitter.com/search?q=Turkish",
-      "volume": "131.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 29,
-      "name": "Sialkot",
-      "url": "https://twitter.com/search?q=Sialkot",
-      "volume": "67.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 30,
-      "name": "Baramulla",
-      "url": "https://twitter.com/search?q=Baramulla",
+      "name": "#BharatWithModiJi",
+      "url": "https://twitter.com/search?q=%23BharatWithModiJi",
       "volume": "20.0k+",
       "tag": "trending"
     },
     {
-      "rank": 31,
-      "name": "GSoC",
-      "url": "https://twitter.com/search?q=GSoC",
-      "volume": "-",
+      "rank": 8,
+      "name": "Nagrota",
+      "url": "https://twitter.com/search?q=Nagrota",
+      "volume": "74.0k+",
       "tag": "trending"
     },
     {
-      "rank": 32,
-      "name": "Srinagar",
-      "url": "https://twitter.com/search?q=Srinagar",
-      "volume": "56.0k+",
+      "rank": 9,
+      "name": "America",
+      "url": "https://twitter.com/search?q=America",
+      "volume": "793.0k+",
       "tag": "trending"
     },
     {
-      "rank": 33,
-      "name": "Laden",
-      "url": "https://twitter.com/search?q=Laden",
+      "rank": 10,
+      "name": "#MothersDay",
+      "url": "https://twitter.com/search?q=%23MothersDay",
       "volume": "16.0k+",
       "tag": "trending"
     },
     {
+      "rank": 11,
+      "name": "Shehbaz Sharif",
+      "url": "https://twitter.com/search?q=Shehbaz Sharif",
+      "volume": "81.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 12,
+      "name": "Srinagar",
+      "url": "https://twitter.com/search?q=Srinagar",
+      "volume": "321.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 13,
+      "name": "Pak PM",
+      "url": "https://twitter.com/search?q=Pak PM",
+      "volume": "23.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 14,
+      "name": "Iron Lady",
+      "url": "https://twitter.com/search?q=Iron Lady",
+      "volume": "54.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 15,
+      "name": "Mr. President",
+      "url": "https://twitter.com/search?q=Mr. President",
+      "volume": "28.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 16,
+      "name": "Act of War",
+      "url": "https://twitter.com/search?q=Act of War",
+      "volume": "166.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 17,
+      "name": "Emergency",
+      "url": "https://twitter.com/search?q=Emergency",
+      "volume": "63.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 18,
+      "name": "Joker",
+      "url": "https://twitter.com/search?q=Joker",
+      "volume": "59.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 19,
+      "name": "Kutte",
+      "url": "https://twitter.com/search?q=Kutte",
+      "volume": "20.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 20,
+      "name": "POTUS",
+      "url": "https://twitter.com/search?q=POTUS",
+      "volume": "145.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 21,
+      "name": "Misri",
+      "url": "https://twitter.com/search?q=Misri",
+      "volume": "92.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 22,
+      "name": "Vance",
+      "url": "https://twitter.com/search?q=Vance",
+      "volume": "77.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 23,
+      "name": "Clown",
+      "url": "https://twitter.com/search?q=Clown",
+      "volume": "93.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 24,
+      "name": "Common Sense",
+      "url": "https://twitter.com/search?q=Common Sense",
+      "volume": "92.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 25,
+      "name": "Victory",
+      "url": "https://twitter.com/search?q=Victory",
+      "volume": "331.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 26,
+      "name": "DGMO",
+      "url": "https://twitter.com/search?q=DGMO",
+      "volume": "76.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 27,
+      "name": "Nobel",
+      "url": "https://twitter.com/search?q=Nobel",
+      "volume": "35.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 28,
+      "name": "Shimla",
+      "url": "https://twitter.com/search?q=Shimla",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 29,
+      "name": "Vaishno Devi",
+      "url": "https://twitter.com/search?q=Vaishno Devi",
+      "volume": "62.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 30,
+      "name": "Ghanta",
+      "url": "https://twitter.com/search?q=Ghanta",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 31,
+      "name": "Gaurav Arya",
+      "url": "https://twitter.com/search?q=Gaurav Arya",
+      "volume": "14.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 32,
+      "name": "Manmohan",
+      "url": "https://twitter.com/search?q=Manmohan",
+      "volume": "18.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 33,
+      "name": "Escalate",
+      "url": "https://twitter.com/search?q=Escalate",
+      "volume": "148.0k+",
+      "tag": "trending"
+    },
+    {
       "rank": 34,
-      "name": "Sant Rampal Ji Maharaj",
-      "url": "https://twitter.com/search?q=Sant Rampal Ji Maharaj",
-      "volume": "99.0k+",
+      "name": "Rubio",
+      "url": "https://twitter.com/search?q=Rubio",
+      "volume": "77.0k+",
       "tag": "trending"
     },
     {
       "rank": 35,
-      "name": "De-escalation",
-      "url": "https://twitter.com/search?q=De-escalation",
-      "volume": "86.0k+",
+      "name": "But Pakistan",
+      "url": "https://twitter.com/search?q=But Pakistan",
+      "volume": "345.0k+",
       "tag": "trending"
     },
     {
       "rank": 36,
-      "name": "Beggars",
-      "url": "https://twitter.com/search?q=Beggars",
-      "volume": "13.0k+",
+      "name": "Pakistan and India",
+      "url": "https://twitter.com/search?q=Pakistan and India",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 37,
-      "name": "#DroneAttack",
-      "url": "https://twitter.com/search?q=%23DroneAttack",
-      "volume": "49.0k+",
+      "name": "#OperationSindooor",
+      "url": "https://twitter.com/search?q=%23OperationSindooor",
+      "volume": "29.0k+",
       "tag": "trending"
     },
     {
       "rank": 38,
-      "name": "#IndianNavyAction",
-      "url": "https://twitter.com/search?q=%23IndianNavyAction",
-      "volume": "191.0k+",
+      "name": "#PakistanIndianWar",
+      "url": "https://twitter.com/search?q=%23PakistanIndianWar",
+      "volume": "181.0k+",
       "tag": "trending"
     },
     {
       "rank": 39,
-      "name": "#shameonimf",
-      "url": "https://twitter.com/search?q=%23shameonimf",
+      "name": "#indianArmyZindabad",
+      "url": "https://twitter.com/search?q=%23indianArmyZindabad",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 40,
-      "name": "#terrorstatepakistan",
-      "url": "https://twitter.com/search?q=%23terrorstatepakistan",
-      "volume": "-",
+      "name": "#ceasefire",
+      "url": "https://twitter.com/search?q=%23ceasefire",
+      "volume": "596.0k+",
       "tag": "trending"
     },
     {
       "rank": 41,
-      "name": "#Jalandhar",
-      "url": "https://twitter.com/search?q=%23Jalandhar",
-      "volume": "-",
+      "name": "#IndiaPakistanWar2025",
+      "url": "https://twitter.com/search?q=%23IndiaPakistanWar2025",
+      "volume": "288.0k+",
       "tag": "trending"
     },
     {
       "rank": 42,
-      "name": "#Key_to_Spiritual_Wisdom",
-      "url": "https://twitter.com/search?q=%23Key_to_Spiritual_Wisdom",
-      "volume": "96.0k+",
+      "name": "Trump",
+      "url": "https://twitter.com/search?q=Trump",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 43,
-      "name": "#23YrsofRealmRulerDHANUSH",
-      "url": "https://twitter.com/search?q=%2323YrsofRealmRulerDHANUSH",
-      "volume": "15.0k+",
+      "name": "Trump",
+      "url": "https://twitter.com/search?q=Trump",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 44,
-      "name": "#IndiaFightsPropaganda",
-      "url": "https://twitter.com/search?q=%23IndiaFightsPropaganda",
-      "volume": "25.0k+",
+      "name": "#IndiaPakistanConflict",
+      "url": "https://twitter.com/search?q=%23IndiaPakistanConflict",
+      "volume": "142.0k+",
       "tag": "trending"
     },
     {
       "rank": 45,
-      "name": "#IndianMedia",
-      "url": "https://twitter.com/search?q=%23IndianMedia",
-      "volume": "-",
+      "name": "Indira Gandhi",
+      "url": "https://twitter.com/search?q=Indira Gandhi",
+      "volume": "182.0k+",
       "tag": "trending"
     },
     {
       "rank": 46,
-      "name": "#IMFSupportsTerrorism",
-      "url": "https://twitter.com/search?q=%23IMFSupportsTerrorism",
-      "volume": "-",
+      "name": "China",
+      "url": "https://twitter.com/search?q=China",
+      "volume": "601.0k+",
       "tag": "trending"
     },
     {
       "rank": 47,
-      "name": "#IMFLoan",
-      "url": "https://twitter.com/search?q=%23IMFLoan",
-      "volume": "-",
+      "name": "#BharatWithModiJi",
+      "url": "https://twitter.com/search?q=%23BharatWithModiJi",
+      "volume": "19.0k+",
       "tag": "trending"
     },
     {
       "rank": 48,
-      "name": "The IMF",
-      "url": "https://twitter.com/search?q=The IMF",
-      "volume": "89.0k+",
+      "name": "Nagrota",
+      "url": "https://twitter.com/search?q=Nagrota",
+      "volume": "74.0k+",
       "tag": "trending"
     },
     {
       "rank": 49,
-      "name": "Sirsa",
-      "url": "https://twitter.com/search?q=Sirsa",
-      "volume": "-",
+      "name": "America",
+      "url": "https://twitter.com/search?q=America",
+      "volume": "798.0k+",
       "tag": "trending"
     },
     {
       "rank": 50,
-      "name": "#IndiaPakistanWar2025",
-      "url": "https://twitter.com/search?q=%23IndiaPakistanWar2025",
-      "volume": "216.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 51,
-      "name": "#karachiport",
-      "url": "https://twitter.com/search?q=%23karachiport",
-      "volume": "73.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 52,
-      "name": "INDIA STANDS TALL",
-      "url": "https://twitter.com/search?q=INDIA STANDS TALL",
-      "volume": "15.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 53,
-      "name": "#IndiaPakWar",
-      "url": "https://twitter.com/search?q=%23IndiaPakWar",
-      "volume": "69.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 54,
-      "name": "Turkey",
-      "url": "https://twitter.com/search?q=Turkey",
-      "volume": "200.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 55,
-      "name": "T 5374",
-      "url": "https://twitter.com/search?q=T 5374",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 56,
-      "name": "Dhruv",
-      "url": "https://twitter.com/search?q=Dhruv",
-      "volume": "54.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 57,
-      "name": "TikTok",
-      "url": "https://twitter.com/search?q=TikTok",
-      "volume": "21.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 58,
-      "name": "Pinaka",
-      "url": "https://twitter.com/search?q=Pinaka",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 59,
-      "name": "Ferozepur",
-      "url": "https://twitter.com/search?q=Ferozepur",
-      "volume": "18.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 60,
-      "name": "Josh",
-      "url": "https://twitter.com/search?q=Josh",
-      "volume": "100.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 61,
-      "name": "International",
-      "url": "https://twitter.com/search?q=International",
-      "volume": "339.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 62,
-      "name": "Bheekh",
-      "url": "https://twitter.com/search?q=Bheekh",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 63,
-      "name": "Turkish",
-      "url": "https://twitter.com/search?q=Turkish",
-      "volume": "131.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 64,
-      "name": "Chandigarh",
-      "url": "https://twitter.com/search?q=Chandigarh",
-      "volume": "38.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 65,
-      "name": "NRIs",
-      "url": "https://twitter.com/search?q=NRIs",
+      "name": "#MothersDay",
+      "url": "https://twitter.com/search?q=%23MothersDay",
       "volume": "16.0k+",
       "tag": "trending"
     },
     {
-      "rank": 66,
-      "name": "Baramulla",
-      "url": "https://twitter.com/search?q=Baramulla",
+      "rank": 51,
+      "name": "Shehbaz Sharif",
+      "url": "https://twitter.com/search?q=Shehbaz Sharif",
+      "volume": "79.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 52,
+      "name": "Srinagar",
+      "url": "https://twitter.com/search?q=Srinagar",
+      "volume": "321.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 53,
+      "name": "Pak PM",
+      "url": "https://twitter.com/search?q=Pak PM",
+      "volume": "22.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 54,
+      "name": "Iron Lady",
+      "url": "https://twitter.com/search?q=Iron Lady",
+      "volume": "54.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 55,
+      "name": "Act of War",
+      "url": "https://twitter.com/search?q=Act of War",
+      "volume": "167.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 56,
+      "name": "Kutte",
+      "url": "https://twitter.com/search?q=Kutte",
       "volume": "20.0k+",
       "tag": "trending"
     },
     {
-      "rank": 67,
-      "name": "Sialkot",
-      "url": "https://twitter.com/search?q=Sialkot",
+      "rank": 57,
+      "name": "POTUS",
+      "url": "https://twitter.com/search?q=POTUS",
+      "volume": "150.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 58,
+      "name": "Joker",
+      "url": "https://twitter.com/search?q=Joker",
+      "volume": "59.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 59,
+      "name": "Emergency",
+      "url": "https://twitter.com/search?q=Emergency",
       "volume": "64.0k+",
       "tag": "trending"
     },
     {
+      "rank": 60,
+      "name": "Misri",
+      "url": "https://twitter.com/search?q=Misri",
+      "volume": "91.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 61,
+      "name": "Bishnoi",
+      "url": "https://twitter.com/search?q=Bishnoi",
+      "volume": "14.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 62,
+      "name": "Clown",
+      "url": "https://twitter.com/search?q=Clown",
+      "volume": "93.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 63,
+      "name": "Common Sense",
+      "url": "https://twitter.com/search?q=Common Sense",
+      "volume": "92.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 64,
+      "name": "Lawrence",
+      "url": "https://twitter.com/search?q=Lawrence",
+      "volume": "27.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 65,
+      "name": "Vance",
+      "url": "https://twitter.com/search?q=Vance",
+      "volume": "76.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 66,
+      "name": "Peshawar",
+      "url": "https://twitter.com/search?q=Peshawar",
+      "volume": "114.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 67,
+      "name": "Beheading",
+      "url": "https://twitter.com/search?q=Beheading",
+      "volume": "14.0k+",
+      "tag": "trending"
+    },
+    {
       "rank": 68,
-      "name": "GSoC",
-      "url": "https://twitter.com/search?q=GSoC",
-      "volume": "-",
+      "name": "DGMO",
+      "url": "https://twitter.com/search?q=DGMO",
+      "volume": "76.0k+",
       "tag": "trending"
     },
     {
       "rank": 69,
-      "name": "Srinagar",
-      "url": "https://twitter.com/search?q=Srinagar",
-      "volume": "55.0k+",
+      "name": "Victory",
+      "url": "https://twitter.com/search?q=Victory",
+      "volume": "331.0k+",
       "tag": "trending"
     },
     {
       "rank": 70,
-      "name": "Bapu",
-      "url": "https://twitter.com/search?q=Bapu",
+      "name": "Shimla",
+      "url": "https://twitter.com/search?q=Shimla",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 71,
-      "name": "Sant Rampal Ji Maharaj",
-      "url": "https://twitter.com/search?q=Sant Rampal Ji Maharaj",
-      "volume": "99.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 72,
-      "name": "Bhuj",
-      "url": "https://twitter.com/search?q=Bhuj",
-      "volume": "20.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 73,
-      "name": "Missile",
-      "url": "https://twitter.com/search?q=Missile",
-      "volume": "172.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 74,
-      "name": "De-escalation",
-      "url": "https://twitter.com/search?q=De-escalation",
-      "volume": "86.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 75,
-      "name": "Beggars",
-      "url": "https://twitter.com/search?q=Beggars",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 76,
-      "name": "India-Pak",
-      "url": "https://twitter.com/search?q=India-Pak",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 77,
-      "name": "#IndianNavyAction",
-      "url": "https://twitter.com/search?q=%23IndianNavyAction",
-      "volume": "189.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 78,
-      "name": "#shameonimf",
-      "url": "https://twitter.com/search?q=%23shameonimf",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 79,
-      "name": "#OperationSindooor",
-      "url": "https://twitter.com/search?q=%23OperationSindooor",
+      "name": "Nobel",
+      "url": "https://twitter.com/search?q=Nobel",
       "volume": "34.0k+",
       "tag": "trending"
     },
     {
-      "rank": 80,
-      "name": "#terrorstatepakistan",
-      "url": "https://twitter.com/search?q=%23terrorstatepakistan",
+      "rank": 72,
+      "name": "Pakistan PM",
+      "url": "https://twitter.com/search?q=Pakistan PM",
+      "volume": "130.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 73,
+      "name": "Ghanta",
+      "url": "https://twitter.com/search?q=Ghanta",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 81,
-      "name": "#DroneAttack",
-      "url": "https://twitter.com/search?q=%23DroneAttack",
-      "volume": "46.0k+",
+      "rank": 74,
+      "name": "Gaurav Arya",
+      "url": "https://twitter.com/search?q=Gaurav Arya",
+      "volume": "14.0k+",
       "tag": "trending"
     },
     {
-      "rank": 82,
-      "name": "#Jalandhar",
-      "url": "https://twitter.com/search?q=%23Jalandhar",
+      "rank": 75,
+      "name": "Lakshya",
+      "url": "https://twitter.com/search?q=Lakshya",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 83,
-      "name": "#Key_to_Spiritual_Wisdom",
-      "url": "https://twitter.com/search?q=%23Key_to_Spiritual_Wisdom",
-      "volume": "95.0k+",
+      "rank": 76,
+      "name": "Finish",
+      "url": "https://twitter.com/search?q=Finish",
+      "volume": "214.0k+",
       "tag": "trending"
     },
     {
-      "rank": 84,
-      "name": "#23YrsofRealmRulerDHANUSH",
-      "url": "https://twitter.com/search?q=%2323YrsofRealmRulerDHANUSH",
-      "volume": "15.0k+",
+      "rank": 77,
+      "name": "PM of India",
+      "url": "https://twitter.com/search?q=PM of India",
+      "volume": "51.0k+",
       "tag": "trending"
     },
     {
-      "rank": 85,
-      "name": "#IndiaFightsPropaganda",
-      "url": "https://twitter.com/search?q=%23IndiaFightsPropaganda",
-      "volume": "24.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 86,
-      "name": "#IndianMedia",
-      "url": "https://twitter.com/search?q=%23IndianMedia",
-      "volume": "-",
+      "rank": 78,
+      "name": "Manmohan",
+      "url": "https://twitter.com/search?q=Manmohan",
+      "volume": "18.0k+",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-10 05:31:13 IST"
+  "last_updated": "2025-05-11 05:31:05 IST"
 }

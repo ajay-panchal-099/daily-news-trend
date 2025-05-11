@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/6qpv8Q6bEV3Ke0Mc6LUSPL",
       "album": "Chal Koi Na",
       "duration": 128,
-      "popularity": 25,
+      "popularity": 26,
       "tag": "trending"
     },
     {
@@ -847,7 +847,7 @@
       "url": "https://open.spotify.com/track/5FihcmME7NlwW8KbYOaHVH",
       "album": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
       "duration": 252,
-      "popularity": 65,
+      "popularity": 64,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-10 05:31:04 IST"
+  "last_updated": "2025-05-11 05:30:55 IST"
 }
