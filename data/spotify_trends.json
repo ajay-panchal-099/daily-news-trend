@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/6VWAOBFjr8N5SsGz2tTiqd",
       "album": "Kurti",
       "duration": 199,
-      "popularity": 43,
+      "popularity": 44,
       "tag": "trending"
     },
     {
@@ -127,7 +127,7 @@
       "url": "https://open.spotify.com/track/5tmD0PU9JZ9UFjTnERr2xd",
       "album": "CHASIN' YOU",
       "duration": 166,
-      "popularity": 35,
+      "popularity": 36,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/6qpv8Q6bEV3Ke0Mc6LUSPL",
       "album": "Chal Koi Na",
       "duration": 128,
-      "popularity": 26,
+      "popularity": 27,
       "tag": "trending"
     },
     {
@@ -167,7 +167,7 @@
       "url": "https://open.spotify.com/track/5K6Ulyna4f9AOc8cPBiS7n",
       "album": "Ik Chann 2.0",
       "duration": 166,
-      "popularity": 34,
+      "popularity": 35,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-12 05:30:47 IST"
+  "last_updated": "2025-05-13 05:30:48 IST"
 }
