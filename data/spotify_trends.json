@@ -12,22 +12,22 @@
     },
     {
       "rank": 2,
-      "title": "FEEL THE NIGHT",
-      "artists": "Romeo",
-      "url": "https://open.spotify.com/track/4OV1XWa6OSz4W4oUoRk9A7",
-      "album": "FEEL THE NIGHT",
-      "duration": 163,
-      "popularity": 39,
-      "tag": "trending"
-    },
-    {
-      "rank": 3,
       "title": "Kissik (From \"Pushpa 2 The Rule\") [HINDI]",
       "artists": "Lothika, Sublahshini, Devi Sri Prasad, Raqueeb Alam",
       "url": "https://open.spotify.com/track/3E2alxlOoe5EURfec217Uu",
       "album": "Kissik (From \"Pushpa 2 The Rule\") [HINDI]",
       "duration": 248,
       "popularity": 60,
+      "tag": "trending"
+    },
+    {
+      "rank": 3,
+      "title": "FEEL THE NIGHT",
+      "artists": "Romeo",
+      "url": "https://open.spotify.com/track/4OV1XWa6OSz4W4oUoRk9A7",
+      "album": "FEEL THE NIGHT",
+      "duration": 163,
+      "popularity": 39,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/6qpv8Q6bEV3Ke0Mc6LUSPL",
       "album": "Chal Koi Na",
       "duration": 128,
-      "popularity": 27,
+      "popularity": 28,
       "tag": "trending"
     },
     {
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i",
       "album": "Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)",
       "duration": 210,
-      "popularity": 63,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-13 05:30:48 IST"
+  "last_updated": "2025-05-14 05:30:53 IST"
 }
