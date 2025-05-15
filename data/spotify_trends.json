@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/6qpv8Q6bEV3Ke0Mc6LUSPL",
       "album": "Chal Koi Na",
       "duration": 128,
-      "popularity": 28,
+      "popularity": 29,
       "tag": "trending"
     },
     {
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm",
       "album": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
       "duration": 266,
-      "popularity": 76,
+      "popularity": 75,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-14 05:30:53 IST"
+  "last_updated": "2025-05-15 05:30:45 IST"
 }

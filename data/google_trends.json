@@ -2,145 +2,75 @@
   "trends": [
     {
       "rank": 1,
-      "title": "Nothing Phone 3a",
-      "url": "https://google.com/search?q=Nothing+Phone+3a",
-      "search_url": "https://google.com/search?q=Nothing+Phone+3a",
+      "title": "celtics vs knicks",
+      "url": "https://google.com/search?q=celtics+vs+knicks",
+      "search_url": "https://google.com/search?q=celtics+vs+knicks",
       "tag": "trending"
     },
     {
       "rank": 2,
-      "title": "Earthquake Kolkata",
-      "url": "https://google.com/search?q=Earthquake+Kolkata",
-      "search_url": "https://google.com/search?q=Earthquake+Kolkata",
+      "title": "bollywood",
+      "url": "https://google.com/search?q=bollywood",
+      "search_url": "https://google.com/search?q=bollywood",
       "tag": "trending"
     },
     {
       "rank": 3,
-      "title": "Bangladesh vs New Zealand",
-      "url": "https://google.com/search?q=Bangladesh+vs+New+Zealand",
-      "search_url": "https://google.com/search?q=Bangladesh+vs+New+Zealand",
+      "title": "qatar airways",
+      "url": "https://google.com/search?q=qatar+airways",
+      "search_url": "https://google.com/search?q=qatar+airways",
       "tag": "trending"
     },
     {
       "rank": 4,
-      "title": "RCB vs UPW",
-      "url": "https://google.com/search?q=RCB+vs+UPW",
-      "search_url": "https://google.com/search?q=RCB+vs+UPW",
+      "title": "karachi bakery",
+      "url": "https://google.com/search?q=karachi+bakery",
+      "search_url": "https://google.com/search?q=karachi+bakery",
       "tag": "trending"
     },
     {
       "rank": 5,
-      "title": "Michael bracewell",
-      "url": "https://google.com/search?q=Michael+bracewell",
-      "search_url": "https://google.com/search?q=Michael+bracewell",
+      "title": "fifa club world cup",
+      "url": "https://google.com/search?q=fifa+club+world+cup",
+      "search_url": "https://google.com/search?q=fifa+club+world+cup",
       "tag": "trending"
     },
     {
       "rank": 6,
-      "title": "Real Madrid",
-      "url": "https://google.com/search?q=Real+Madrid",
-      "search_url": "https://google.com/search?q=Real+Madrid",
+      "title": "ayoze p\u00e9rez",
+      "url": "https://google.com/search?q=ayoze+p\u00e9rez",
+      "search_url": "https://google.com/search?q=ayoze+p\u00e9rez",
       "tag": "trending"
     },
     {
       "rank": 7,
-      "title": "Sensex Nifty Stock Market",
-      "url": "https://google.com/search?q=Sensex+Nifty+Stock+Market",
-      "search_url": "https://google.com/search?q=Sensex+Nifty+Stock+Market",
+      "title": "la liga standings",
+      "url": "https://google.com/search?q=la+liga+standings",
+      "search_url": "https://google.com/search?q=la+liga+standings",
       "tag": "trending"
     },
     {
       "rank": 8,
-      "title": "PM Kisan 19th installment date",
-      "url": "https://google.com/search?q=PM+Kisan+19th+installment+date",
-      "search_url": "https://google.com/search?q=PM+Kisan+19th+installment+date",
+      "title": "la liga table",
+      "url": "https://google.com/search?q=la+liga+table",
+      "search_url": "https://google.com/search?q=la+liga+table",
       "tag": "trending"
     },
     {
       "rank": 9,
-      "title": "Mahashivratri",
-      "url": "https://google.com/search?q=Mahashivratri",
-      "search_url": "https://google.com/search?q=Mahashivratri",
+      "title": "leo rom\u00e1n",
+      "url": "https://google.com/search?q=leo+rom\u00e1n",
+      "search_url": "https://google.com/search?q=leo+rom\u00e1n",
       "tag": "trending"
     },
     {
       "rank": 10,
-      "title": "AUS vs SA",
-      "url": "https://google.com/search?q=AUS+vs+SA",
-      "search_url": "https://google.com/search?q=AUS+vs+SA",
-      "tag": "trending"
-    },
-    {
-      "rank": 11,
-      "title": "PM Kisan Yojana",
-      "url": "https://google.com/search?q=PM+Kisan+Yojana",
-      "search_url": "https://google.com/search?q=PM+Kisan+Yojana",
-      "tag": "trending"
-    },
-    {
-      "rank": 12,
-      "title": "Prajakta Koli",
-      "url": "https://google.com/search?q=Prajakta+Koli",
-      "search_url": "https://google.com/search?q=Prajakta+Koli",
-      "tag": "trending"
-    },
-    {
-      "rank": 13,
-      "title": "Bangladesh",
-      "url": "https://google.com/search?q=Bangladesh",
-      "search_url": "https://google.com/search?q=Bangladesh",
-      "tag": "trending"
-    },
-    {
-      "rank": 14,
-      "title": "Mohun Bagan",
-      "url": "https://google.com/search?q=Mohun+Bagan",
-      "search_url": "https://google.com/search?q=Mohun+Bagan",
-      "tag": "trending"
-    },
-    {
-      "rank": 15,
-      "title": "Pakistan vs India",
-      "url": "https://google.com/search?q=Pakistan+vs+India",
-      "search_url": "https://google.com/search?q=Pakistan+vs+India",
-      "tag": "trending"
-    },
-    {
-      "rank": 16,
-      "title": "Sports",
-      "url": "https://google.com/search?q=Sports",
-      "search_url": "https://google.com/search?q=Sports",
-      "tag": "trending"
-    },
-    {
-      "rank": 17,
-      "title": "Babar Azam",
-      "url": "https://google.com/search?q=Babar+Azam",
-      "search_url": "https://google.com/search?q=Babar+Azam",
-      "tag": "trending"
-    },
-    {
-      "rank": 18,
-      "title": "Kuldeep Yadav",
-      "url": "https://google.com/search?q=Kuldeep+Yadav",
-      "search_url": "https://google.com/search?q=Kuldeep+Yadav",
-      "tag": "trending"
-    },
-    {
-      "rank": 19,
-      "title": "Pope Francis",
-      "url": "https://google.com/search?q=Pope+Francis",
-      "search_url": "https://google.com/search?q=Pope+Francis",
-      "tag": "trending"
-    },
-    {
-      "rank": 20,
-      "title": "India",
-      "url": "https://google.com/search?q=India",
-      "search_url": "https://google.com/search?q=India",
+      "title": "\u0930\u093e\u0936\u093f\u092b\u0932",
+      "url": "https://google.com/search?q=\u0930\u093e\u0936\u093f\u092b\u0932",
+      "search_url": "https://google.com/search?q=\u0930\u093e\u0936\u093f\u092b\u0932",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-04-15 15:07:48 UTC",
+  "last_updated": "2025-05-15 05:30:58 IST",
   "source": "rapidapi_realtime"
 }
