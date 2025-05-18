@@ -2,550 +2,564 @@
   "trends": [
     {
       "rank": 1,
-      "name": "#War2",
-      "url": "https://twitter.com/search?q=%23War2",
-      "volume": "137.0k+",
+      "name": "#RCBvsKKR",
+      "url": "https://twitter.com/search?q=%23RCBvsKKR",
+      "volume": "35.0k+",
       "tag": "trending"
     },
     {
       "rank": 2,
-      "name": "#CHEMUN",
-      "url": "https://twitter.com/search?q=%23CHEMUN",
-      "volume": "63.0k+",
+      "name": "#JyotiMalhotra",
+      "url": "https://twitter.com/search?q=%23JyotiMalhotra",
+      "volume": "76.0k+",
       "tag": "trending"
     },
     {
       "rank": 3,
-      "name": "#NeerajChopra",
-      "url": "https://twitter.com/search?q=%23NeerajChopra",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 4,
-      "name": "Hojlund",
-      "url": "https://twitter.com/search?q=Hojlund",
-      "volume": "36.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 5,
-      "name": "#IStandwithSharmishta",
-      "url": "https://twitter.com/search?q=%23IStandwithSharmishta",
-      "volume": "53.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 6,
-      "name": "God Met Dharmdas In Mathura",
-      "url": "https://twitter.com/search?q=God Met Dharmdas In Mathura",
+      "name": "#Thuglife",
+      "url": "https://twitter.com/search?q=%23Thuglife",
       "volume": "55.0k+",
       "tag": "trending"
     },
     {
-      "rank": 7,
-      "name": "Reece",
-      "url": "https://twitter.com/search?q=Reece",
-      "volume": "41.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 8,
-      "name": "Chelsea",
-      "url": "https://twitter.com/search?q=Chelsea",
-      "volume": "208.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 9,
-      "name": "ROHIT SHARMA STAND",
-      "url": "https://twitter.com/search?q=ROHIT SHARMA STAND",
-      "volume": "43.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 10,
-      "name": "Onana",
-      "url": "https://twitter.com/search?q=Onana",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 11,
-      "name": "Amorim",
-      "url": "https://twitter.com/search?q=Amorim",
-      "volume": "29.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 12,
-      "name": "Maguire",
-      "url": "https://twitter.com/search?q=Maguire",
-      "volume": "16.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 13,
-      "name": "Apple",
-      "url": "https://twitter.com/search?q=Apple",
-      "volume": "362.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 14,
-      "name": "Cucurella",
-      "url": "https://twitter.com/search?q=Cucurella",
+      "rank": 4,
+      "name": "#WorldHypertensionDay",
+      "url": "https://twitter.com/search?q=%23WorldHypertensionDay",
       "volume": "32.0k+",
       "tag": "trending"
     },
     {
-      "rank": 15,
-      "name": "Spurs",
-      "url": "https://twitter.com/search?q=Spurs",
+      "rank": 5,
+      "name": "#NeerajChopra",
+      "url": "https://twitter.com/search?q=%23NeerajChopra",
+      "volume": "17.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 6,
+      "name": "WARRA FAREWELL FOR CHOKLI",
+      "url": "https://twitter.com/search?q=WARRA FAREWELL FOR CHOKLI",
       "volume": "30.0k+",
       "tag": "trending"
     },
     {
+      "rank": 7,
+      "name": "DHOBI KA BAAP KOHLI",
+      "url": "https://twitter.com/search?q=DHOBI KA BAAP KOHLI",
+      "volume": "50.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 8,
+      "name": "Shashi Tharoor",
+      "url": "https://twitter.com/search?q=Shashi Tharoor",
+      "volume": "42.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 9,
+      "name": "Chinnaswamy",
+      "url": "https://twitter.com/search?q=Chinnaswamy",
+      "volume": "54.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 10,
+      "name": "Crystal Palace",
+      "url": "https://twitter.com/search?q=Crystal Palace",
+      "volume": "268.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 11,
+      "name": "Su-57",
+      "url": "https://twitter.com/search?q=Su-57",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 12,
+      "name": "Art Of Giving",
+      "url": "https://twitter.com/search?q=Art Of Giving",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 13,
+      "name": "Congress",
+      "url": "https://twitter.com/search?q=Congress",
+      "volume": "325.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 14,
+      "name": "Rain",
+      "url": "https://twitter.com/search?q=Rain",
+      "volume": "192.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 15,
+      "name": "Lakshmipathy Balaji",
+      "url": "https://twitter.com/search?q=Lakshmipathy Balaji",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
       "rank": 16,
-      "name": "Trump",
-      "url": "https://twitter.com/search?q=Trump",
+      "name": "achyuta samanta",
+      "url": "https://twitter.com/search?q=achyuta samanta",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 17,
-      "name": "Caicedo",
-      "url": "https://twitter.com/search?q=Caicedo",
-      "volume": "32.0k+",
+      "name": "Vishal Mega Mart",
+      "url": "https://twitter.com/search?q=Vishal Mega Mart",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 18,
-      "name": "respect the cow",
-      "url": "https://twitter.com/search?q=respect the cow",
-      "volume": "34.0k+",
+      "name": "HBD HARSHAD CHOPDA",
+      "url": "https://twitter.com/search?q=HBD HARSHAD CHOPDA",
+      "volume": "21.0k+",
       "tag": "trending"
     },
     {
       "rank": 19,
-      "name": "save desi cows",
-      "url": "https://twitter.com/search?q=save desi cows",
-      "volume": "33.0k+",
+      "name": "saint msg",
+      "url": "https://twitter.com/search?q=saint msg",
+      "volume": "27.0k+",
       "tag": "trending"
     },
     {
       "rank": 20,
-      "name": "China",
-      "url": "https://twitter.com/search?q=China",
-      "volume": "526.0k+",
+      "name": "WILLIAMEST 1ST TIME LOL",
+      "url": "https://twitter.com/search?q=WILLIAMEST 1ST TIME LOL",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 21,
-      "name": "Madueke",
-      "url": "https://twitter.com/search?q=Madueke",
+      "name": "trade with raghav",
+      "url": "https://twitter.com/search?q=trade with raghav",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 22,
-      "name": "Amad",
-      "url": "https://twitter.com/search?q=Amad",
-      "volume": "17.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 23,
-      "name": "vishwajit rane",
-      "url": "https://twitter.com/search?q=vishwajit rane",
+      "name": "F-35",
+      "url": "https://twitter.com/search?q=F-35",
       "volume": "12.0k+",
       "tag": "trending"
     },
     {
+      "rank": 23,
+      "name": "Dean Henderson",
+      "url": "https://twitter.com/search?q=Dean Henderson",
+      "volume": "39.0k+",
+      "tag": "trending"
+    },
+    {
       "rank": 24,
-      "name": "Noni",
-      "url": "https://twitter.com/search?q=Noni",
+      "name": "AMCA",
+      "url": "https://twitter.com/search?q=AMCA",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 25,
-      "name": "Dorgu",
-      "url": "https://twitter.com/search?q=Dorgu",
+      "name": "Gaza",
+      "url": "https://twitter.com/search?q=Gaza",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 26,
-      "name": "Palmer",
-      "url": "https://twitter.com/search?q=Palmer",
-      "volume": "36.0k+",
+      "name": "Healthy Lifestyle",
+      "url": "https://twitter.com/search?q=Healthy Lifestyle",
+      "volume": "33.0k+",
       "tag": "trending"
     },
     {
       "rank": 27,
-      "name": "Mount",
-      "url": "https://twitter.com/search?q=Mount",
-      "volume": "35.0k+",
+      "name": "Inner Harmony",
+      "url": "https://twitter.com/search?q=Inner Harmony",
+      "volume": "31.0k+",
       "tag": "trending"
     },
     {
       "rank": 28,
-      "name": "true story of rabiya",
-      "url": "https://twitter.com/search?q=true story of rabiya",
-      "volume": "38.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 29,
-      "name": "HBD HARSHAD CHOPDA",
-      "url": "https://twitter.com/search?q=HBD HARSHAD CHOPDA",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 30,
-      "name": "Garnacho",
-      "url": "https://twitter.com/search?q=Garnacho",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 31,
-      "name": "Ugarte",
-      "url": "https://twitter.com/search?q=Ugarte",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 32,
-      "name": "Tim Cook",
-      "url": "https://twitter.com/search?q=Tim Cook",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 33,
-      "name": "Maresca",
-      "url": "https://twitter.com/search?q=Maresca",
-      "volume": "15.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 34,
-      "name": "Celebi",
-      "url": "https://twitter.com/search?q=Celebi",
-      "volume": "29.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 35,
-      "name": "Wankhede",
-      "url": "https://twitter.com/search?q=Wankhede",
-      "volume": "32.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 36,
-      "name": "Lavia",
-      "url": "https://twitter.com/search?q=Lavia",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 37,
-      "name": "Neto",
-      "url": "https://twitter.com/search?q=Neto",
-      "volume": "18.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 38,
-      "name": "Manchester United",
-      "url": "https://twitter.com/search?q=Manchester United",
-      "volume": "63.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 39,
-      "name": "atyati rudra anushthan",
-      "url": "https://twitter.com/search?q=atyati rudra anushthan",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 40,
-      "name": "#CHEMUN",
-      "url": "https://twitter.com/search?q=%23CHEMUN",
-      "volume": "55.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 41,
-      "name": "#War2",
-      "url": "https://twitter.com/search?q=%23War2",
-      "volume": "136.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 42,
-      "name": "Neeraj Chopra",
-      "url": "https://twitter.com/search?q=Neeraj Chopra",
-      "volume": "23.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 43,
-      "name": "Hojlund",
-      "url": "https://twitter.com/search?q=Hojlund",
-      "volume": "30.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 44,
-      "name": "Reece James",
-      "url": "https://twitter.com/search?q=Reece James",
-      "volume": "26.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 45,
-      "name": "#IStandwithSharmishta",
-      "url": "https://twitter.com/search?q=%23IStandwithSharmishta",
-      "volume": "53.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 46,
-      "name": "God Met Dharmdas In Mathura",
-      "url": "https://twitter.com/search?q=God Met Dharmdas In Mathura",
-      "volume": "55.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 47,
-      "name": "Chelsea",
-      "url": "https://twitter.com/search?q=Chelsea",
-      "volume": "192.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 48,
-      "name": "#AirtelRashmika",
-      "url": "https://twitter.com/search?q=%23AirtelRashmika",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 49,
-      "name": "ROHIT SHARMA STAND",
-      "url": "https://twitter.com/search?q=ROHIT SHARMA STAND",
+      "name": "Yatri Doctor",
+      "url": "https://twitter.com/search?q=Yatri Doctor",
       "volume": "43.0k+",
       "tag": "trending"
     },
     {
-      "rank": 50,
-      "name": "Onana",
-      "url": "https://twitter.com/search?q=Onana",
+      "rank": 29,
+      "name": "SHREYAS IYER DESERVES TEST",
+      "url": "https://twitter.com/search?q=SHREYAS IYER DESERVES TEST",
       "volume": "12.0k+",
       "tag": "trending"
     },
     {
-      "rank": 51,
-      "name": "Amorim",
-      "url": "https://twitter.com/search?q=Amorim",
-      "volume": "24.0k+",
+      "rank": 30,
+      "name": "God Met Dharmdas In Mathura",
+      "url": "https://twitter.com/search?q=God Met Dharmdas In Mathura",
+      "volume": "35.0k+",
       "tag": "trending"
     },
     {
-      "rank": 52,
-      "name": "Spurs",
-      "url": "https://twitter.com/search?q=Spurs",
-      "volume": "28.0k+",
+      "rank": 31,
+      "name": "Yuki",
+      "url": "https://twitter.com/search?q=Yuki",
+      "volume": "127.0k+",
       "tag": "trending"
     },
     {
-      "rank": 53,
-      "name": "Maguire",
-      "url": "https://twitter.com/search?q=Maguire",
-      "volume": "15.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 54,
-      "name": "Apple",
-      "url": "https://twitter.com/search?q=Apple",
-      "volume": "353.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 55,
-      "name": "Cucurella",
-      "url": "https://twitter.com/search?q=Cucurella",
-      "volume": "24.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 56,
-      "name": "Caicedo",
-      "url": "https://twitter.com/search?q=Caicedo",
-      "volume": "25.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 57,
-      "name": "HBD HARSHAD CHOPDA",
-      "url": "https://twitter.com/search?q=HBD HARSHAD CHOPDA",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 58,
-      "name": "Trump",
-      "url": "https://twitter.com/search?q=Trump",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 59,
-      "name": "Amad",
-      "url": "https://twitter.com/search?q=Amad",
-      "volume": "16.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 60,
-      "name": "respect the cow",
-      "url": "https://twitter.com/search?q=respect the cow",
+      "rank": 32,
+      "name": "Rahul Gandhi",
+      "url": "https://twitter.com/search?q=Rahul Gandhi",
       "volume": "34.0k+",
       "tag": "trending"
     },
     {
-      "rank": 61,
-      "name": "Tommy Paul",
-      "url": "https://twitter.com/search?q=Tommy Paul",
+      "rank": 33,
+      "name": "The Final Reckoning",
+      "url": "https://twitter.com/search?q=The Final Reckoning",
+      "volume": "13.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 34,
+      "name": "Manchester City",
+      "url": "https://twitter.com/search?q=Manchester City",
+      "volume": "66.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 35,
+      "name": "Ferrari",
+      "url": "https://twitter.com/search?q=Ferrari",
+      "volume": "82.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 36,
+      "name": "Danish",
+      "url": "https://twitter.com/search?q=Danish",
+      "volume": "18.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 37,
+      "name": "Newcastle",
+      "url": "https://twitter.com/search?q=Newcastle",
+      "volume": "47.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 38,
+      "name": "Bharat Ratna",
+      "url": "https://twitter.com/search?q=Bharat Ratna",
       "volume": "-",
       "tag": "trending"
     },
     {
+      "rank": 39,
+      "name": "WARRA FAREWELL FOR CHOKLI",
+      "url": "https://twitter.com/search?q=WARRA FAREWELL FOR CHOKLI",
+      "volume": "30.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 40,
+      "name": "Crystal Palace",
+      "url": "https://twitter.com/search?q=Crystal Palace",
+      "volume": "255.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 41,
+      "name": "DHOBI KA BAAP KOHLI",
+      "url": "https://twitter.com/search?q=DHOBI KA BAAP KOHLI",
+      "volume": "49.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 42,
+      "name": "#FACup",
+      "url": "https://twitter.com/search?q=%23FACup",
+      "volume": "28.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 43,
+      "name": "#JyotiMalhotraArrested",
+      "url": "https://twitter.com/search?q=%23JyotiMalhotraArrested",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 44,
+      "name": "#RCBvsKKR",
+      "url": "https://twitter.com/search?q=%23RCBvsKKR",
+      "volume": "35.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 45,
+      "name": "Dean Henderson",
+      "url": "https://twitter.com/search?q=Dean Henderson",
+      "volume": "36.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 46,
+      "name": "#CRYMCI",
+      "url": "https://twitter.com/search?q=%23CRYMCI",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 47,
+      "name": "Spurs",
+      "url": "https://twitter.com/search?q=Spurs",
+      "volume": "42.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 48,
+      "name": "Newcastle",
+      "url": "https://twitter.com/search?q=Newcastle",
+      "volume": "45.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 49,
+      "name": "Manchester City",
+      "url": "https://twitter.com/search?q=Manchester City",
+      "volume": "64.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 50,
+      "name": "#OnePlus13s",
+      "url": "https://twitter.com/search?q=%23OnePlus13s",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 51,
+      "name": "Bharat Ratna",
+      "url": "https://twitter.com/search?q=Bharat Ratna",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 52,
+      "name": "HBD SHIVANGI JOSHI",
+      "url": "https://twitter.com/search?q=HBD SHIVANGI JOSHI",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 53,
+      "name": "Haaland",
+      "url": "https://twitter.com/search?q=Haaland",
+      "volume": "39.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 54,
+      "name": "Shashi Tharoor",
+      "url": "https://twitter.com/search?q=Shashi Tharoor",
+      "volume": "41.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 55,
+      "name": "Su-57",
+      "url": "https://twitter.com/search?q=Su-57",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 56,
+      "name": "Ferrari",
+      "url": "https://twitter.com/search?q=Ferrari",
+      "volume": "81.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 57,
+      "name": "Yatri Doctor",
+      "url": "https://twitter.com/search?q=Yatri Doctor",
+      "volume": "42.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 58,
+      "name": "Rain",
+      "url": "https://twitter.com/search?q=Rain",
+      "volume": "194.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 59,
+      "name": "Tom Cruise",
+      "url": "https://twitter.com/search?q=Tom Cruise",
+      "volume": "44.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 60,
+      "name": "YouTubers",
+      "url": "https://twitter.com/search?q=YouTubers",
+      "volume": "28.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 61,
+      "name": "Final Reckoning",
+      "url": "https://twitter.com/search?q=Final Reckoning",
+      "volume": "14.0k+",
+      "tag": "trending"
+    },
+    {
       "rank": 62,
-      "name": "Dorgu",
-      "url": "https://twitter.com/search?q=Dorgu",
+      "name": "Vishal Mega Mart",
+      "url": "https://twitter.com/search?q=Vishal Mega Mart",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 63,
-      "name": "save desi cows",
-      "url": "https://twitter.com/search?q=save desi cows",
-      "volume": "33.0k+",
+      "name": "Europa League",
+      "url": "https://twitter.com/search?q=Europa League",
+      "volume": "68.0k+",
       "tag": "trending"
     },
     {
       "rank": 64,
-      "name": "Enzo",
-      "url": "https://twitter.com/search?q=Enzo",
-      "volume": "29.0k+",
+      "name": "Jaishankar",
+      "url": "https://twitter.com/search?q=Jaishankar",
+      "volume": "25.0k+",
       "tag": "trending"
     },
     {
       "rank": 65,
-      "name": "China",
-      "url": "https://twitter.com/search?q=China",
-      "volume": "510.0k+",
+      "name": "Match",
+      "url": "https://twitter.com/search?q=Match",
+      "volume": "257.0k+",
       "tag": "trending"
     },
     {
       "rank": 66,
-      "name": "Madueke",
-      "url": "https://twitter.com/search?q=Madueke",
-      "volume": "-",
+      "name": "Kamal",
+      "url": "https://twitter.com/search?q=Kamal",
+      "volume": "18.0k+",
       "tag": "trending"
     },
     {
       "rank": 67,
-      "name": "vishwajit rane",
-      "url": "https://twitter.com/search?q=vishwajit rane",
-      "volume": "12.0k+",
+      "name": "Trisha",
+      "url": "https://twitter.com/search?q=Trisha",
+      "volume": "10.0k+",
       "tag": "trending"
     },
     {
       "rank": 68,
-      "name": "Noni",
-      "url": "https://twitter.com/search?q=Noni",
+      "name": "AMCA",
+      "url": "https://twitter.com/search?q=AMCA",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 69,
-      "name": "Maresca",
-      "url": "https://twitter.com/search?q=Maresca",
-      "volume": "12.0k+",
+      "name": "Haryana",
+      "url": "https://twitter.com/search?q=Haryana",
+      "volume": "54.0k+",
       "tag": "trending"
     },
     {
       "rank": 70,
-      "name": "Palmer",
-      "url": "https://twitter.com/search?q=Palmer",
-      "volume": "35.0k+",
+      "name": "Thug Life",
+      "url": "https://twitter.com/search?q=Thug Life",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 71,
-      "name": "Mount",
-      "url": "https://twitter.com/search?q=Mount",
-      "volume": "32.0k+",
+      "name": "Mission Impossible",
+      "url": "https://twitter.com/search?q=Mission Impossible",
+      "volume": "21.0k+",
       "tag": "trending"
     },
     {
       "rank": 72,
-      "name": "true story of rabiya",
-      "url": "https://twitter.com/search?q=true story of rabiya",
-      "volume": "38.0k+",
+      "name": "Vajpayee",
+      "url": "https://twitter.com/search?q=Vajpayee",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 73,
-      "name": "Garnacho",
-      "url": "https://twitter.com/search?q=Garnacho",
-      "volume": "12.0k+",
+      "name": "#chinnaswamystadium",
+      "url": "https://twitter.com/search?q=%23chinnaswamystadium",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 74,
-      "name": "Ugarte",
-      "url": "https://twitter.com/search?q=Ugarte",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 75,
-      "name": "Tim Cook",
-      "url": "https://twitter.com/search?q=Tim Cook",
+      "name": "#ManCity",
+      "url": "https://twitter.com/search?q=%23ManCity",
       "volume": "13.0k+",
       "tag": "trending"
     },
     {
+      "rank": 75,
+      "name": "#ZeeCineAwards2025",
+      "url": "https://twitter.com/search?q=%23ZeeCineAwards2025",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
       "rank": 76,
-      "name": "Celebi",
-      "url": "https://twitter.com/search?q=Celebi",
-      "volume": "29.0k+",
+      "name": "#KawsHolidayxFreen",
+      "url": "https://twitter.com/search?q=%23KawsHolidayxFreen",
+      "volume": "777.0k+",
       "tag": "trending"
     },
     {
       "rank": 77,
-      "name": "Wankhede",
-      "url": "https://twitter.com/search?q=Wankhede",
-      "volume": "32.0k+",
+      "name": "#TamilGenocideDay",
+      "url": "https://twitter.com/search?q=%23TamilGenocideDay",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 78,
-      "name": "Lavia",
-      "url": "https://twitter.com/search?q=Lavia",
+      "name": "#Yamadonga4K",
+      "url": "https://twitter.com/search?q=%23Yamadonga4K",
+      "volume": "25.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 79,
+      "name": "#AnaganagaonETVWin",
+      "url": "https://twitter.com/search?q=%23AnaganagaonETVWin",
       "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 80,
+      "name": "#ImolaGP",
+      "url": "https://twitter.com/search?q=%23ImolaGP",
+      "volume": "94.0k+",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-17 05:30:54 IST"
+  "last_updated": "2025-05-18 05:31:03 IST"
 }
