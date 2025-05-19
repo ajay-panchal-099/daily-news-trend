@@ -67,7 +67,7 @@
       "url": "https://open.spotify.com/track/42fEUT0qYN0BNsHwz8RZgH",
       "album": "Mafia",
       "duration": 148,
-      "popularity": 43,
+      "popularity": 42,
       "tag": "trending"
     },
     {
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/7r6iwgXcR85d9rfqsuf2Af",
       "album": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
       "duration": 230,
-      "popularity": 66,
+      "popularity": 65,
       "tag": "trending"
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://open.spotify.com/track/5NtXcRESOogpY9FsG5GELH",
       "album": "El Paso",
       "duration": 112,
-      "popularity": 0,
+      "popularity": 16,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/6qpv8Q6bEV3Ke0Mc6LUSPL",
       "album": "Chal Koi Na",
       "duration": 128,
-      "popularity": 29,
+      "popularity": 30,
       "tag": "trending"
     },
     {
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/5FihcmME7NlwW8KbYOaHVH",
       "album": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
       "duration": 252,
-      "popularity": 64,
+      "popularity": 65,
       "tag": "trending"
     },
     {
@@ -967,7 +967,7 @@
       "url": "https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR",
       "album": "Paagal",
       "duration": 169,
-      "popularity": 59,
+      "popularity": 58,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-18 05:30:53 IST"
+  "last_updated": "2025-05-19 05:30:43 IST"
 }
