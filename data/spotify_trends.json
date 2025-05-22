@@ -107,7 +107,7 @@
       "url": "https://open.spotify.com/track/5NtXcRESOogpY9FsG5GELH",
       "album": "El Paso",
       "duration": 112,
-      "popularity": 27,
+      "popularity": 30,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/6qpv8Q6bEV3Ke0Mc6LUSPL",
       "album": "Chal Koi Na",
       "duration": 128,
-      "popularity": 30,
+      "popularity": 31,
       "tag": "trending"
     },
     {
@@ -997,9 +997,9 @@
       "url": "https://open.spotify.com/track/0VhKdIMXZ3INkyDoIyPy5l",
       "album": "The Naari Naari Song (From \"Made in China\")",
       "duration": 197,
-      "popularity": 46,
+      "popularity": 45,
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-21 05:30:46 IST"
+  "last_updated": "2025-05-22 05:30:51 IST"
 }
