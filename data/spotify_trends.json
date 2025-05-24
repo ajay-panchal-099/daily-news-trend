@@ -107,7 +107,7 @@
       "url": "https://open.spotify.com/track/5NtXcRESOogpY9FsG5GELH",
       "album": "El Paso",
       "duration": 112,
-      "popularity": 31,
+      "popularity": 33,
       "tag": "trending"
     },
     {
@@ -867,7 +867,7 @@
       "url": "https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD",
       "album": "Odhani (From \"Made in China\")",
       "duration": 195,
-      "popularity": 59,
+      "popularity": 58,
       "tag": "trending"
     },
     {
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/1ozrNv9W4KlprAmvgH0Yrq",
       "album": "High Rated Gabru (From \"Nawabzaade\")",
       "duration": 179,
-      "popularity": 65,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-23 05:30:53 IST"
+  "last_updated": "2025-05-24 05:31:05 IST"
 }
