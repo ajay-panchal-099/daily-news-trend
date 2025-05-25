@@ -107,7 +107,7 @@
       "url": "https://open.spotify.com/track/5NtXcRESOogpY9FsG5GELH",
       "album": "El Paso",
       "duration": 112,
-      "popularity": 33,
+      "popularity": 34,
       "tag": "trending"
     },
     {
@@ -407,7 +407,7 @@
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB",
       "album": "Pasoori",
       "duration": 224,
-      "popularity": 73,
+      "popularity": 72,
       "tag": "trending"
     },
     {
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm",
       "album": "Aankh Marey (From \"Simmba\")",
       "duration": 212,
-      "popularity": 64,
+      "popularity": 63,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-24 05:31:05 IST"
+  "last_updated": "2025-05-25 05:30:43 IST"
 }
