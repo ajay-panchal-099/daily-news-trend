@@ -142,12 +142,12 @@
     },
     {
       "rank": 15,
-      "title": "Chal Koi Na",
-      "artists": "Anmol Gandhi",
-      "url": "https://open.spotify.com/track/6qpv8Q6bEV3Ke0Mc6LUSPL",
-      "album": "Chal Koi Na",
-      "duration": 128,
-      "popularity": 32,
+      "title": "NAME",
+      "artists": "Ranfateh Shhina, ELLSE",
+      "url": "https://open.spotify.com/track/5CP8BWHv9doYWFBl3bi5VA",
+      "album": "NAME",
+      "duration": 151,
+      "popularity": 23,
       "tag": "trending"
     },
     {
@@ -807,7 +807,7 @@
       "url": "https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i",
       "album": "Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)",
       "duration": 210,
-      "popularity": 62,
+      "popularity": 63,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-05-30 05:30:41 IST"
+  "last_updated": "2025-05-31 05:32:25 IST"
 }
