@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/2TnmSSPkcPdHYYw2Lu84C1",
       "album": "Aayi Nai (From \"Stree 2\")",
       "duration": 178,
-      "popularity": 62,
+      "popularity": 63,
       "tag": "trending"
     },
     {
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB",
       "album": "Pasoori",
       "duration": 224,
-      "popularity": 71,
+      "popularity": 70,
       "tag": "trending"
     },
     {
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD",
       "album": "Odhani (From \"Made in China\")",
       "duration": 195,
-      "popularity": 59,
+      "popularity": 58,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-01 05:30:53 IST"
+  "last_updated": "2025-06-02 05:31:23 IST"
 }
