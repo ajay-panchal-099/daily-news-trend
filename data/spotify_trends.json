@@ -7,7 +7,7 @@
       "url": "https://open.spotify.com/track/5sftykfqtsge0m1iRJzr3y",
       "album": "PANJABI RAPSTA4 0.1LOADING",
       "duration": 226,
-      "popularity": 14,
+      "popularity": 21,
       "tag": "trending"
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://open.spotify.com/track/5NtXcRESOogpY9FsG5GELH",
       "album": "El Paso",
       "duration": 112,
-      "popularity": 38,
+      "popularity": 39,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/4rvNjJhZk5Q2Sm4WTrZNIS",
       "album": "Faded Thoughts",
       "duration": 175,
-      "popularity": 14,
+      "popularity": 18,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-03 05:30:47 IST"
+  "last_updated": "2025-06-04 05:30:51 IST"
 }

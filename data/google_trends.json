@@ -2,75 +2,75 @@
   "trends": [
     {
       "rank": 1,
-      "title": "nasdaq live",
-      "url": "https://google.com/search?q=nasdaq+live",
-      "search_url": "https://google.com/search?q=nasdaq+live",
+      "title": "bollywood",
+      "url": "https://google.com/search?q=bollywood",
+      "search_url": "https://google.com/search?q=bollywood",
       "tag": "trending"
     },
     {
       "rank": 2,
-      "title": "uber",
-      "url": "https://google.com/search?q=uber",
-      "search_url": "https://google.com/search?q=uber",
-      "tag": "trending"
-    },
-    {
-      "rank": 3,
-      "title": "jaggi vasudev",
-      "url": "https://google.com/search?q=jaggi+vasudev",
-      "search_url": "https://google.com/search?q=jaggi+vasudev",
-      "tag": "trending"
-    },
-    {
-      "rank": 4,
-      "title": "photo",
-      "url": "https://google.com/search?q=photo",
-      "search_url": "https://google.com/search?q=photo",
-      "tag": "trending"
-    },
-    {
-      "rank": 5,
-      "title": "up",
-      "url": "https://google.com/search?q=up",
-      "search_url": "https://google.com/search?q=up",
-      "tag": "trending"
-    },
-    {
-      "rank": 6,
-      "title": "one plus 13s",
-      "url": "https://google.com/search?q=one+plus+13s",
-      "search_url": "https://google.com/search?q=one+plus+13s",
-      "tag": "trending"
-    },
-    {
-      "rank": 7,
-      "title": "xxl",
-      "url": "https://google.com/search?q=xxl",
-      "search_url": "https://google.com/search?q=xxl",
-      "tag": "trending"
-    },
-    {
-      "rank": 8,
       "title": "joe root odi",
       "url": "https://google.com/search?q=joe+root+odi",
       "search_url": "https://google.com/search?q=joe+root+odi",
       "tag": "trending"
     },
     {
+      "rank": 3,
+      "title": "bangla",
+      "url": "https://google.com/search?q=bangla",
+      "search_url": "https://google.com/search?q=bangla",
+      "tag": "trending"
+    },
+    {
+      "rank": 4,
+      "title": "nasdaq live",
+      "url": "https://google.com/search?q=nasdaq+live",
+      "search_url": "https://google.com/search?q=nasdaq+live",
+      "tag": "trending"
+    },
+    {
+      "rank": 5,
+      "title": "\u092c\u093e\u0930\u093f\u0936 \u092e\u094c\u0938\u092e \u0935\u093f\u092d\u093e\u0917",
+      "url": "https://google.com/search?q=\u092c\u093e\u0930\u093f\u0936+\u092e\u094c\u0938\u092e+\u0935\u093f\u092d\u093e\u0917",
+      "search_url": "https://google.com/search?q=\u092c\u093e\u0930\u093f\u0936+\u092e\u094c\u0938\u092e+\u0935\u093f\u092d\u093e\u0917",
+      "tag": "trending"
+    },
+    {
+      "rank": 6,
+      "title": "\u0938\u0942\u0930\u094d\u092f\u0915\u0941\u092e\u093e\u0930 \u092f\u093e\u0926\u0935",
+      "url": "https://google.com/search?q=\u0938\u0942\u0930\u094d\u092f\u0915\u0941\u092e\u093e\u0930+\u092f\u093e\u0926\u0935",
+      "search_url": "https://google.com/search?q=\u0938\u0942\u0930\u094d\u092f\u0915\u0941\u092e\u093e\u0930+\u092f\u093e\u0926\u0935",
+      "tag": "trending"
+    },
+    {
+      "rank": 7,
+      "title": "bp",
+      "url": "https://google.com/search?q=bp",
+      "search_url": "https://google.com/search?q=bp",
+      "tag": "trending"
+    },
+    {
+      "rank": 8,
+      "title": "katrina kaif",
+      "url": "https://google.com/search?q=katrina+kaif",
+      "search_url": "https://google.com/search?q=katrina+kaif",
+      "tag": "trending"
+    },
+    {
       "rank": 9,
-      "title": "imane khelif",
-      "url": "https://google.com/search?q=imane+khelif",
-      "search_url": "https://google.com/search?q=imane+khelif",
+      "title": "pakistan air force fighter jets",
+      "url": "https://google.com/search?q=pakistan+air+force+fighter+jets",
+      "search_url": "https://google.com/search?q=pakistan+air+force+fighter+jets",
       "tag": "trending"
     },
     {
       "rank": 10,
-      "title": "wazahat khan",
-      "url": "https://google.com/search?q=wazahat+khan",
-      "search_url": "https://google.com/search?q=wazahat+khan",
+      "title": "drishyam 2",
+      "url": "https://google.com/search?q=drishyam+2",
+      "search_url": "https://google.com/search?q=drishyam+2",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-03 05:31:07 IST",
+  "last_updated": "2025-06-04 05:31:03 IST",
   "source": "rapidapi_realtime"
 }
