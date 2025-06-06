@@ -2,75 +2,75 @@
   "trends": [
     {
       "rank": 1,
-      "title": "botafogo vs cear\u00e1",
-      "url": "https://google.com/search?q=botafogo+vs+cear\u00e1",
-      "search_url": "https://google.com/search?q=botafogo+vs+cear\u00e1",
-      "tag": "trending"
-    },
-    {
-      "rank": 2,
-      "title": "u",
-      "url": "https://google.com/search?q=u",
-      "search_url": "https://google.com/search?q=u",
-      "tag": "trending"
-    },
-    {
-      "rank": 3,
       "title": "bing",
       "url": "https://google.com/search?q=bing",
       "search_url": "https://google.com/search?q=bing",
       "tag": "trending"
     },
     {
+      "rank": 2,
+      "title": "takbeer",
+      "url": "https://google.com/search?q=takbeer",
+      "search_url": "https://google.com/search?q=takbeer",
+      "tag": "trending"
+    },
+    {
+      "rank": 3,
+      "title": "nilson angulo",
+      "url": "https://google.com/search?q=nilson+angulo",
+      "search_url": "https://google.com/search?q=nilson+angulo",
+      "tag": "trending"
+    },
+    {
       "rank": 4,
-      "title": "you",
-      "url": "https://google.com/search?q=you",
-      "search_url": "https://google.com/search?q=you",
+      "title": "uber",
+      "url": "https://google.com/search?q=uber",
+      "search_url": "https://google.com/search?q=uber",
       "tag": "trending"
     },
     {
       "rank": 5,
-      "title": "brahmamudi serial",
-      "url": "https://google.com/search?q=brahmamudi+serial",
-      "search_url": "https://google.com/search?q=brahmamudi+serial",
+      "title": "est\u00eav\u00e3o",
+      "url": "https://google.com/search?q=est\u00eav\u00e3o",
+      "search_url": "https://google.com/search?q=est\u00eav\u00e3o",
       "tag": "trending"
     },
     {
       "rank": 6,
-      "title": "himachal pradesh",
-      "url": "https://google.com/search?q=himachal+pradesh",
-      "search_url": "https://google.com/search?q=himachal+pradesh",
+      "title": "alexsandro",
+      "url": "https://google.com/search?q=alexsandro",
+      "search_url": "https://google.com/search?q=alexsandro",
       "tag": "trending"
     },
     {
       "rank": 7,
-      "title": "photo",
-      "url": "https://google.com/search?q=photo",
-      "search_url": "https://google.com/search?q=photo",
+      "title": "eid al adha",
+      "url": "https://google.com/search?q=eid+al+adha",
+      "search_url": "https://google.com/search?q=eid+al+adha",
       "tag": "trending"
     },
     {
       "rank": 8,
-      "title": "budimir",
-      "url": "https://google.com/search?q=budimir",
-      "search_url": "https://google.com/search?q=budimir",
+      "title": "simla agreement",
+      "url": "https://google.com/search?q=simla+agreement",
+      "search_url": "https://google.com/search?q=simla+agreement",
       "tag": "trending"
     },
     {
       "rank": 9,
-      "title": "lorenzo musetti",
-      "url": "https://google.com/search?q=lorenzo+musetti",
-      "search_url": "https://google.com/search?q=lorenzo+musetti",
+      "title": "paraguay vs uruguay",
+      "url": "https://google.com/search?q=paraguay+vs+uruguay",
+      "search_url": "https://google.com/search?q=paraguay+vs+uruguay",
       "tag": "trending"
     },
     {
       "rank": 10,
-      "title": "fifa world cup 2026",
-      "url": "https://google.com/search?q=fifa+world+cup+2026",
-      "search_url": "https://google.com/search?q=fifa+world+cup+2026",
+      "title": "ecuador vs brazil",
+      "url": "https://google.com/search?q=ecuador+vs+brazil",
+      "search_url": "https://google.com/search?q=ecuador+vs+brazil",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-05 05:31:16 IST",
+  "last_updated": "2025-06-06 05:32:15 IST",
   "source": "rapidapi_realtime"
 }
