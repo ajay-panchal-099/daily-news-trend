@@ -7,7 +7,7 @@
       "url": "https://open.spotify.com/track/5sftykfqtsge0m1iRJzr3y",
       "album": "PANJABI RAPSTA4 0.1LOADING",
       "duration": 226,
-      "popularity": 25,
+      "popularity": 27,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/4rvNjJhZk5Q2Sm4WTrZNIS",
       "album": "Faded Thoughts",
       "duration": 175,
-      "popularity": 21,
+      "popularity": 23,
       "tag": "trending"
     },
     {
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB",
       "album": "Pasoori",
       "duration": 224,
-      "popularity": 70,
+      "popularity": 69,
       "tag": "trending"
     },
     {
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/00NksXMaWtsTARuoZmt0GJ",
       "album": "Fraud Saiyaan (Original Motion Picture Soundtrack)",
       "duration": 196,
-      "popularity": 57,
+      "popularity": 56,
       "tag": "trending"
     },
     {
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i",
       "album": "Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)",
       "duration": 210,
-      "popularity": 63,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-06 05:32:03 IST"
+  "last_updated": "2025-06-07 05:30:44 IST"
 }
