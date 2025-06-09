@@ -7,7 +7,7 @@
       "url": "https://open.spotify.com/track/5sftykfqtsge0m1iRJzr3y",
       "album": "PANJABI RAPSTA4 0.1LOADING",
       "duration": 226,
-      "popularity": 28,
+      "popularity": 29,
       "tag": "trending"
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://open.spotify.com/track/5NtXcRESOogpY9FsG5GELH",
       "album": "El Paso",
       "duration": 112,
-      "popularity": 39,
+      "popularity": 40,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/4rvNjJhZk5Q2Sm4WTrZNIS",
       "album": "Faded Thoughts",
       "duration": 175,
-      "popularity": 24,
+      "popularity": 25,
       "tag": "trending"
     },
     {
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/0MLZAgKQKHbPsJ12qHS860",
       "album": "Love Aaj Kal (Original Motion Picture Soundtrack)",
       "duration": 218,
-      "popularity": 60,
+      "popularity": 59,
       "tag": "trending"
     },
     {
@@ -927,7 +927,7 @@
       "url": "https://open.spotify.com/track/1ozrNv9W4KlprAmvgH0Yrq",
       "album": "High Rated Gabru (From \"Nawabzaade\")",
       "duration": 179,
-      "popularity": 66,
+      "popularity": 67,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-08 05:30:43 IST"
+  "last_updated": "2025-06-09 05:30:44 IST"
 }
