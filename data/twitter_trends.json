@@ -2,641 +2,620 @@
   "trends": [
     {
       "rank": 1,
-      "name": "#NationsLeague",
-      "url": "https://twitter.com/search?q=%23NationsLeague",
-      "volume": "149.0k+",
+      "name": "#WWDC25",
+      "url": "https://twitter.com/search?q=%23WWDC25",
+      "volume": "101.0k+",
       "tag": "trending"
     },
     {
       "rank": 2,
-      "name": "Portugal",
-      "url": "https://twitter.com/search?q=Portugal",
-      "volume": "452.0k+",
+      "name": "Apple",
+      "url": "https://twitter.com/search?q=Apple",
+      "volume": "326.0k+",
       "tag": "trending"
     },
     {
       "rank": 3,
-      "name": "Ronaldo",
-      "url": "https://twitter.com/search?q=Ronaldo",
-      "volume": "590.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 4,
-      "name": "Nuno Mendes",
-      "url": "https://twitter.com/search?q=Nuno Mendes",
-      "volume": "248.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 5,
-      "name": "Morata",
-      "url": "https://twitter.com/search?q=Morata",
-      "volume": "100.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 6,
-      "name": "#RolandGarros2025",
-      "url": "https://twitter.com/search?q=%23RolandGarros2025",
-      "volume": "42.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 7,
-      "name": "Alcaraz",
-      "url": "https://twitter.com/search?q=Alcaraz",
-      "volume": "444.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 8,
-      "name": "Yamal",
-      "url": "https://twitter.com/search?q=Yamal",
-      "volume": "402.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 9,
-      "name": "#frenchopen2025",
-      "url": "https://twitter.com/search?q=%23frenchopen2025",
+      "name": "#iOS26",
+      "url": "https://twitter.com/search?q=%23iOS26",
       "volume": "-",
       "tag": "trending"
     },
     {
+      "rank": 4,
+      "name": "ICC Hall of Fame",
+      "url": "https://twitter.com/search?q=ICC Hall of Fame",
+      "volume": "52.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 5,
+      "name": "Liquid Glass",
+      "url": "https://twitter.com/search?q=Liquid Glass",
+      "volume": "20.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 6,
+      "name": "#HBDTejasswi",
+      "url": "https://twitter.com/search?q=%23HBDTejasswi",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 7,
+      "name": "#HappyBirthdayNBK",
+      "url": "https://twitter.com/search?q=%23HappyBirthdayNBK",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 8,
+      "name": "iPad",
+      "url": "https://twitter.com/search?q=iPad",
+      "volume": "27.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 9,
+      "name": "macOS",
+      "url": "https://twitter.com/search?q=macOS",
+      "volume": "13.0k+",
+      "tag": "trending"
+    },
+    {
       "rank": 10,
-      "name": "#PORESP",
-      "url": "https://twitter.com/search?q=%23PORESP",
-      "volume": "24.0k+",
+      "name": "Windows Vista",
+      "url": "https://twitter.com/search?q=Windows Vista",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 11,
-      "name": "Leao",
-      "url": "https://twitter.com/search?q=Leao",
-      "volume": "35.0k+",
+      "name": "TAEHYUNG RETURNS TODAY",
+      "url": "https://twitter.com/search?q=TAEHYUNG RETURNS TODAY",
+      "volume": "84.0k+",
       "tag": "trending"
     },
     {
       "rank": 12,
-      "name": "Isco",
-      "url": "https://twitter.com/search?q=Isco",
-      "volume": "16.0k+",
+      "name": "Tahoe",
+      "url": "https://twitter.com/search?q=Tahoe",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 13,
-      "name": "Nadal",
-      "url": "https://twitter.com/search?q=Nadal",
-      "volume": "56.0k+",
+      "name": "The Myth",
+      "url": "https://twitter.com/search?q=The Myth",
+      "volume": "14.0k+",
       "tag": "trending"
     },
     {
       "rank": 14,
-      "name": "Costa",
-      "url": "https://twitter.com/search?q=Costa",
-      "volume": "58.0k+",
+      "name": "namjoon",
+      "url": "https://twitter.com/search?q=namjoon",
+      "volume": "229.0k+",
       "tag": "trending"
     },
     {
       "rank": 15,
-      "name": "Pedri",
-      "url": "https://twitter.com/search?q=Pedri",
-      "volume": "82.0k+",
+      "name": "The Man",
+      "url": "https://twitter.com/search?q=The Man",
+      "volume": "811.0k+",
       "tag": "trending"
     },
     {
       "rank": 16,
-      "name": "Tennis",
-      "url": "https://twitter.com/search?q=Tennis",
-      "volume": "133.0k+",
+      "name": "WITH JUNGKOOK IN 1 DAY",
+      "url": "https://twitter.com/search?q=WITH JUNGKOOK IN 1 DAY",
+      "volume": "16.0k+",
       "tag": "trending"
     },
     {
       "rank": 17,
-      "name": "Federer",
-      "url": "https://twitter.com/search?q=Federer",
-      "volume": "22.0k+",
+      "name": "RM IS FINALLY BACK",
+      "url": "https://twitter.com/search?q=RM IS FINALLY BACK",
+      "volume": "47.0k+",
       "tag": "trending"
     },
     {
       "rank": 18,
-      "name": "GOAT",
-      "url": "https://twitter.com/search?q=GOAT",
-      "volume": "196.0k+",
+      "name": "GREATEST OF ALL TIME",
+      "url": "https://twitter.com/search?q=GREATEST OF ALL TIME",
+      "volume": "53.0k+",
       "tag": "trending"
     },
     {
       "rank": 19,
-      "name": "E ARE B",
-      "url": "https://twitter.com/search?q=E ARE B",
-      "volume": "57.0k+",
+      "name": "Assam Police",
+      "url": "https://twitter.com/search?q=Assam Police",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 20,
-      "name": "Oyarzabal",
-      "url": "https://twitter.com/search?q=Oyarzabal",
-      "volume": "26.0k+",
+      "name": "Saint Dr MSG Insan",
+      "url": "https://twitter.com/search?q=Saint Dr MSG Insan",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 21,
-      "name": "Vitinha",
-      "url": "https://twitter.com/search?q=Vitinha",
-      "volume": "38.0k+",
+      "name": "Siri",
+      "url": "https://twitter.com/search?q=Siri",
+      "volume": "21.0k+",
       "tag": "trending"
     },
     {
       "rank": 22,
-      "name": "Wimbledon",
-      "url": "https://twitter.com/search?q=Wimbledon",
-      "volume": "30.0k+",
+      "name": "California",
+      "url": "https://twitter.com/search?q=California",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 23,
-      "name": "Neves",
-      "url": "https://twitter.com/search?q=Neves",
-      "volume": "35.0k+",
+      "name": "jikook",
+      "url": "https://twitter.com/search?q=jikook",
+      "volume": "18.0k+",
       "tag": "trending"
     },
     {
       "rank": 24,
-      "name": "Bernardo Silva",
-      "url": "https://twitter.com/search?q=Bernardo Silva",
+      "name": "God of Masses",
+      "url": "https://twitter.com/search?q=God of Masses",
       "volume": "12.0k+",
       "tag": "trending"
     },
     {
       "rank": 25,
-      "name": "WHAT A MATCH",
-      "url": "https://twitter.com/search?q=WHAT A MATCH",
-      "volume": "20.0k+",
+      "name": "Greta",
+      "url": "https://twitter.com/search?q=Greta",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 26,
-      "name": "Messi",
-      "url": "https://twitter.com/search?q=Messi",
-      "volume": "144.0k+",
+      "name": "The GOAT",
+      "url": "https://twitter.com/search?q=The GOAT",
+      "volume": "129.0k+",
       "tag": "trending"
     },
     {
       "rank": 27,
-      "name": "Martinez",
-      "url": "https://twitter.com/search?q=Martinez",
-      "volume": "52.0k+",
+      "name": "#SEE_V_TODAY",
+      "url": "https://twitter.com/search?q=%23SEE_V_TODAY",
+      "volume": "80.0k+",
       "tag": "trending"
     },
     {
       "rank": 28,
-      "name": "Nico",
-      "url": "https://twitter.com/search?q=Nico",
-      "volume": "109.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 29,
-      "name": "Ballon",
-      "url": "https://twitter.com/search?q=Ballon",
-      "volume": "158.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 30,
-      "name": "Carlitos",
-      "url": "https://twitter.com/search?q=Carlitos",
-      "volume": "37.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 31,
-      "name": "KRUSHI WINNING HEARTS",
-      "url": "https://twitter.com/search?q=KRUSHI WINNING HEARTS",
-      "volume": "41.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 32,
-      "name": "HAPPY BIRTHDAY MANISHA RANI",
-      "url": "https://twitter.com/search?q=HAPPY BIRTHDAY MANISHA RANI",
-      "volume": "19.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 33,
-      "name": "Djokovic",
-      "url": "https://twitter.com/search?q=Djokovic",
-      "volume": "22.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 34,
-      "name": "BTS IS BACK",
-      "url": "https://twitter.com/search?q=BTS IS BACK",
-      "volume": "328.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 35,
-      "name": "Roger",
-      "url": "https://twitter.com/search?q=Roger",
-      "volume": "30.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 36,
-      "name": "Xbox",
-      "url": "https://twitter.com/search?q=Xbox",
-      "volume": "217.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 37,
-      "name": "Novak",
-      "url": "https://twitter.com/search?q=Novak",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 38,
-      "name": "Arbitrum",
-      "url": "https://twitter.com/search?q=Arbitrum",
-      "volume": "55.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 39,
-      "name": "#MetaRestoreRantingGola",
-      "url": "https://twitter.com/search?q=%23MetaRestoreRantingGola",
+      "name": "#TejasswiPrakash",
+      "url": "https://twitter.com/search?q=%23TejasswiPrakash",
       "volume": "11.0k+",
       "tag": "trending"
     },
     {
+      "rank": 29,
+      "name": "#HappyBirthdayBalayya",
+      "url": "https://twitter.com/search?q=%23HappyBirthdayBalayya",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 30,
+      "name": "#Akhanda2",
+      "url": "https://twitter.com/search?q=%23Akhanda2",
+      "volume": "50.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 31,
+      "name": "#MumbaiTrainAccident",
+      "url": "https://twitter.com/search?q=%23MumbaiTrainAccident",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 32,
+      "name": "#D_DayToMeet_V",
+      "url": "https://twitter.com/search?q=%23D_DayToMeet_V",
+      "volume": "44.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 33,
+      "name": "#JungkookIsComingBack",
+      "url": "https://twitter.com/search?q=%23JungkookIsComingBack",
+      "volume": "34.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 34,
+      "name": "#TejRan",
+      "url": "https://twitter.com/search?q=%23TejRan",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 35,
+      "name": "#Balti",
+      "url": "https://twitter.com/search?q=%23Balti",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 36,
+      "name": "#SelfGrowth",
+      "url": "https://twitter.com/search?q=%23SelfGrowth",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 37,
+      "name": "#NandamuriBalakrishna",
+      "url": "https://twitter.com/search?q=%23NandamuriBalakrishna",
+      "volume": "25.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 38,
+      "name": "#Thala",
+      "url": "https://twitter.com/search?q=%23Thala",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 39,
+      "name": "#RASMAINSPOSTPONE",
+      "url": "https://twitter.com/search?q=%23RASMAINSPOSTPONE",
+      "volume": "57.0k+",
+      "tag": "trending"
+    },
+    {
       "rank": 40,
-      "name": "#BlockHate",
-      "url": "https://twitter.com/search?q=%23BlockHate",
+      "name": "#SonamRaghuvanshiArrested",
+      "url": "https://twitter.com/search?q=%23SonamRaghuvanshiArrested",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 41,
-      "name": "#AkhilZainabReception",
-      "url": "https://twitter.com/search?q=%23AkhilZainabReception",
-      "volume": "13.0k+",
+      "name": "#Madleen",
+      "url": "https://twitter.com/search?q=%23Madleen",
+      "volume": "315.0k+",
       "tag": "trending"
     },
     {
       "rank": 42,
-      "name": "#ArrestArfaKhanam",
-      "url": "https://twitter.com/search?q=%23ArrestArfaKhanam",
-      "volume": "42.0k+",
+      "name": "#LosAngelesRiots",
+      "url": "https://twitter.com/search?q=%23LosAngelesRiots",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 43,
-      "name": "#CID2",
-      "url": "https://twitter.com/search?q=%23CID2",
-      "volume": "-",
+      "name": "#LosAngelesProtests",
+      "url": "https://twitter.com/search?q=%23LosAngelesProtests",
+      "volume": "13.0k+",
       "tag": "trending"
     },
     {
       "rank": 44,
-      "name": "#RinkuSinghEngagement",
-      "url": "https://twitter.com/search?q=%23RinkuSinghEngagement",
-      "volume": "-",
+      "name": "#WWDC25",
+      "url": "https://twitter.com/search?q=%23WWDC25",
+      "volume": "87.0k+",
       "tag": "trending"
     },
     {
       "rank": 45,
-      "name": "#LYKN",
-      "url": "https://twitter.com/search?q=%23LYKN",
-      "volume": "131.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 46,
-      "name": "Alcaraz",
-      "url": "https://twitter.com/search?q=Alcaraz",
-      "volume": "396.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 47,
-      "name": "#RolandGarros2025",
-      "url": "https://twitter.com/search?q=%23RolandGarros2025",
-      "volume": "38.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 48,
-      "name": "Spain",
-      "url": "https://twitter.com/search?q=Spain",
-      "volume": "145.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 49,
-      "name": "#frenchopen2025",
-      "url": "https://twitter.com/search?q=%23frenchopen2025",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 50,
-      "name": "Nuno Mendes",
-      "url": "https://twitter.com/search?q=Nuno Mendes",
-      "volume": "51.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 51,
-      "name": "Ronaldo",
-      "url": "https://twitter.com/search?q=Ronaldo",
-      "volume": "269.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 52,
-      "name": "#NationsLeague",
-      "url": "https://twitter.com/search?q=%23NationsLeague",
-      "volume": "54.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 53,
-      "name": "Nadal",
-      "url": "https://twitter.com/search?q=Nadal",
+      "name": "ICC Hall of Fame",
+      "url": "https://twitter.com/search?q=ICC Hall of Fame",
       "volume": "46.0k+",
       "tag": "trending"
     },
     {
-      "rank": 54,
-      "name": "Isco",
-      "url": "https://twitter.com/search?q=Isco",
+      "rank": 46,
+      "name": "Apple",
+      "url": "https://twitter.com/search?q=Apple",
+      "volume": "306.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 47,
+      "name": "#MSDhoni",
+      "url": "https://twitter.com/search?q=%23MSDhoni",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 55,
-      "name": "#PORESP",
-      "url": "https://twitter.com/search?q=%23PORESP",
-      "volume": "12.0k+",
+      "rank": 48,
+      "name": "#iOS26",
+      "url": "https://twitter.com/search?q=%23iOS26",
+      "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 56,
-      "name": "Yamal",
-      "url": "https://twitter.com/search?q=Yamal",
-      "volume": "177.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 57,
-      "name": "Tennis",
-      "url": "https://twitter.com/search?q=Tennis",
-      "volume": "125.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 58,
-      "name": "Oyarzabal",
-      "url": "https://twitter.com/search?q=Oyarzabal",
-      "volume": "18.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 59,
-      "name": "Federer",
-      "url": "https://twitter.com/search?q=Federer",
-      "volume": "20.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 60,
-      "name": "E ARE B",
-      "url": "https://twitter.com/search?q=E ARE B",
-      "volume": "48.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 61,
-      "name": "Wimbledon",
-      "url": "https://twitter.com/search?q=Wimbledon",
-      "volume": "26.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 62,
-      "name": "#MetaRestoreRantingGola",
-      "url": "https://twitter.com/search?q=%23MetaRestoreRantingGola",
-      "volume": "11.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 63,
-      "name": "Neves",
-      "url": "https://twitter.com/search?q=Neves",
-      "volume": "26.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 64,
-      "name": "Pedri",
-      "url": "https://twitter.com/search?q=Pedri",
-      "volume": "55.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 65,
-      "name": "WHAT A MATCH",
-      "url": "https://twitter.com/search?q=WHAT A MATCH",
-      "volume": "20.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 66,
-      "name": "Bernardo Silva",
-      "url": "https://twitter.com/search?q=Bernardo Silva",
-      "volume": "11.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 67,
-      "name": "HAPPY BIRTHDAY MANISHA RANI",
-      "url": "https://twitter.com/search?q=HAPPY BIRTHDAY MANISHA RANI",
-      "volume": "19.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 68,
-      "name": "Grand Slam",
-      "url": "https://twitter.com/search?q=Grand Slam",
-      "volume": "78.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 69,
-      "name": "Carlitos",
-      "url": "https://twitter.com/search?q=Carlitos",
-      "volume": "34.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 70,
-      "name": "KRUSHI WINNING HEARTS",
-      "url": "https://twitter.com/search?q=KRUSHI WINNING HEARTS",
-      "volume": "40.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 71,
-      "name": "Djokovic",
-      "url": "https://twitter.com/search?q=Djokovic",
-      "volume": "20.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 72,
-      "name": "BTS IS BACK",
-      "url": "https://twitter.com/search?q=BTS IS BACK",
-      "volume": "311.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 73,
-      "name": "Nico Williams",
-      "url": "https://twitter.com/search?q=Nico Williams",
-      "volume": "18.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 74,
-      "name": "Roger",
-      "url": "https://twitter.com/search?q=Roger",
-      "volume": "30.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 75,
-      "name": "Vitinha",
-      "url": "https://twitter.com/search?q=Vitinha",
-      "volume": "24.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 76,
-      "name": "Zubimendi",
-      "url": "https://twitter.com/search?q=Zubimendi",
-      "volume": "16.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 77,
-      "name": "Leao",
-      "url": "https://twitter.com/search?q=Leao",
+      "rank": 49,
+      "name": "Liquid Glass",
+      "url": "https://twitter.com/search?q=Liquid Glass",
       "volume": "15.0k+",
       "tag": "trending"
     },
     {
-      "rank": 78,
-      "name": "Xbox",
-      "url": "https://twitter.com/search?q=Xbox",
-      "volume": "189.0k+",
+      "rank": 50,
+      "name": "#HBDTejasswi",
+      "url": "https://twitter.com/search?q=%23HBDTejasswi",
+      "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 79,
-      "name": "Yapyo",
-      "url": "https://twitter.com/search?q=Yapyo",
-      "volume": "114.0k+",
+      "rank": 51,
+      "name": "#PLUMBUS",
+      "url": "https://twitter.com/search?q=%23PLUMBUS",
+      "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 80,
-      "name": "Martinez",
-      "url": "https://twitter.com/search?q=Martinez",
-      "volume": "47.0k+",
+      "rank": 52,
+      "name": "Windows Vista",
+      "url": "https://twitter.com/search?q=Windows Vista",
+      "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 81,
-      "name": "Novak",
-      "url": "https://twitter.com/search?q=Novak",
+      "rank": 53,
+      "name": "TAEHYUNG RETURNS TODAY",
+      "url": "https://twitter.com/search?q=TAEHYUNG RETURNS TODAY",
+      "volume": "74.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 54,
+      "name": "macOS",
+      "url": "https://twitter.com/search?q=macOS",
+      "volume": "10.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 55,
+      "name": "iPad",
+      "url": "https://twitter.com/search?q=iPad",
+      "volume": "25.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 56,
+      "name": "Tahoe",
+      "url": "https://twitter.com/search?q=Tahoe",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 57,
+      "name": "The Myth",
+      "url": "https://twitter.com/search?q=The Myth",
+      "volume": "14.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 58,
+      "name": "The Man",
+      "url": "https://twitter.com/search?q=The Man",
+      "volume": "799.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 59,
+      "name": "Craig",
+      "url": "https://twitter.com/search?q=Craig",
+      "volume": "17.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 60,
+      "name": "WITH JUNGKOOK IN 1 DAY",
+      "url": "https://twitter.com/search?q=WITH JUNGKOOK IN 1 DAY",
+      "volume": "14.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 61,
+      "name": "RM IS FINALLY BACK",
+      "url": "https://twitter.com/search?q=RM IS FINALLY BACK",
+      "volume": "43.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 62,
+      "name": "Assam Police",
+      "url": "https://twitter.com/search?q=Assam Police",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 63,
+      "name": "GREATEST OF ALL TIME",
+      "url": "https://twitter.com/search?q=GREATEST OF ALL TIME",
+      "volume": "54.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 64,
+      "name": "1 DAY FOR JUNGKOOK",
+      "url": "https://twitter.com/search?q=1 DAY FOR JUNGKOOK",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 65,
+      "name": "Saint Dr MSG Insan",
+      "url": "https://twitter.com/search?q=Saint Dr MSG Insan",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 66,
+      "name": "The Legend",
+      "url": "https://twitter.com/search?q=The Legend",
+      "volume": "69.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 67,
+      "name": "Siri",
+      "url": "https://twitter.com/search?q=Siri",
+      "volume": "20.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 68,
+      "name": "The GOAT",
+      "url": "https://twitter.com/search?q=The GOAT",
+      "volume": "130.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 69,
+      "name": "Greta",
+      "url": "https://twitter.com/search?q=Greta",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 70,
+      "name": "God of Masses",
+      "url": "https://twitter.com/search?q=God of Masses",
+      "volume": "11.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 71,
+      "name": "jikook",
+      "url": "https://twitter.com/search?q=jikook",
+      "volume": "16.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 72,
+      "name": "Anant Ambani",
+      "url": "https://twitter.com/search?q=Anant Ambani",
       "volume": "12.0k+",
       "tag": "trending"
     },
     {
+      "rank": 73,
+      "name": "RRTS",
+      "url": "https://twitter.com/search?q=RRTS",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 74,
+      "name": "California",
+      "url": "https://twitter.com/search?q=California",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 75,
+      "name": "Raj Kushwaha",
+      "url": "https://twitter.com/search?q=Raj Kushwaha",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 76,
+      "name": "Spirit of Mumbai",
+      "url": "https://twitter.com/search?q=Spirit of Mumbai",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 77,
+      "name": "Metro",
+      "url": "https://twitter.com/search?q=Metro",
+      "volume": "64.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 78,
+      "name": "Thane",
+      "url": "https://twitter.com/search?q=Thane",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 79,
+      "name": "TNPL",
+      "url": "https://twitter.com/search?q=TNPL",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 80,
+      "name": "#HappyBirthdayNBK",
+      "url": "https://twitter.com/search?q=%23HappyBirthdayNBK",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 81,
+      "name": "#SEE_V_TODAY",
+      "url": "https://twitter.com/search?q=%23SEE_V_TODAY",
+      "volume": "71.0k+",
+      "tag": "trending"
+    },
+    {
       "rank": 82,
-      "name": "Championship",
-      "url": "https://twitter.com/search?q=Championship",
-      "volume": "89.0k+",
+      "name": "#TejasswiPrakash",
+      "url": "https://twitter.com/search?q=%23TejasswiPrakash",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 83,
-      "name": "Big 3",
-      "url": "https://twitter.com/search?q=Big 3",
-      "volume": "35.0k+",
+      "name": "#HappyBirthdayBalayya",
+      "url": "https://twitter.com/search?q=%23HappyBirthdayBalayya",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 84,
-      "name": "Arbitrum",
-      "url": "https://twitter.com/search?q=Arbitrum",
-      "volume": "52.0k+",
+      "name": "#Akhanda2Teaser",
+      "url": "https://twitter.com/search?q=%23Akhanda2Teaser",
+      "volume": "37.0k+",
       "tag": "trending"
     },
     {
       "rank": 85,
-      "name": "Blocked",
-      "url": "https://twitter.com/search?q=Blocked",
-      "volume": "82.0k+",
+      "name": "#Ananthankaadu",
+      "url": "https://twitter.com/search?q=%23Ananthankaadu",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 86,
-      "name": "Kapil Mishra",
-      "url": "https://twitter.com/search?q=Kapil Mishra",
+      "name": "#MumbaiTrainAccident",
+      "url": "https://twitter.com/search?q=%23MumbaiTrainAccident",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 87,
-      "name": "#BlockHate",
-      "url": "https://twitter.com/search?q=%23BlockHate",
-      "volume": "-",
+      "name": "#D_DayToMeet_V",
+      "url": "https://twitter.com/search?q=%23D_DayToMeet_V",
+      "volume": "39.0k+",
       "tag": "trending"
     },
     {
       "rank": 88,
-      "name": "#AkhilZainabReception",
-      "url": "https://twitter.com/search?q=%23AkhilZainabReception",
-      "volume": "13.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 89,
-      "name": "#MaheshBabu",
-      "url": "https://twitter.com/search?q=%23MaheshBabu",
-      "volume": "11.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 90,
-      "name": "#ArrestArfaKhanam",
-      "url": "https://twitter.com/search?q=%23ArrestArfaKhanam",
-      "volume": "42.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 91,
-      "name": "#rinkusingh",
-      "url": "https://twitter.com/search?q=%23rinkusingh",
-      "volume": "17.0k+",
+      "name": "#SelfGrowth",
+      "url": "https://twitter.com/search?q=%23SelfGrowth",
+      "volume": "-",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-09 05:30:54 IST"
+  "last_updated": "2025-06-10 05:30:54 IST"
 }
