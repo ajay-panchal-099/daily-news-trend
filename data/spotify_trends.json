@@ -7,7 +7,7 @@
       "url": "https://open.spotify.com/track/5sftykfqtsge0m1iRJzr3y",
       "album": "PANJABI RAPSTA4 0.1LOADING",
       "duration": 226,
-      "popularity": 31,
+      "popularity": 32,
       "tag": "trending"
     },
     {
@@ -17,7 +17,7 @@
       "url": "https://open.spotify.com/track/2M1GlxpAx439KkDJhwMVcK",
       "album": "Qayamat (From \"Housefull 5\")",
       "duration": 164,
-      "popularity": 61,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/3E2alxlOoe5EURfec217Uu",
       "album": "Kissik (From \"Pushpa 2 The Rule\") [HINDI]",
       "duration": 248,
-      "popularity": 58,
+      "popularity": 59,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/4rvNjJhZk5Q2Sm4WTrZNIS",
       "album": "Faded Thoughts",
       "duration": 175,
-      "popularity": 26,
+      "popularity": 28,
       "tag": "trending"
     },
     {
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H",
       "album": "Pathaan",
       "duration": 208,
-      "popularity": 67,
+      "popularity": 68,
       "tag": "trending"
     },
     {
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/737AP6EH4PvRzBNfBipaK2",
       "album": "Boom Padi (From \"Maja Ma\")",
       "duration": 245,
-      "popularity": 40,
+      "popularity": 41,
       "tag": "trending"
     },
     {
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/5n8BCU2JmPORrFboGeDlXV",
       "album": "Main Deewana Tera (From \"Arjun Patiala\")",
       "duration": 194,
-      "popularity": 47,
+      "popularity": 48,
       "tag": "trending"
     },
     {
@@ -847,7 +847,7 @@
       "url": "https://open.spotify.com/track/0MLZAgKQKHbPsJ12qHS860",
       "album": "Love Aaj Kal (Original Motion Picture Soundtrack)",
       "duration": 218,
-      "popularity": 59,
+      "popularity": 60,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-10 05:30:45 IST"
+  "last_updated": "2025-06-11 05:32:10 IST"
 }
