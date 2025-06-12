@@ -17,7 +17,7 @@
       "url": "https://open.spotify.com/track/2M1GlxpAx439KkDJhwMVcK",
       "album": "Qayamat (From \"Housefull 5\")",
       "duration": 164,
-      "popularity": 62,
+      "popularity": 63,
       "tag": "trending"
     },
     {
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/2L2KCobOPHPj0gKU0NFUmL",
       "album": "Ikk Vaari (From \"Mere Husband Ki Biwi\")",
       "duration": 174,
-      "popularity": 50,
+      "popularity": 49,
       "tag": "trending"
     },
     {
@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/3E2alxlOoe5EURfec217Uu",
       "album": "Kissik (From \"Pushpa 2 The Rule\") [HINDI]",
       "duration": 248,
-      "popularity": 59,
+      "popularity": 58,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/4rvNjJhZk5Q2Sm4WTrZNIS",
       "album": "Faded Thoughts",
       "duration": 175,
-      "popularity": 28,
+      "popularity": 30,
       "tag": "trending"
     },
     {
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8",
       "album": "Muqabla (From \"Street Dancer 3D\")",
       "duration": 176,
-      "popularity": 62,
+      "popularity": 63,
       "tag": "trending"
     },
     {
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/40S8Et5fYlBCa0QgBTEOE1",
       "album": "Enni Soni (From \"Saaho\")",
       "duration": 258,
-      "popularity": 55,
+      "popularity": 56,
       "tag": "trending"
     },
     {
@@ -827,7 +827,7 @@
       "url": "https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i",
       "album": "Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)",
       "duration": 210,
-      "popularity": 62,
+      "popularity": 63,
       "tag": "trending"
     },
     {
@@ -907,7 +907,7 @@
       "url": "https://open.spotify.com/track/5x72Q1SyiDHJ4IF2mRzfkg",
       "album": "Gali Gali (From \"Kgf Chapter 1\")",
       "duration": 174,
-      "popularity": 68,
+      "popularity": 69,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-11 05:32:10 IST"
+  "last_updated": "2025-06-12 05:32:10 IST"
 }
