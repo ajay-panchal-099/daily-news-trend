@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/4rvNjJhZk5Q2Sm4WTrZNIS",
       "album": "Faded Thoughts",
       "duration": 175,
-      "popularity": 30,
+      "popularity": 31,
       "tag": "trending"
     },
     {
@@ -427,7 +427,7 @@
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB",
       "album": "Pasoori",
       "duration": 224,
-      "popularity": 69,
+      "popularity": 68,
       "tag": "trending"
     },
     {
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/3hts3cIWNG8A2063si9GLP",
       "album": "Bijli (From \"Govinda Naam Mera\")",
       "duration": 174,
-      "popularity": 49,
+      "popularity": 50,
       "tag": "trending"
     },
     {
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/79xjw95DSvcl8sDtghDOGo",
       "album": "Akdi Pakdi (From \"Liger\")",
       "duration": 230,
-      "popularity": 36,
+      "popularity": 37,
       "tag": "trending"
     },
     {
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/5n8BCU2JmPORrFboGeDlXV",
       "album": "Main Deewana Tera (From \"Arjun Patiala\")",
       "duration": 194,
-      "popularity": 48,
+      "popularity": 47,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-12 05:32:10 IST"
+  "last_updated": "2025-06-13 05:30:57 IST"
 }
