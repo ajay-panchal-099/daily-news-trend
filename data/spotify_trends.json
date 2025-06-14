@@ -7,7 +7,7 @@
       "url": "https://open.spotify.com/track/5sftykfqtsge0m1iRJzr3y",
       "album": "PANJABI RAPSTA4 0.1LOADING",
       "duration": 226,
-      "popularity": 32,
+      "popularity": 33,
       "tag": "trending"
     },
     {
@@ -17,7 +17,7 @@
       "url": "https://open.spotify.com/track/2M1GlxpAx439KkDJhwMVcK",
       "album": "Qayamat (From \"Housefull 5\")",
       "duration": 164,
-      "popularity": 63,
+      "popularity": 64,
       "tag": "trending"
     },
     {
@@ -27,7 +27,7 @@
       "url": "https://open.spotify.com/track/4OV1XWa6OSz4W4oUoRk9A7",
       "album": "FEEL THE NIGHT",
       "duration": 163,
-      "popularity": 39,
+      "popularity": 38,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/4rvNjJhZk5Q2Sm4WTrZNIS",
       "album": "Faded Thoughts",
       "duration": 175,
-      "popularity": 31,
+      "popularity": 32,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-13 05:30:57 IST"
+  "last_updated": "2025-06-14 05:32:19 IST"
 }
