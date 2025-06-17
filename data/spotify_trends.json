@@ -7,7 +7,7 @@
       "url": "https://open.spotify.com/track/5sftykfqtsge0m1iRJzr3y",
       "album": "PANJABI RAPSTA4 0.1LOADING",
       "duration": 226,
-      "popularity": 33,
+      "popularity": 34,
       "tag": "trending"
     },
     {
@@ -17,7 +17,7 @@
       "url": "https://open.spotify.com/track/2M1GlxpAx439KkDJhwMVcK",
       "album": "Qayamat (From \"Housefull 5\")",
       "duration": 164,
-      "popularity": 65,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD",
       "album": "Odhani (From \"Made in China\")",
       "duration": 195,
-      "popularity": 58,
+      "popularity": 59,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-16 05:31:07 IST"
+  "last_updated": "2025-06-17 05:31:10 IST"
 }
