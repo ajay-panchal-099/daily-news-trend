@@ -2,75 +2,75 @@
   "trends": [
     {
       "rank": 1,
-      "title": "hindi news",
-      "url": "https://google.com/search?q=hindi+news",
-      "search_url": "https://google.com/search?q=hindi+news",
-      "tag": "trending"
-    },
-    {
-      "rank": 2,
-      "title": "weather report today",
-      "url": "https://google.com/search?q=weather+report+today",
-      "search_url": "https://google.com/search?q=weather+report+today",
-      "tag": "trending"
-    },
-    {
-      "rank": 3,
-      "title": "today weather report",
-      "url": "https://google.com/search?q=today+weather+report",
-      "search_url": "https://google.com/search?q=today+weather+report",
-      "tag": "trending"
-    },
-    {
-      "rank": 4,
       "title": "\u0986\u099c\u0995\u09c7\u09b0 \u0986\u09ac\u09b9\u09be\u0993\u09af\u09bc\u09be",
       "url": "https://google.com/search?q=\u0986\u099c\u0995\u09c7\u09b0+\u0986\u09ac\u09b9\u09be\u0993\u09af\u09bc\u09be",
       "search_url": "https://google.com/search?q=\u0986\u099c\u0995\u09c7\u09b0+\u0986\u09ac\u09b9\u09be\u0993\u09af\u09bc\u09be",
       "tag": "trending"
     },
     {
+      "rank": 2,
+      "title": "rapido",
+      "url": "https://google.com/search?q=rapido",
+      "search_url": "https://google.com/search?q=rapido",
+      "tag": "trending"
+    },
+    {
+      "rank": 3,
+      "title": "bhojpuri video",
+      "url": "https://google.com/search?q=bhojpuri+video",
+      "search_url": "https://google.com/search?q=bhojpuri+video",
+      "tag": "trending"
+    },
+    {
+      "rank": 4,
+      "title": "canada",
+      "url": "https://google.com/search?q=canada",
+      "search_url": "https://google.com/search?q=canada",
+      "tag": "trending"
+    },
+    {
       "rank": 5,
-      "title": "we",
-      "url": "https://google.com/search?q=we",
-      "search_url": "https://google.com/search?q=we",
+      "title": "nasdaq today",
+      "url": "https://google.com/search?q=nasdaq+today",
+      "search_url": "https://google.com/search?q=nasdaq+today",
       "tag": "trending"
     },
     {
       "rank": 6,
-      "title": "dowjones",
-      "url": "https://google.com/search?q=dowjones",
-      "search_url": "https://google.com/search?q=dowjones",
-      "tag": "trending"
-    },
-    {
-      "rank": 7,
-      "title": "manali weather",
-      "url": "https://google.com/search?q=manali+weather",
-      "search_url": "https://google.com/search?q=manali+weather",
-      "tag": "trending"
-    },
-    {
-      "rank": 8,
       "title": "hd",
       "url": "https://google.com/search?q=hd",
       "search_url": "https://google.com/search?q=hd",
       "tag": "trending"
     },
     {
+      "rank": 7,
+      "title": "weather ranchi",
+      "url": "https://google.com/search?q=weather+ranchi",
+      "search_url": "https://google.com/search?q=weather+ranchi",
+      "tag": "trending"
+    },
+    {
+      "rank": 8,
+      "title": "\u0935\u0940\u0921\u093f\u092f\u094b",
+      "url": "https://google.com/search?q=\u0935\u0940\u0921\u093f\u092f\u094b",
+      "search_url": "https://google.com/search?q=\u0935\u0940\u0921\u093f\u092f\u094b",
+      "tag": "trending"
+    },
+    {
       "rank": 9,
-      "title": "nasdaq index",
-      "url": "https://google.com/search?q=nasdaq+index",
-      "search_url": "https://google.com/search?q=nasdaq+index",
+      "title": "mohammed siraj",
+      "url": "https://google.com/search?q=mohammed+siraj",
+      "search_url": "https://google.com/search?q=mohammed+siraj",
       "tag": "trending"
     },
     {
       "rank": 10,
-      "title": "indian",
-      "url": "https://google.com/search?q=indian",
-      "search_url": "https://google.com/search?q=indian",
+      "title": "pachuca vs rb salzburg",
+      "url": "https://google.com/search?q=pachuca+vs+rb+salzburg",
+      "search_url": "https://google.com/search?q=pachuca+vs+rb+salzburg",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-18 05:31:27 IST",
+  "last_updated": "2025-06-19 05:31:39 IST",
   "source": "rapidapi_realtime"
 }

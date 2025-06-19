@@ -7,7 +7,7 @@
       "url": "https://open.spotify.com/track/5sftykfqtsge0m1iRJzr3y",
       "album": "PANJABI RAPSTA4 0.1LOADING",
       "duration": 226,
-      "popularity": 34,
+      "popularity": 35,
       "tag": "trending"
     },
     {
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP",
       "album": "Teri Baaton Mein Aisa Uljha Jiya",
       "duration": 153,
-      "popularity": 68,
+      "popularity": 67,
       "tag": "trending"
     },
     {
@@ -387,7 +387,7 @@
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ",
       "album": "Kesariya (From \"Brahmastra\")",
       "duration": 268,
-      "popularity": 76,
+      "popularity": 77,
       "tag": "trending"
     },
     {
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB",
       "album": "Pasoori",
       "duration": 224,
-      "popularity": 68,
+      "popularity": 67,
       "tag": "trending"
     },
     {
@@ -527,7 +527,7 @@
       "url": "https://open.spotify.com/track/4xmkpE1Si5JL7NFxWrhV0S",
       "album": "Humraah (From \"Malang - Unleash The Madness\")",
       "duration": 299,
-      "popularity": 70,
+      "popularity": 71,
       "tag": "trending"
     },
     {
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/5DIt4eq2D6CZjX1s5jwrnP",
       "album": "Tere Naal Nachna (From \"Nawabzaade\")",
       "duration": 166,
-      "popularity": 65,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-18 05:31:15 IST"
+  "last_updated": "2025-06-19 05:31:27 IST"
 }
