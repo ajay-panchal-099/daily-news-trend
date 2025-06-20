@@ -17,7 +17,7 @@
       "url": "https://open.spotify.com/track/2M1GlxpAx439KkDJhwMVcK",
       "album": "Qayamat (From \"Housefull 5\")",
       "duration": 164,
-      "popularity": 66,
+      "popularity": 67,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/4rvNjJhZk5Q2Sm4WTrZNIS",
       "album": "Faded Thoughts",
       "duration": 175,
-      "popularity": 35,
+      "popularity": 36,
       "tag": "trending"
     },
     {
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/0MLZAgKQKHbPsJ12qHS860",
       "album": "Love Aaj Kal (Original Motion Picture Soundtrack)",
       "duration": 218,
-      "popularity": 60,
+      "popularity": 59,
       "tag": "trending"
     },
     {
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47",
       "album": "Cocktail",
       "duration": 282,
-      "popularity": 1,
+      "popularity": 0,
       "tag": "trending"
     },
     {
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/5DIt4eq2D6CZjX1s5jwrnP",
       "album": "Tere Naal Nachna (From \"Nawabzaade\")",
       "duration": 166,
-      "popularity": 66,
+      "popularity": 65,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-19 05:31:27 IST"
+  "last_updated": "2025-06-20 05:31:09 IST"
 }
