@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/4VnoCj8lUW0FjUq2BMP5XY",
       "album": "Sifarishan",
       "duration": 128,
-      "popularity": 0,
+      "popularity": 1,
       "tag": "trending"
     },
     {
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ",
       "album": "Kesariya (From \"Brahmastra\")",
       "duration": 268,
-      "popularity": 77,
+      "popularity": 76,
       "tag": "trending"
     },
     {
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3",
       "album": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
       "duration": 187,
-      "popularity": 68,
+      "popularity": 69,
       "tag": "trending"
     },
     {
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/1CM4rFDU9q4EoLy2K44qE6",
       "album": "Naah Goriye (From \"Bala\")",
       "duration": 184,
-      "popularity": 65,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-21 05:31:13 IST"
+  "last_updated": "2025-06-22 05:31:01 IST"
 }
