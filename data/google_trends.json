@@ -2,75 +2,75 @@
   "trends": [
     {
       "rank": 1,
-      "title": "hindi film",
-      "url": "https://google.com/search?q=hindi+film",
-      "search_url": "https://google.com/search?q=hindi+film",
+      "title": "camera",
+      "url": "https://google.com/search?q=camera",
+      "search_url": "https://google.com/search?q=camera",
       "tag": "trending"
     },
     {
       "rank": 2,
-      "title": "israeli iranian conflict",
-      "url": "https://google.com/search?q=israeli+iranian+conflict",
-      "search_url": "https://google.com/search?q=israeli+iranian+conflict",
+      "title": "apple iphone 15",
+      "url": "https://google.com/search?q=apple+iphone+15",
+      "search_url": "https://google.com/search?q=apple+iphone+15",
       "tag": "trending"
     },
     {
       "rank": 3,
-      "title": "zimbabwe national cricket team",
-      "url": "https://google.com/search?q=zimbabwe+national+cricket+team",
-      "search_url": "https://google.com/search?q=zimbabwe+national+cricket+team",
+      "title": "usa vs haiti",
+      "url": "https://google.com/search?q=usa+vs+haiti",
+      "search_url": "https://google.com/search?q=usa+vs+haiti",
       "tag": "trending"
     },
     {
       "rank": 4,
-      "title": "iranvsisrael",
-      "url": "https://google.com/search?q=iranvsisrael",
-      "search_url": "https://google.com/search?q=iranvsisrael",
+      "title": "saudi arabia vs trinidad and tobago",
+      "url": "https://google.com/search?q=saudi+arabia+vs+trinidad+and+tobago",
+      "search_url": "https://google.com/search?q=saudi+arabia+vs+trinidad+and+tobago",
       "tag": "trending"
     },
     {
       "rank": 5,
-      "title": "up",
-      "url": "https://google.com/search?q=up",
-      "search_url": "https://google.com/search?q=up",
+      "title": "amritsar weather",
+      "url": "https://google.com/search?q=amritsar+weather",
+      "search_url": "https://google.com/search?q=amritsar+weather",
       "tag": "trending"
     },
     {
       "rank": 6,
-      "title": "akshay kumar",
-      "url": "https://google.com/search?q=akshay+kumar",
-      "search_url": "https://google.com/search?q=akshay+kumar",
+      "title": "ranbir kapoor",
+      "url": "https://google.com/search?q=ranbir+kapoor",
+      "search_url": "https://google.com/search?q=ranbir+kapoor",
       "tag": "trending"
     },
     {
       "rank": 7,
-      "title": "bhojpuri video",
-      "url": "https://google.com/search?q=bhojpuri+video",
-      "search_url": "https://google.com/search?q=bhojpuri+video",
+      "title": "missouri",
+      "url": "https://google.com/search?q=missouri",
+      "search_url": "https://google.com/search?q=missouri",
       "tag": "trending"
     },
     {
       "rank": 8,
-      "title": "mrunal thakur",
-      "url": "https://google.com/search?q=mrunal+thakur",
-      "search_url": "https://google.com/search?q=mrunal+thakur",
+      "title": "f",
+      "url": "https://google.com/search?q=f",
+      "search_url": "https://google.com/search?q=f",
       "tag": "trending"
     },
     {
       "rank": 9,
-      "title": "the rookie",
-      "url": "https://google.com/search?q=the+rookie",
-      "search_url": "https://google.com/search?q=the+rookie",
+      "title": "japan",
+      "url": "https://google.com/search?q=japan",
+      "search_url": "https://google.com/search?q=japan",
       "tag": "trending"
     },
     {
       "rank": 10,
-      "title": "bermuda vs cayman islands",
-      "url": "https://google.com/search?q=bermuda+vs+cayman+islands",
-      "search_url": "https://google.com/search?q=bermuda+vs+cayman+islands",
+      "title": "fifa club world cup standings",
+      "url": "https://google.com/search?q=fifa+club+world+cup+standings",
+      "search_url": "https://google.com/search?q=fifa+club+world+cup+standings",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-22 05:31:13 IST",
+  "last_updated": "2025-06-23 05:32:24 IST",
   "source": "rapidapi_realtime"
 }

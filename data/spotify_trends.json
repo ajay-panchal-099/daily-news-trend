@@ -17,7 +17,7 @@
       "url": "https://open.spotify.com/track/2M1GlxpAx439KkDJhwMVcK",
       "album": "Qayamat (From \"Housefull 5\")",
       "duration": 164,
-      "popularity": 67,
+      "popularity": 68,
       "tag": "trending"
     },
     {
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/2L2KCobOPHPj0gKU0NFUmL",
       "album": "Ikk Vaari (From \"Mere Husband Ki Biwi\")",
       "duration": 174,
-      "popularity": 49,
+      "popularity": 48,
       "tag": "trending"
     },
     {
@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/4VnoCj8lUW0FjUq2BMP5XY",
       "album": "Sifarishan",
       "duration": 128,
-      "popularity": 1,
+      "popularity": 31,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/4rvNjJhZk5Q2Sm4WTrZNIS",
       "album": "Faded Thoughts",
       "duration": 175,
-      "popularity": 36,
+      "popularity": 37,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-22 05:31:01 IST"
+  "last_updated": "2025-06-23 05:32:12 IST"
 }
