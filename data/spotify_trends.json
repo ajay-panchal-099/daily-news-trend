@@ -7,7 +7,7 @@
       "url": "https://open.spotify.com/track/5sftykfqtsge0m1iRJzr3y",
       "album": "PANJABI RAPSTA4 0.1LOADING",
       "duration": 226,
-      "popularity": 35,
+      "popularity": 36,
       "tag": "trending"
     },
     {
@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/4VnoCj8lUW0FjUq2BMP5XY",
       "album": "Sifarishan",
       "duration": 128,
-      "popularity": 31,
+      "popularity": 36,
       "tag": "trending"
     },
     {
@@ -67,7 +67,7 @@
       "url": "https://open.spotify.com/track/42fEUT0qYN0BNsHwz8RZgH",
       "album": "Mafia",
       "duration": 148,
-      "popularity": 42,
+      "popularity": 41,
       "tag": "trending"
     },
     {
@@ -187,7 +187,7 @@
       "url": "https://open.spotify.com/track/6VWAOBFjr8N5SsGz2tTiqd",
       "album": "Kurti",
       "duration": 199,
-      "popularity": 43,
+      "popularity": 42,
       "tag": "trending"
     },
     {
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ",
       "album": "Kesariya (From \"Brahmastra\")",
       "duration": 268,
-      "popularity": 76,
+      "popularity": 77,
       "tag": "trending"
     },
     {
@@ -767,7 +767,7 @@
       "url": "https://open.spotify.com/track/2WDNxbQejWu16O44FcMEFM",
       "album": "Mera Wala Dance (From \"Simmba\")",
       "duration": 199,
-      "popularity": 55,
+      "popularity": 54,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-23 05:32:12 IST"
+  "last_updated": "2025-06-24 05:32:23 IST"
 }
