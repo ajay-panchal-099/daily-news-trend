@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/4VnoCj8lUW0FjUq2BMP5XY",
       "album": "Sifarishan",
       "duration": 128,
-      "popularity": 36,
+      "popularity": 38,
       "tag": "trending"
     },
     {
@@ -847,7 +847,7 @@
       "url": "https://open.spotify.com/track/0MLZAgKQKHbPsJ12qHS860",
       "album": "Love Aaj Kal (Original Motion Picture Soundtrack)",
       "duration": 218,
-      "popularity": 59,
+      "popularity": 60,
       "tag": "trending"
     },
     {
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/5FihcmME7NlwW8KbYOaHVH",
       "album": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
       "duration": 252,
-      "popularity": 65,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-24 05:32:23 IST"
+  "last_updated": "2025-06-25 05:31:27 IST"
 }
