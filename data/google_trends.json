@@ -2,75 +2,75 @@
   "trends": [
     {
       "rank": 1,
-      "title": "weather jammu",
-      "url": "https://google.com/search?q=weather+jammu",
-      "search_url": "https://google.com/search?q=weather+jammu",
+      "title": "\u0935\u0940\u0921\u093f\u092f\u094b",
+      "url": "https://google.com/search?q=\u0935\u0940\u0921\u093f\u092f\u094b",
+      "search_url": "https://google.com/search?q=\u0935\u0940\u0921\u093f\u092f\u094b",
       "tag": "trending"
     },
     {
       "rank": 2,
-      "title": "\u092a\u0940\u090f\u092e \u0915\u093f\u0938\u093e\u0928 \u092f\u094b\u091c\u0928\u093e 20\u0935\u0940\u0902 \u0915\u093f\u0938\u094d\u0924",
-      "url": "https://google.com/search?q=\u092a\u0940\u090f\u092e+\u0915\u093f\u0938\u093e\u0928+\u092f\u094b\u091c\u0928\u093e+20\u0935\u0940\u0902+\u0915\u093f\u0938\u094d\u0924",
-      "search_url": "https://google.com/search?q=\u092a\u0940\u090f\u092e+\u0915\u093f\u0938\u093e\u0928+\u092f\u094b\u091c\u0928\u093e+20\u0935\u0940\u0902+\u0915\u093f\u0938\u094d\u0924",
-      "tag": "trending"
-    },
-    {
-      "rank": 3,
-      "title": "amitabh bachchan",
-      "url": "https://google.com/search?q=amitabh+bachchan",
-      "search_url": "https://google.com/search?q=amitabh+bachchan",
-      "tag": "trending"
-    },
-    {
-      "rank": 4,
-      "title": "free",
-      "url": "https://google.com/search?q=free",
-      "search_url": "https://google.com/search?q=free",
-      "tag": "trending"
-    },
-    {
-      "rank": 5,
-      "title": "app",
-      "url": "https://google.com/search?q=app",
-      "search_url": "https://google.com/search?q=app",
-      "tag": "trending"
-    },
-    {
-      "rank": 6,
-      "title": "astrology",
-      "url": "https://google.com/search?q=astrology",
-      "search_url": "https://google.com/search?q=astrology",
-      "tag": "trending"
-    },
-    {
-      "rank": 7,
-      "title": "s&p 500",
-      "url": "https://google.com/search?q=s&p+500",
-      "search_url": "https://google.com/search?q=s&p+500",
-      "tag": "trending"
-    },
-    {
-      "rank": 8,
       "title": "j",
       "url": "https://google.com/search?q=j",
       "search_url": "https://google.com/search?q=j",
       "tag": "trending"
     },
     {
+      "rank": 3,
+      "title": "iranian supreme leader ali khamenei",
+      "url": "https://google.com/search?q=iranian+supreme+leader+ali+khamenei",
+      "search_url": "https://google.com/search?q=iranian+supreme+leader+ali+khamenei",
+      "tag": "trending"
+    },
+    {
+      "rank": 4,
+      "title": "cbse supplementary exams 2025 class 10",
+      "url": "https://google.com/search?q=cbse+supplementary+exams+2025+class+10",
+      "search_url": "https://google.com/search?q=cbse+supplementary+exams+2025+class+10",
+      "tag": "trending"
+    },
+    {
+      "rank": 5,
+      "title": "apple iphone",
+      "url": "https://google.com/search?q=apple+iphone",
+      "search_url": "https://google.com/search?q=apple+iphone",
+      "tag": "trending"
+    },
+    {
+      "rank": 6,
+      "title": "stocks",
+      "url": "https://google.com/search?q=stocks",
+      "search_url": "https://google.com/search?q=stocks",
+      "tag": "trending"
+    },
+    {
+      "rank": 7,
+      "title": "\u0936\u092e\u093e\u0930 \u091c\u094b\u0938\u0947\u092b",
+      "url": "https://google.com/search?q=\u0936\u092e\u093e\u0930+\u091c\u094b\u0938\u0947\u092b",
+      "search_url": "https://google.com/search?q=\u0936\u092e\u093e\u0930+\u091c\u094b\u0938\u0947\u092b",
+      "tag": "trending"
+    },
+    {
+      "rank": 8,
+      "title": "wwe",
+      "url": "https://google.com/search?q=wwe",
+      "search_url": "https://google.com/search?q=wwe",
+      "tag": "trending"
+    },
+    {
       "rank": 9,
-      "title": "oppo reno 14f 5g specifications price",
-      "url": "https://google.com/search?q=oppo+reno+14f+5g+specifications+price",
-      "search_url": "https://google.com/search?q=oppo+reno+14f+5g+specifications+price",
+      "title": "superman",
+      "url": "https://google.com/search?q=superman",
+      "search_url": "https://google.com/search?q=superman",
       "tag": "trending"
     },
     {
       "rank": 10,
-      "title": "bangla",
-      "url": "https://google.com/search?q=bangla",
-      "search_url": "https://google.com/search?q=bangla",
+      "title": "dow jones index",
+      "url": "https://google.com/search?q=dow+jones+index",
+      "search_url": "https://google.com/search?q=dow+jones+index",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-26 05:31:27 IST",
+  "last_updated": "2025-06-28 05:31:14 IST",
   "source": "rapidapi_realtime"
 }

@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/4VnoCj8lUW0FjUq2BMP5XY",
       "album": "Sifarishan",
       "duration": 128,
-      "popularity": 42,
+      "popularity": 43,
       "tag": "trending"
     },
     {
@@ -427,7 +427,7 @@
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB",
       "album": "Pasoori",
       "duration": 224,
-      "popularity": 67,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/5n8BCU2JmPORrFboGeDlXV",
       "album": "Main Deewana Tera (From \"Arjun Patiala\")",
       "duration": 194,
-      "popularity": 47,
+      "popularity": 48,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-27 05:31:30 IST"
+  "last_updated": "2025-06-28 05:31:02 IST"
 }
