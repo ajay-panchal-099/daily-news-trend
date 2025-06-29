@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/4VnoCj8lUW0FjUq2BMP5XY",
       "album": "Sifarishan",
       "duration": 128,
-      "popularity": 43,
+      "popularity": 44,
       "tag": "trending"
     },
     {
@@ -87,7 +87,7 @@
       "url": "https://open.spotify.com/track/2SXMgCc4DHqOSlHo4m768c",
       "album": "Djyaan Te Paaiye Bhangra",
       "duration": 291,
-      "popularity": 36,
+      "popularity": 35,
       "tag": "trending"
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://open.spotify.com/track/2We0kZg7AZaIMsrBkqp2SI",
       "album": "Nain Matakka (From \"Baby John\")",
       "duration": 222,
-      "popularity": 59,
+      "popularity": 58,
       "tag": "trending"
     },
     {
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP",
       "album": "Teri Baaton Mein Aisa Uljha Jiya",
       "duration": 153,
-      "popularity": 67,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-28 05:31:02 IST"
+  "last_updated": "2025-06-29 05:31:01 IST"
 }
