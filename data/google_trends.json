@@ -2,75 +2,75 @@
   "trends": [
     {
       "rank": 1,
-      "title": "bhojpuri",
-      "url": "https://google.com/search?q=bhojpuri",
-      "search_url": "https://google.com/search?q=bhojpuri",
+      "title": "film",
+      "url": "https://google.com/search?q=film",
+      "search_url": "https://google.com/search?q=film",
       "tag": "trending"
     },
     {
       "rank": 2,
-      "title": "weather dehradun",
-      "url": "https://google.com/search?q=weather+dehradun",
-      "search_url": "https://google.com/search?q=weather+dehradun",
+      "title": "royals vs dodgers",
+      "url": "https://google.com/search?q=royals+vs+dodgers",
+      "search_url": "https://google.com/search?q=royals+vs+dodgers",
       "tag": "trending"
     },
     {
       "rank": 3,
-      "title": "pm kisan \u092a\u0940\u090f\u092e \u0915\u093f\u0938\u093e\u0928 \u0938\u092e\u094d\u092e\u093e\u0928 \u0928\u093f\u0927\u093f \u092f\u094b\u091c\u0928\u093e",
-      "url": "https://google.com/search?q=pm+kisan+\u092a\u0940\u090f\u092e+\u0915\u093f\u0938\u093e\u0928+\u0938\u092e\u094d\u092e\u093e\u0928+\u0928\u093f\u0927\u093f+\u092f\u094b\u091c\u0928\u093e",
-      "search_url": "https://google.com/search?q=pm+kisan+\u092a\u0940\u090f\u092e+\u0915\u093f\u0938\u093e\u0928+\u0938\u092e\u094d\u092e\u093e\u0928+\u0928\u093f\u0927\u093f+\u092f\u094b\u091c\u0928\u093e",
+      "title": "usa vs costa rica",
+      "url": "https://google.com/search?q=usa+vs+costa+rica",
+      "search_url": "https://google.com/search?q=usa+vs+costa+rica",
       "tag": "trending"
     },
     {
       "rank": 4,
-      "title": "night teer result",
-      "url": "https://google.com/search?q=night+teer+result",
-      "search_url": "https://google.com/search?q=night+teer+result",
+      "title": "columbus vs philadelphia",
+      "url": "https://google.com/search?q=columbus+vs+philadelphia",
+      "search_url": "https://google.com/search?q=columbus+vs+philadelphia",
       "tag": "trending"
     },
     {
       "rank": 5,
-      "title": "wwe championship",
-      "url": "https://google.com/search?q=wwe+championship",
-      "search_url": "https://google.com/search?q=wwe+championship",
+      "title": "delhi weather",
+      "url": "https://google.com/search?q=delhi+weather",
+      "search_url": "https://google.com/search?q=delhi+weather",
       "tag": "trending"
     },
     {
       "rank": 6,
-      "title": "anish giri",
-      "url": "https://google.com/search?q=anish+giri",
-      "search_url": "https://google.com/search?q=anish+giri",
+      "title": "concacaf gold cup",
+      "url": "https://google.com/search?q=concacaf+gold+cup",
+      "search_url": "https://google.com/search?q=concacaf+gold+cup",
       "tag": "trending"
     },
     {
       "rank": 7,
-      "title": "haris rauf",
-      "url": "https://google.com/search?q=haris+rauf",
-      "search_url": "https://google.com/search?q=haris+rauf",
+      "title": "alia bhatt",
+      "url": "https://google.com/search?q=alia+bhatt",
+      "search_url": "https://google.com/search?q=alia+bhatt",
       "tag": "trending"
     },
     {
       "rank": 8,
-      "title": "chandigarh weather",
-      "url": "https://google.com/search?q=chandigarh+weather",
-      "search_url": "https://google.com/search?q=chandigarh+weather",
-      "tag": "trending"
-    },
-    {
-      "rank": 9,
-      "title": "kerala",
-      "url": "https://google.com/search?q=kerala",
-      "search_url": "https://google.com/search?q=kerala",
-      "tag": "trending"
-    },
-    {
-      "rank": 10,
       "title": "katrina kaif",
       "url": "https://google.com/search?q=katrina+kaif",
       "search_url": "https://google.com/search?q=katrina+kaif",
       "tag": "trending"
+    },
+    {
+      "rank": 9,
+      "title": "michael olise",
+      "url": "https://google.com/search?q=michael+olise",
+      "search_url": "https://google.com/search?q=michael+olise",
+      "tag": "trending"
+    },
+    {
+      "rank": 10,
+      "title": "brad pitt movies",
+      "url": "https://google.com/search?q=brad+pitt+movies",
+      "search_url": "https://google.com/search?q=brad+pitt+movies",
+      "tag": "trending"
     }
   ],
-  "last_updated": "2025-06-29 05:31:13 IST",
+  "last_updated": "2025-06-30 05:31:26 IST",
   "source": "rapidapi_realtime"
 }
