@@ -267,7 +267,7 @@
       "url": "https://open.spotify.com/track/1t39FBb0zsKv5krZaqZKCB",
       "album": "Show Me The Thumka (From \"Tu Jhoothi Main Makkaar\")",
       "duration": 236,
-      "popularity": 62,
+      "popularity": 61,
       "tag": "trending"
     },
     {
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/16NMvEYAus3qS1czInNNZl",
       "album": "Ankhiyon Se Goli Mare (From \"Pati Patni Aur Woh\")",
       "duration": 206,
-      "popularity": 47,
+      "popularity": 46,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-07-23 06:01:00 IST"
+  "last_updated": "2025-07-23 16:01:02 IST"
 }
