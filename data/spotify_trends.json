@@ -127,7 +127,7 @@
       "url": "https://open.spotify.com/track/6UjMPfVjH9IvYGLGO3zNag",
       "album": "Diamonds",
       "duration": 199,
-      "popularity": 28,
+      "popularity": 29,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-07-24 16:00:59 IST"
+  "last_updated": "2025-07-25 06:01:06 IST"
 }
