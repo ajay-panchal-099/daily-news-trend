@@ -47,7 +47,7 @@
       "url": "https://open.spotify.com/track/1iFEIEBhESIDlnpoJ3zPiJ",
       "album": "Isolated",
       "duration": 140,
-      "popularity": 29,
+      "popularity": 30,
       "tag": "trending"
     },
     {
@@ -87,7 +87,7 @@
       "url": "https://open.spotify.com/track/5e55roKYbhWGxVqSEzkTpN",
       "album": "Tere Te Maan",
       "duration": 164,
-      "popularity": 18,
+      "popularity": 20,
       "tag": "trending"
     },
     {
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/60u29xfTGpUMpeE7SvFc3C",
       "album": "Dhindhora Baje Re (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "duration": 253,
-      "popularity": 43,
+      "popularity": 42,
       "tag": "trending"
     },
     {
@@ -247,7 +247,7 @@
       "url": "https://open.spotify.com/track/1t39FBb0zsKv5krZaqZKCB",
       "album": "Show Me The Thumka (From \"Tu Jhoothi Main Makkaar\")",
       "duration": 236,
-      "popularity": 61,
+      "popularity": 60,
       "tag": "trending"
     },
     {
@@ -267,7 +267,7 @@
       "url": "https://open.spotify.com/track/0QT9B8Yfrz0vi66oXMrKJg",
       "album": "Character Dheela 2.0 (From \"Shehzada\")",
       "duration": 157,
-      "popularity": 51,
+      "popularity": 50,
       "tag": "trending"
     },
     {
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/6EKY8rpjaBxxB0WbXJhedU",
       "album": "Chedkhaniyan (From \"Shehzada\")",
       "duration": 231,
-      "popularity": 50,
+      "popularity": 49,
       "tag": "trending"
     },
     {
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/5bAed2aRbQbjDZF9qkNSA2",
       "album": "Hui Malang (From \"Malang - Unleash The Madness\")",
       "duration": 192,
-      "popularity": 46,
+      "popularity": 45,
       "tag": "trending"
     },
     {
@@ -567,7 +567,7 @@
       "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44",
       "album": "Ghungroo (From \"War\")",
       "duration": 302,
-      "popularity": 69,
+      "popularity": 68,
       "tag": "trending"
     },
     {
@@ -627,7 +627,7 @@
       "url": "https://open.spotify.com/track/7ofWUKeNCUw1P64ArIwG9b",
       "album": "Dheeme Dheeme (From \"Pati Patni Aur Woh\")",
       "duration": 177,
-      "popularity": 57,
+      "popularity": 56,
       "tag": "trending"
     },
     {
@@ -727,7 +727,7 @@
       "url": "https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3",
       "album": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
       "duration": 187,
-      "popularity": 69,
+      "popularity": 68,
       "tag": "trending"
     },
     {
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i",
       "album": "Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)",
       "duration": 210,
-      "popularity": 63,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-07-30 06:00:59 IST"
+  "last_updated": "2025-07-30 16:01:03 IST"
 }
