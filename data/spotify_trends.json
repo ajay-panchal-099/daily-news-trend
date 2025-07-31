@@ -87,7 +87,7 @@
       "url": "https://open.spotify.com/track/5e55roKYbhWGxVqSEzkTpN",
       "album": "Tere Te Maan",
       "duration": 164,
-      "popularity": 20,
+      "popularity": 21,
       "tag": "trending"
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://open.spotify.com/track/7r6iwgXcR85d9rfqsuf2Af",
       "album": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
       "duration": 230,
-      "popularity": 63,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH",
       "album": "Aaj Ki Raat (From \"Stree 2\")",
       "duration": 228,
-      "popularity": 65,
+      "popularity": 64,
       "tag": "trending"
     },
     {
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/23YpzkTDtU78GK6vpgRbkM",
       "album": "Ishq Jaisa Kuch (From \"Fighter\")",
       "duration": 169,
-      "popularity": 59,
+      "popularity": 58,
       "tag": "trending"
     },
     {
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo",
       "album": "Besharam Rang (From \"Pathaan\")",
       "duration": 258,
-      "popularity": 71,
+      "popularity": 70,
       "tag": "trending"
     },
     {
@@ -347,7 +347,7 @@
       "url": "https://open.spotify.com/track/5OcGETO7eEKjKme4gm0r7y",
       "album": "Dance Ka Bhoot (From \"Brahmastra\")",
       "duration": 245,
-      "popularity": 55,
+      "popularity": 54,
       "tag": "trending"
     },
     {
@@ -387,7 +387,7 @@
       "url": "https://open.spotify.com/track/5qwl2ZdsMQVj3210r3yHRq",
       "album": "Ji Huzoor (From \"Shamshera\")",
       "duration": 249,
-      "popularity": 36,
+      "popularity": 35,
       "tag": "trending"
     },
     {
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB",
       "album": "Pasoori",
       "duration": 224,
-      "popularity": 63,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/4SjKsDIVQessPLdN42FZlm",
       "album": "Alcoholia (From \"Vikram Vedha\")",
       "duration": 231,
-      "popularity": 40,
+      "popularity": 39,
       "tag": "trending"
     },
     {
@@ -527,7 +527,7 @@
       "url": "https://open.spotify.com/track/7CY0CmCpSglfUKCBOOiRfw",
       "album": "Street Dancer 3D",
       "duration": 188,
-      "popularity": 64,
+      "popularity": 63,
       "tag": "trending"
     },
     {
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/1WzOH0E1W1z5jcLluumQGE",
       "album": "Bezubaan Kab Se (From \"Street Dancer 3D\")",
       "duration": 271,
-      "popularity": 41,
+      "popularity": 40,
       "tag": "trending"
     },
     {
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/16NMvEYAus3qS1czInNNZl",
       "album": "Ankhiyon Se Goli Mare (From \"Pati Patni Aur Woh\")",
       "duration": 206,
-      "popularity": 46,
+      "popularity": 45,
       "tag": "trending"
     },
     {
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/7r8QeC6Uy3AbIXqH7W9y0K",
       "album": "Sonu Ke Titu Ki Sweety",
       "duration": 183,
-      "popularity": 55,
+      "popularity": 54,
       "tag": "trending"
     },
     {
@@ -747,7 +747,7 @@
       "url": "https://open.spotify.com/track/7hXnhouVPnOnFwCGrQMHvB",
       "album": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
       "duration": 231,
-      "popularity": 59,
+      "popularity": 58,
       "tag": "trending"
     },
     {
@@ -887,7 +887,7 @@
       "url": "https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95",
       "album": "Psycho Saiyaan (From \"Saaho\")",
       "duration": 166,
-      "popularity": 64,
+      "popularity": 63,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-07-31 06:01:09 IST"
+  "last_updated": "2025-07-31 16:01:03 IST"
 }
