@@ -7,7 +7,7 @@
       "url": "https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN",
       "album": "Aavan Jaavan (From \"WAR 2\")",
       "duration": 225,
-      "popularity": 64,
+      "popularity": 67,
       "tag": "trending"
     },
     {
@@ -17,7 +17,7 @@
       "url": "https://open.spotify.com/track/2M1GlxpAx439KkDJhwMVcK",
       "album": "Qayamat (From \"Housefull 5\")",
       "duration": 164,
-      "popularity": 65,
+      "popularity": 64,
       "tag": "trending"
     },
     {
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm",
       "album": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
       "duration": 266,
-      "popularity": 74,
+      "popularity": 73,
       "tag": "trending"
     },
     {
@@ -287,7 +287,7 @@
       "url": "https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE",
       "album": "Munda Sona Hoon Main (From \"Shehzada\")",
       "duration": 229,
-      "popularity": 50,
+      "popularity": 49,
       "tag": "trending"
     },
     {
@@ -487,7 +487,7 @@
       "url": "https://open.spotify.com/track/4Xba44w0LihzNJj1xgjs8J",
       "album": "De Taali (From \"Bhool Bhulaiyaa 2\")",
       "duration": 210,
-      "popularity": 44,
+      "popularity": 43,
       "tag": "trending"
     },
     {
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm",
       "album": "O Saki Saki (From \"Batla House\")",
       "duration": 191,
-      "popularity": 67,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/0MLZAgKQKHbPsJ12qHS860",
       "album": "Love Aaj Kal (Original Motion Picture Soundtrack)",
       "duration": 218,
-      "popularity": 58,
+      "popularity": 57,
       "tag": "trending"
     },
     {
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/5x72Q1SyiDHJ4IF2mRzfkg",
       "album": "Gali Gali (From \"Kgf Chapter 1\")",
       "duration": 174,
-      "popularity": 68,
+      "popularity": 67,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-05 06:01:03 IST"
+  "last_updated": "2025-08-05 16:01:56 IST"
 }
