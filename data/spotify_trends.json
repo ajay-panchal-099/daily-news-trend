@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6G8vN5EUtcDxOXOXadF6kp",
       "album": "Tum Ho Toh (From \"Saiyaara\")",
       "duration": 318,
-      "popularity": 80,
+      "popularity": 81,
       "tag": "trending"
     },
     {
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN",
       "album": "Aavan Jaavan (From \"WAR 2\")",
       "duration": 225,
-      "popularity": 72,
+      "popularity": 73,
       "tag": "trending"
     },
     {
@@ -87,7 +87,7 @@
       "url": "https://open.spotify.com/track/0q84FggW57NXGtLHoetS0Y",
       "album": "Pardesiya (From \"Param Sundari\")",
       "duration": 231,
-      "popularity": 73,
+      "popularity": 74,
       "tag": "trending"
     },
     {
@@ -127,7 +127,7 @@
       "url": "https://open.spotify.com/track/3MCXs1s8WugM7UiHwSeIK8",
       "album": "Ishq Bukhaar (From \"Tehran\")",
       "duration": 187,
-      "popularity": 0,
+      "popularity": 36,
       "tag": "trending"
     },
     {
@@ -407,7 +407,7 @@
       "url": "https://open.spotify.com/track/5eufOBJKFjxGOTxSf74ZG9",
       "album": "Ghich Pich (Original Motion Picture Soundtrack)",
       "duration": 351,
-      "popularity": 32,
+      "popularity": 35,
       "tag": "trending"
     },
     {
@@ -447,7 +447,7 @@
       "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG",
       "album": "Naina (From \"Crew\")",
       "duration": 180,
-      "popularity": 75,
+      "popularity": 74,
       "tag": "trending"
     },
     {
@@ -471,5 +471,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-09 16:01:03 IST"
+  "last_updated": "2025-08-10 06:01:01 IST"
 }
