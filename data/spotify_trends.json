@@ -312,16 +312,6 @@
     },
     {
       "rank": 32,
-      "title": "Jee Na Paaye",
-      "artists": "Hansika Pareek, Priyankit Jaiswal, Sagnik Kolay",
-      "url": "https://open.spotify.com/track/1IGvo9KLLTHiW35zisOi8I",
-      "album": "Jee Na Paaye",
-      "duration": 232,
-      "popularity": 65,
-      "tag": "trending"
-    },
-    {
-      "rank": 33,
       "title": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
       "artists": "Sachin-Jigar, Raghav Chaitanya, Varun Jain, Indraneel",
       "url": "https://open.spotify.com/track/2ceeTJAzKy295Fm0VsaXtE",
@@ -331,7 +321,7 @@
       "tag": "trending"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "title": "Satranga (From \"ANIMAL\")",
       "artists": "Arijit Singh, Shreyas Puranik, Siddharth - Garima",
       "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY",
@@ -341,7 +331,7 @@
       "tag": "trending"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "title": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
       "artists": "Mohammad Faiz, Jaani",
       "url": "https://open.spotify.com/track/1r6GbBLdtUK1Vl1IHT14wP",
@@ -351,7 +341,7 @@
       "tag": "trending"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "title": "Bade Din Huye (From \"Love In Vietnam\")",
       "artists": "Amaal Mallik, Armaan Malik, Rashmi Virag",
       "url": "https://open.spotify.com/track/1S3MoKHNaCtCnuh1dQygMn",
@@ -361,7 +351,7 @@
       "tag": "trending"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "Aayi Nai (From \"Stree 2\")",
       "artists": "Sachin-Jigar, Pawan Singh, Simran Choudhary, Divya Kumar, Amitabh Bhattacharya",
       "url": "https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx",
@@ -371,7 +361,7 @@
       "tag": "trending"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "title": "Bana Le Tera",
       "artists": "Aditya Narayan",
       "url": "https://open.spotify.com/track/0hKu8neeba4O8JEWeuoSMh",
@@ -381,7 +371,7 @@
       "tag": "trending"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "title": "Mere Sohneya (From \"Kabir Singh\")",
       "artists": "Sachet Tandon, Parampara Tandon, Sachet-Parampara",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg",
@@ -391,7 +381,7 @@
       "tag": "trending"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "Pyaar Ch Tere (Punjabi Blues)",
       "artists": "Rohit Sharma, Shellee, Rahul Lakhanpal",
       "url": "https://open.spotify.com/track/5eufOBJKFjxGOTxSf74ZG9",
@@ -401,7 +391,7 @@
       "tag": "trending"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "O Maahi",
       "artists": "Pritam, Arijit Singh, Irshad Kamil",
       "url": "https://open.spotify.com/track/6bmmHeCvZI92pRiTHxEdTC",
@@ -411,7 +401,7 @@
       "tag": "trending"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "Keh Do Na",
       "artists": "Rekha Bhardwaj, Shekhar, Jitendra Kumar, Manpreet Kaur",
       "url": "https://open.spotify.com/track/7IXNpE2PpfN2TfukYArl1B",
@@ -421,7 +411,7 @@
       "tag": "trending"
     },
     {
-      "rank": 43,
+      "rank": 42,
       "title": "Subhanallah",
       "artists": "Pritam, Sreeram, Shilpa Rao",
       "url": "https://open.spotify.com/track/0GQngE2rOYvlKwEQjTAsP8",
@@ -431,7 +421,7 @@
       "tag": "trending"
     },
     {
-      "rank": 44,
+      "rank": 43,
       "title": "Naina (From \"Crew\")",
       "artists": "Diljit Dosanjh, Badshah, Raj Ranjodh",
       "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG",
@@ -441,7 +431,7 @@
       "tag": "trending"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "Heeriye (feat. Arijit Singh)",
       "artists": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
       "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li",
@@ -451,7 +441,7 @@
       "tag": "trending"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "Agar Tum Saath Ho (From \"Tamasha\")",
       "artists": "Alka Yagnik, Arijit Singh",
       "url": "https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu",
@@ -461,5 +451,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-11 06:01:00 IST"
+  "last_updated": "2025-08-11 16:00:55 IST"
 }
