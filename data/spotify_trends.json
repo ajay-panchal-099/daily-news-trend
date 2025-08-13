@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/7ipocikxlJX318tXE4S5nE",
       "album": "Ishq Bawla | Coke Studio Bharat",
       "duration": 272,
-      "popularity": 73,
+      "popularity": 72,
       "tag": "trending"
     },
     {
@@ -307,7 +307,7 @@
       "url": "https://open.spotify.com/track/1S3MoKHNaCtCnuh1dQygMn",
       "album": "Bade Din Huye (From \"Love In Vietnam\")",
       "duration": 353,
-      "popularity": 63,
+      "popularity": 64,
       "tag": "trending"
     },
     {
@@ -421,5 +421,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-13 06:01:07 IST"
+  "last_updated": "2025-08-13 16:01:08 IST"
 }
