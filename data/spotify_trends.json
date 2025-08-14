@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0q84FggW57NXGtLHoetS0Y",
       "album": "Pardesiya (From \"Param Sundari\")",
       "duration": 231,
-      "popularity": 77,
+      "popularity": 78,
       "tag": "trending"
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://open.spotify.com/track/1o8YPl0hyGbpRcHplXNvsm",
       "album": "Khoobsurat (From \"Stree 2\")",
       "duration": 244,
-      "popularity": 73,
+      "popularity": 72,
       "tag": "trending"
     },
     {
@@ -127,7 +127,7 @@
       "url": "https://open.spotify.com/track/5Ggb9pKiKcr5vNV9v1e1vs",
       "album": "Tumhare Hi Rahenge Hum (From \"Stree 2\")",
       "duration": 230,
-      "popularity": 75,
+      "popularity": 74,
       "tag": "trending"
     },
     {
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/4HesGCORky6hKWswrwodiD",
       "album": "Shayad Koi Na Sune",
       "duration": 176,
-      "popularity": 58,
+      "popularity": 59,
       "tag": "trending"
     },
     {
@@ -347,7 +347,7 @@
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg",
       "album": "Mere Sohneya (From \"Kabir Singh\")",
       "duration": 193,
-      "popularity": 76,
+      "popularity": 75,
       "tag": "trending"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/5eufOBJKFjxGOTxSf74ZG9",
       "album": "Ghich Pich (Original Motion Picture Soundtrack)",
       "duration": 351,
-      "popularity": 38,
+      "popularity": 39,
       "tag": "trending"
     },
     {
@@ -421,5 +421,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-14 06:01:06 IST"
+  "last_updated": "2025-08-14 16:00:58 IST"
 }
