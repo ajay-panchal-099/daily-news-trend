@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0q84FggW57NXGtLHoetS0Y",
       "album": "Pardesiya (From \"Param Sundari\")",
       "duration": 231,
-      "popularity": 78,
+      "popularity": 79,
       "tag": "trending"
     },
     {
@@ -167,7 +167,7 @@
       "url": "https://open.spotify.com/track/0o33aMpWTFcUQC5In7Nyys",
       "album": "Dil Thaam Ke (From \"Maalik\")",
       "duration": 186,
-      "popularity": 63,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -202,26 +202,16 @@
     },
     {
       "rank": 21,
-      "title": "Haan Main Pagal Haan",
-      "artists": "Nakash Aziz, J Trix, Rabi Ahmed",
-      "url": "https://open.spotify.com/track/16G0lHluIsG3uN4wk4YuBb",
-      "album": "Haan Main Pagal Haan",
-      "duration": 173,
-      "popularity": 63,
-      "tag": "trending"
-    },
-    {
-      "rank": 22,
       "title": "Aaj Ki Raat (From \"Stree 2\")",
       "artists": "Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr",
       "album": "Aaj Ki Raat (From \"Stree 2\")",
       "duration": 228,
-      "popularity": 77,
+      "popularity": 76,
       "tag": "trending"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "O Meri Laila",
       "artists": "Atif Aslam, Jyotica Tangri",
       "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ",
@@ -231,7 +221,7 @@
       "tag": "trending"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "title": "Tainu Khabar Nahi - From \"Munjya\"",
       "artists": "Sachin-Jigar, Arijit Singh",
       "url": "https://open.spotify.com/track/5npFBWhVs3VVlc0nY5xQMA",
@@ -241,7 +231,7 @@
       "tag": "trending"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
       "artists": "Pitbull, Diljit Dosanjh, Tanishk Bagchi, Pritam, Neeraj Shridhar, Dhrruv Yogi, Sameer Anjaan",
       "url": "https://open.spotify.com/track/7r6iwgXcR85d9rfqsuf2Af",
@@ -251,17 +241,17 @@
       "tag": "trending"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
       "artists": "Arijit Singh, Mithoon",
       "url": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU",
       "album": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
       "duration": 284,
-      "popularity": 80,
+      "popularity": 79,
       "tag": "trending"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "title": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
       "artists": "Sachin-Jigar, Raghav Chaitanya, Varun Jain, Indraneel",
       "url": "https://open.spotify.com/track/2ceeTJAzKy295Fm0VsaXtE",
@@ -271,7 +261,7 @@
       "tag": "trending"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "Satranga (From \"ANIMAL\")",
       "artists": "Arijit Singh, Shreyas Puranik, Siddharth - Garima",
       "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY",
@@ -281,7 +271,7 @@
       "tag": "trending"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "title": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
       "artists": "Mohammad Faiz, Jaani",
       "url": "https://open.spotify.com/track/1r6GbBLdtUK1Vl1IHT14wP",
@@ -291,7 +281,7 @@
       "tag": "trending"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "Bade Din Huye (From \"Love In Vietnam\")",
       "artists": "Amaal Mallik, Armaan Malik, Rashmi Virag",
       "url": "https://open.spotify.com/track/1S3MoKHNaCtCnuh1dQygMn",
@@ -301,17 +291,17 @@
       "tag": "trending"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "Aayi Nai (From \"Stree 2\")",
       "artists": "Sachin-Jigar, Pawan Singh, Simran Choudhary, Divya Kumar, Amitabh Bhattacharya",
       "url": "https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx",
       "album": "Aayi Nai (From \"Stree 2\")",
       "duration": 178,
-      "popularity": 73,
+      "popularity": 72,
       "tag": "trending"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "title": "Yeh Zindagi Hai",
       "artists": "King",
       "url": "https://open.spotify.com/track/4HesGCORky6hKWswrwodiD",
@@ -321,7 +311,7 @@
       "tag": "trending"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "title": "Morni",
       "artists": "Darshan Raval",
       "url": "https://open.spotify.com/track/72YcTplgzfw4We9PciCEHs",
@@ -331,7 +321,7 @@
       "tag": "trending"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "title": "Bana Le Tera",
       "artists": "Aditya Narayan",
       "url": "https://open.spotify.com/track/0hKu8neeba4O8JEWeuoSMh",
@@ -341,7 +331,7 @@
       "tag": "trending"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "title": "Mere Sohneya (From \"Kabir Singh\")",
       "artists": "Sachet Tandon, Parampara Tandon, Sachet-Parampara",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg",
@@ -351,7 +341,7 @@
       "tag": "trending"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "title": "Pyaar Ch Tere (Punjabi Blues)",
       "artists": "Rohit Sharma, Shellee, Rahul Lakhanpal",
       "url": "https://open.spotify.com/track/5eufOBJKFjxGOTxSf74ZG9",
@@ -361,7 +351,7 @@
       "tag": "trending"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "O Maahi",
       "artists": "Pritam, Arijit Singh, Irshad Kamil",
       "url": "https://open.spotify.com/track/6bmmHeCvZI92pRiTHxEdTC",
@@ -371,7 +361,7 @@
       "tag": "trending"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "title": "Keh Do Na",
       "artists": "Rekha Bhardwaj, Shekhar, Jitendra Kumar, Manpreet Kaur",
       "url": "https://open.spotify.com/track/7IXNpE2PpfN2TfukYArl1B",
@@ -381,7 +371,7 @@
       "tag": "trending"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "title": "Subhanallah",
       "artists": "Pritam, Sreeram, Shilpa Rao",
       "url": "https://open.spotify.com/track/0GQngE2rOYvlKwEQjTAsP8",
@@ -391,7 +381,7 @@
       "tag": "trending"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "Naina (From \"Crew\")",
       "artists": "Diljit Dosanjh, Badshah, Raj Ranjodh",
       "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG",
@@ -401,7 +391,7 @@
       "tag": "trending"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "Heeriye (feat. Arijit Singh)",
       "artists": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
       "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li",
@@ -411,7 +401,7 @@
       "tag": "trending"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "Agar Tum Saath Ho (From \"Tamasha\")",
       "artists": "Alka Yagnik, Arijit Singh",
       "url": "https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu",
@@ -421,15 +411,15 @@
       "tag": "trending"
     },
     {
-      "rank": 43,
+      "rank": 42,
       "title": "Bheegi Saree - From \"Param Sundari\"",
       "artists": "Sachin-Jigar, Shreya Ghoshal, Adnan Sami, Amitabh Bhattacharya",
       "url": "https://open.spotify.com/track/3z47FzesU0MyJKwpCGxOMp",
       "album": "Bheegi Saree (From \"Param Sundari\")",
       "duration": 202,
-      "popularity": 63,
+      "popularity": 64,
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-16 06:01:06 IST"
+  "last_updated": "2025-08-16 16:01:05 IST"
 }
