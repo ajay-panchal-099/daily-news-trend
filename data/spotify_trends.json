@@ -17,7 +17,7 @@
       "url": "https://open.spotify.com/track/2M1GlxpAx439KkDJhwMVcK",
       "album": "Qayamat (From \"Housefull 5\")",
       "duration": 164,
-      "popularity": 62,
+      "popularity": 61,
       "tag": "trending"
     },
     {
@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/23YpzkTDtU78GK6vpgRbkM",
       "album": "Ishq Jaisa Kuch (From \"Fighter\")",
       "duration": 169,
-      "popularity": 57,
+      "popularity": 56,
       "tag": "trending"
     },
     {
@@ -307,7 +307,7 @@
       "url": "https://open.spotify.com/track/45C7tXCrmp3R5E65XUtLLj",
       "album": "Jehda Nasha (From \"An Action Hero\")",
       "duration": 222,
-      "popularity": 56,
+      "popularity": 55,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-19 06:01:04 IST"
+  "last_updated": "2025-08-19 16:01:07 IST"
 }
