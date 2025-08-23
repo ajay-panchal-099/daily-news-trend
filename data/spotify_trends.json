@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP",
       "album": "Teri Baaton Mein Aisa Uljha Jiya",
       "duration": 153,
-      "popularity": 61,
+      "popularity": 60,
       "tag": "trending"
     },
     {
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/1t39FBb0zsKv5krZaqZKCB",
       "album": "Show Me The Thumka (From \"Tu Jhoothi Main Makkaar\")",
       "duration": 236,
-      "popularity": 59,
+      "popularity": 58,
       "tag": "trending"
     },
     {
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44",
       "album": "Ghungroo (From \"War\")",
       "duration": 302,
-      "popularity": 67,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/1CM4rFDU9q4EoLy2K44qE6",
       "album": "Naah Goriye (From \"Bala\")",
       "duration": 184,
-      "popularity": 63,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -867,7 +867,7 @@
       "url": "https://open.spotify.com/track/5x72Q1SyiDHJ4IF2mRzfkg",
       "album": "Gali Gali (From \"Kgf Chapter 1\")",
       "duration": 174,
-      "popularity": 67,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -887,7 +887,7 @@
       "url": "https://open.spotify.com/track/5DIt4eq2D6CZjX1s5jwrnP",
       "album": "Tere Naal Nachna (From \"Nawabzaade\")",
       "duration": 166,
-      "popularity": 62,
+      "popularity": 61,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-23 06:01:07 IST"
+  "last_updated": "2025-08-23 16:01:45 IST"
 }
