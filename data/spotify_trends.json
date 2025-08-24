@@ -17,7 +17,7 @@
       "url": "https://open.spotify.com/track/2M1GlxpAx439KkDJhwMVcK",
       "album": "Qayamat (From \"Housefull 5\")",
       "duration": 164,
-      "popularity": 61,
+      "popularity": 60,
       "tag": "trending"
     },
     {
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/2ibipg9GBEZ5YKOdskobJZ",
       "album": "Laal Peeli Akhiyaan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
       "duration": 188,
-      "popularity": 63,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -347,7 +347,7 @@
       "url": "https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O",
       "album": "Deva Deva (From \"Brahmastra\")",
       "duration": 279,
-      "popularity": 68,
+      "popularity": 67,
       "tag": "trending"
     },
     {
@@ -367,7 +367,7 @@
       "url": "https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo",
       "album": "Manike (From \"Thank God\")",
       "duration": 197,
-      "popularity": 63,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -727,7 +727,7 @@
       "url": "https://open.spotify.com/track/2WDNxbQejWu16O44FcMEFM",
       "album": "Mera Wala Dance (From \"Simmba\")",
       "duration": 199,
-      "popularity": 51,
+      "popularity": 50,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-24 06:00:59 IST"
+  "last_updated": "2025-08-24 16:01:10 IST"
 }
