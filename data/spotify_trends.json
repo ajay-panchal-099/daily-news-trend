@@ -267,7 +267,7 @@
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm",
       "album": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
       "duration": 266,
-      "popularity": 72,
+      "popularity": 71,
       "tag": "trending"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ",
       "album": "Kesariya (From \"Brahmastra\")",
       "duration": 268,
-      "popularity": 73,
+      "popularity": 72,
       "tag": "trending"
     },
     {
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8",
       "album": "Muqabla (From \"Street Dancer 3D\")",
       "duration": 176,
-      "popularity": 61,
+      "popularity": 60,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-26 06:01:08 IST"
+  "last_updated": "2025-08-26 16:00:59 IST"
 }
