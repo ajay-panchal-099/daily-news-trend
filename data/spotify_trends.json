@@ -147,7 +147,7 @@
       "url": "https://open.spotify.com/track/28jLradEdeLuOfS9YE5Qoh",
       "album": "Rakitakitanana",
       "duration": 204,
-      "popularity": 35,
+      "popularity": 36,
       "tag": "trending"
     },
     {
@@ -247,7 +247,7 @@
       "url": "https://open.spotify.com/track/2vPrBucKCfKmafHhSfJ2pt",
       "album": "Pyaar Hota Kayi Baar Hai (From \"Tu Jhoothi Main Makkaar\")",
       "duration": 216,
-      "popularity": 67,
+      "popularity": 66,
       "tag": "trending"
     },
     {
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/4Xba44w0LihzNJj1xgjs8J",
       "album": "De Taali (From \"Bhool Bhulaiyaa 2\")",
       "duration": 210,
-      "popularity": 42,
+      "popularity": 41,
       "tag": "trending"
     },
     {
@@ -507,7 +507,7 @@
       "url": "https://open.spotify.com/track/5bAed2aRbQbjDZF9qkNSA2",
       "album": "Hui Malang (From \"Malang - Unleash The Madness\")",
       "duration": 192,
-      "popularity": 43,
+      "popularity": 42,
       "tag": "trending"
     },
     {
@@ -587,7 +587,7 @@
       "url": "https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq",
       "album": "Badhaai Ho",
       "duration": 198,
-      "popularity": 49,
+      "popularity": 48,
       "tag": "trending"
     },
     {
@@ -1001,5 +1001,5 @@
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-25 16:00:58 IST"
+  "last_updated": "2025-08-26 06:01:08 IST"
 }
