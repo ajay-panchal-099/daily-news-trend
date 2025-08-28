@@ -2,6 +2,16 @@
   "trends": [
     {
       "rank": 1,
+      "title": "Danger - From \"Param Sundari\"",
+      "artists": "Sachin-Jigar, Vishal Dadlani, Parvathi Meenakshi, Amitabh Bhattacharya",
+      "url": "https://open.spotify.com/track/4n33TfqFiNnKuNip9FvybE",
+      "album": "Danger (From \"Param Sundari\")",
+      "duration": 167,
+      "popularity": 58,
+      "tag": "trending"
+    },
+    {
+      "rank": 2,
       "title": "Aavan Jaavan (From \"WAR 2\")",
       "artists": "Pritam, Arijit Singh, Nikhita Gandhi, Amitabh Bhattacharya",
       "url": "https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN",
@@ -11,7 +21,7 @@
       "tag": "trending"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Qayamat (From \"Housefull 5\")",
       "artists": "White Noise Collectives, Neeraj Shridhar, Shruti Dhasmana, Som",
       "url": "https://open.spotify.com/track/2M1GlxpAx439KkDJhwMVcK",
@@ -21,7 +31,7 @@
       "tag": "trending"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Ikk Vaari - From \"Mere Husband Ki Biwi\"",
       "artists": "Tanishk Bagchi, Romy, Mudassar Aziz",
       "url": "https://open.spotify.com/track/2L2KCobOPHPj0gKU0NFUmL",
@@ -31,7 +41,7 @@
       "tag": "trending"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Kissik (From \"Pushpa 2 The Rule\") [HINDI]",
       "artists": "Lothika, Sublahshini, Devi Sri Prasad, Raqueeb Alam",
       "url": "https://open.spotify.com/track/3E2alxlOoe5EURfec217Uu",
@@ -41,7 +51,7 @@
       "tag": "trending"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Uyi Amma - From \"Azaad\"",
       "artists": "Amit Trivedi, Madhubanti Bagchi, Amitabh Bhattacharya",
       "url": "https://open.spotify.com/track/2nP1wLRh85mo5Wdj4RQldp",
@@ -51,7 +61,7 @@
       "tag": "trending"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Peelings (From \"Pushpa 2 The Rule\") [HINDI]",
       "artists": "Javed Ali, Madhubanti Bagchi, Devi Sri Prasad, Raqueeb Alam, Siju Thuravoor",
       "url": "https://open.spotify.com/track/0Tvybk3jWj7usdP3LALmHI",
@@ -61,23 +71,13 @@
       "tag": "trending"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Nain Matakka - From \"Baby John\"",
       "artists": "Thaman S, Diljit Dosanjh, Dhee, Irshad Kamil",
       "url": "https://open.spotify.com/track/2We0kZg7AZaIMsrBkqp2SI",
       "album": "Nain Matakka (From \"Baby John\")",
       "duration": 222,
       "popularity": 54,
-      "tag": "trending"
-    },
-    {
-      "rank": 8,
-      "title": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
-      "artists": "Pitbull, Diljit Dosanjh, Tanishk Bagchi, Pritam, Neeraj Shridhar, Dhrruv Yogi, Sameer Anjaan",
-      "url": "https://open.spotify.com/track/7r6iwgXcR85d9rfqsuf2Af",
-      "album": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
-      "duration": 230,
-      "popularity": 60,
       "tag": "trending"
     },
     {
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "title": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
+      "artists": "Pitbull, Diljit Dosanjh, Tanishk Bagchi, Pritam, Neeraj Shridhar, Dhrruv Yogi, Sameer Anjaan",
+      "url": "https://open.spotify.com/track/7r6iwgXcR85d9rfqsuf2Af",
+      "album": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
+      "duration": 230,
+      "popularity": 60,
+      "tag": "trending"
+    },
+    {
+      "rank": 11,
       "title": "Aaj Ki Raat (From \"Stree 2\")",
       "artists": "Sachin-Jigar, Amitabh Bhattacharya, Madhubanti Bagchi, Divya Kumar",
       "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH",
@@ -101,23 +111,13 @@
       "tag": "trending"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "Aayi Nai (From \"Stree 2\")",
       "artists": "Amitabh Bhattacharya, Sachin-Jigar, Pawan Singh, Simran Choudhary",
       "url": "https://open.spotify.com/track/2TnmSSPkcPdHYYw2Lu84C1",
       "album": "Aayi Nai (From \"Stree 2\")",
       "duration": 178,
       "popularity": 59,
-      "tag": "trending"
-    },
-    {
-      "rank": 12,
-      "title": "Teri Baaton Mein Aisa Uljha Jiya Title Song",
-      "artists": "Raghav, Tanishk Bagchi, Asees Kaur, Nina Mathur",
-      "url": "https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP",
-      "album": "Teri Baaton Mein Aisa Uljha Jiya",
-      "duration": 153,
-      "popularity": 60,
       "tag": "trending"
     },
     {
@@ -132,12 +132,12 @@
     },
     {
       "rank": 14,
-      "title": "Laal Peeli Akhiyaan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "artists": "Tanishk Bagchi, Romy, Neeraj Rajawat",
-      "url": "https://open.spotify.com/track/2ibipg9GBEZ5YKOdskobJZ",
-      "album": "Laal Peeli Akhiyaan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "duration": 188,
-      "popularity": 62,
+      "title": "Teri Baaton Mein Aisa Uljha Jiya Title Song",
+      "artists": "Raghav, Tanishk Bagchi, Asees Kaur, Nina Mathur",
+      "url": "https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP",
+      "album": "Teri Baaton Mein Aisa Uljha Jiya",
+      "duration": 153,
+      "popularity": 60,
       "tag": "trending"
     },
     {
@@ -152,12 +152,12 @@
     },
     {
       "rank": 16,
-      "title": "Ishq Jaisa Kuch (From \"Fighter\")",
-      "artists": "Vishal-Shekhar, Vishal Dadlani, Shekhar Ravjiani, Shilpa Rao, Mellow D, Kumaar",
-      "url": "https://open.spotify.com/track/23YpzkTDtU78GK6vpgRbkM",
-      "album": "Ishq Jaisa Kuch (From \"Fighter\")",
-      "duration": 169,
-      "popularity": 56,
+      "title": "Laal Peeli Akhiyaan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "artists": "Tanishk Bagchi, Romy, Neeraj Rajawat",
+      "url": "https://open.spotify.com/track/2ibipg9GBEZ5YKOdskobJZ",
+      "album": "Laal Peeli Akhiyaan (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "duration": 188,
+      "popularity": 62,
       "tag": "trending"
     },
     {
@@ -172,6 +172,16 @@
     },
     {
       "rank": 18,
+      "title": "Ishq Jaisa Kuch (From \"Fighter\")",
+      "artists": "Vishal-Shekhar, Vishal Dadlani, Shekhar Ravjiani, Shilpa Rao, Mellow D, Kumaar",
+      "url": "https://open.spotify.com/track/23YpzkTDtU78GK6vpgRbkM",
+      "album": "Ishq Jaisa Kuch (From \"Fighter\")",
+      "duration": 169,
+      "popularity": 56,
+      "tag": "trending"
+    },
+    {
+      "rank": 19,
       "title": "Sher Khul Gaye (From \"Fighter\")",
       "artists": "Vishal-Shekhar, Vishal Dadlani, Shekhar Ravjiani, Benny Dayal, Shilpa Rao, Kumaar",
       "url": "https://open.spotify.com/track/0VXBujZKMLLlmee25BXEQs",
@@ -181,7 +191,7 @@
       "tag": "trending"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "Not Ramaiya Vastavaiya (From \"Jawan\")",
       "artists": "Anirudh Ravichander, Vishal Dadlani, Shilpa Rao, Kumaar",
       "url": "https://open.spotify.com/track/0bq1DsWLC4glKh9etnmalg",
@@ -191,7 +201,7 @@
       "tag": "trending"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "artists": "Pritam, Arijit Singh, Jonita Gandhi, Ranveer Singh, Madan Mohan, Amitabh Bhattacharya",
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF",
@@ -201,7 +211,7 @@
       "tag": "trending"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "Dhindhora Baje Re (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "artists": "Pritam, Darshan Raval, Bhoomi Trivedi, Amitabh Bhattacharya",
       "url": "https://open.spotify.com/track/60u29xfTGpUMpeE7SvFc3C",
@@ -211,7 +221,7 @@
       "tag": "trending"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "Heart Throb",
       "artists": "Dev Negi, Amitabh Bhattacharya",
       "url": "https://open.spotify.com/track/5k0BwzLwDKe3Heckl1RJEP",
@@ -221,7 +231,7 @@
       "tag": "trending"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "Sun Sajni (From \"Satyaprem Ki Katha\")",
       "artists": "Meet Bros., Parampara Tandon, Piyush Mehroliyaa",
       "url": "https://open.spotify.com/track/2Jz8ughkZa9o2rHhNq8hOw",
@@ -231,7 +241,7 @@
       "tag": "trending"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "Show Me The Thumka (From \"Tu Jhoothi Main Makkaar\")",
       "artists": "Pritam, Amitabh Bhattacharya, Sunidhi Chauhan, Shashwat Singh",
       "url": "https://open.spotify.com/track/1t39FBb0zsKv5krZaqZKCB",
@@ -241,7 +251,7 @@
       "tag": "trending"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "Pyaar Hota Kayi Baar Hai (From \"Tu Jhoothi Main Makkaar\")",
       "artists": "Pritam, Arijit Singh, Amitabh Bhattacharya, Charan",
       "url": "https://open.spotify.com/track/2vPrBucKCfKmafHhSfJ2pt",
@@ -251,7 +261,7 @@
       "tag": "trending"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "title": "Character Dheela 2.0 (From \"Shehzada\")",
       "artists": "Pritam, Amitabh Bhattacharya, Neeraj Shridhar, Abhijit Vaghani, Ashish Pandit",
       "url": "https://open.spotify.com/track/0QT9B8Yfrz0vi66oXMrKJg",
@@ -261,7 +271,7 @@
       "tag": "trending"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "title": "Tere Pyaar Mein",
       "artists": "Pritam, Arijit Singh, Amitabh Bhattacharya, Nikhita Gandhi",
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm",
@@ -271,7 +281,7 @@
       "tag": "trending"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "title": "Munda Sona Hoon Main (From \"Shehzada\")",
       "artists": "Pritam, Diljit Dosanjh, Nikhita Gandhi, Kumaar",
       "url": "https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE",
@@ -281,7 +291,7 @@
       "tag": "trending"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "Chedkhaniyan (From \"Shehzada\")",
       "artists": "Pritam, Arijit Singh, Nikhita Gandhi, IP Singh, Shloke Lal",
       "url": "https://open.spotify.com/track/6EKY8rpjaBxxB0WbXJhedU",
@@ -291,7 +301,7 @@
       "tag": "trending"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "title": "Jhoome Jo Pathaan",
       "artists": "Vishal-Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
       "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H",
@@ -301,7 +311,7 @@
       "tag": "trending"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "title": "Besharam Rang (From \"Pathaan\")",
       "artists": "Vishal-Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo",
@@ -311,7 +321,7 @@
       "tag": "trending"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "title": "Jehda Nasha (From \"An Action Hero\")",
       "artists": "Tanishk Bagchi, Faridkot, Yohani, Amar Jalal, Harjot Kaur",
       "url": "https://open.spotify.com/track/45C7tXCrmp3R5E65XUtLLj",
@@ -321,7 +331,7 @@
       "tag": "trending"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "title": "Current Laga Re (From \"Cirkus\")",
       "artists": "Nakash Aziz, Dhvani Bhanushali, Jonita Gandhi, Lijo George-Dj Chetas, Vivek Hariharan",
       "url": "https://open.spotify.com/track/0z8wIFS6LUp2iz6kajcID7",
@@ -331,7 +341,7 @@
       "tag": "trending"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "title": "Dance Ka Bhoot (From \"Brahmastra\")",
       "artists": "Pritam, Arijit Singh, Amitabh Bhattacharya",
       "url": "https://open.spotify.com/track/5OcGETO7eEKjKme4gm0r7y",
@@ -341,7 +351,7 @@
       "tag": "trending"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "Deva Deva (From \"Brahmastra\")",
       "artists": "Pritam, Arijit Singh, Amitabh Bhattacharya, Jonita Gandhi",
       "url": "https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O",
@@ -351,7 +361,7 @@
       "tag": "trending"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "Kesariya (From \"Brahmastra\")",
       "artists": "Pritam, Arijit Singh, Amitabh Bhattacharya",
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ",
@@ -361,7 +371,7 @@
       "tag": "trending"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "title": "Manike (From \"Thank God\")",
       "artists": "Yohani, Jubin Nautiyal, Tanishk Bagchi, Rashmi Virag, Surya Ragunaathan",
       "url": "https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo",
@@ -371,7 +381,7 @@
       "tag": "trending"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "title": "Ji Huzoor (From \"Shamshera\")",
       "artists": "Mithoon, Aditya Narayan",
       "url": "https://open.spotify.com/track/5qwl2ZdsMQVj3210r3yHRq",
@@ -381,7 +391,7 @@
       "tag": "trending"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "title": "Pasoori",
       "artists": "Ali Sethi, Shae Gill",
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB",
@@ -391,7 +401,7 @@
       "tag": "trending"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "Rangisari (From \"Jugjugg Jeeyo\")",
       "artists": "Kanishk Seth, Kavita Seth",
       "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea",
@@ -401,7 +411,7 @@
       "tag": "trending"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "title": "Alcoholia (From \"Vikram Vedha\")",
       "artists": "Vishal-Shekhar, Snigdhajit Bhowmik, Ananya Chakraborty",
       "url": "https://open.spotify.com/track/4SjKsDIVQessPLdN42FZlm",
@@ -411,7 +421,7 @@
       "tag": "trending"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "title": "Bijli (From \"Govinda Naam Mera\")",
       "artists": "Sachin-Jigar, Mika Singh, Neha Kakkar",
       "url": "https://open.spotify.com/track/3hts3cIWNG8A2063si9GLP",
@@ -421,7 +431,7 @@
       "tag": "trending"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "title": "The Punjaabban Song (From \"Jugjugg Jeeyo\")",
       "artists": "Tanishk Bagchi, Gippy Grewal, Zahrah S Khan, Romy, Abrar Ul Haq",
       "url": "https://open.spotify.com/track/1XSSm7oKOzNE8oUapjIRWV",
@@ -431,7 +441,7 @@
       "tag": "trending"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "title": "Akdi Pakdi (From \"Liger\")",
       "artists": "Lijo George, Dj Chetas, Sunil Kashyap, Dev Negi, Pawni Pandey",
       "url": "https://open.spotify.com/track/79xjw95DSvcl8sDtghDOGo",
@@ -441,7 +451,7 @@
       "tag": "trending"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "title": "Coka 2.0 (From \"Liger\")",
       "artists": "Jaani, Lijo George-Dj Chetas, Sukh-E Muzical Doctorz, Lisa Mishra",
       "url": "https://open.spotify.com/track/6TtNVOFQUbQDUbTQwdILH1",
@@ -451,7 +461,7 @@
       "tag": "trending"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "title": "Boom Padi (From \"Maja Ma\") - Garba Navratri Song",
       "artists": "Shreya Ghoshal, Osman Mir, Souumil Shringarpure, Siddharth Mahadevan",
       "url": "https://open.spotify.com/track/737AP6EH4PvRzBNfBipaK2",
@@ -461,7 +471,7 @@
       "tag": "trending"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "title": "Chamma Chamma",
       "artists": "Neha Kakkar, Romy, Arun, Ikka",
       "url": "https://open.spotify.com/track/00NksXMaWtsTARuoZmt0GJ",
@@ -471,7 +481,7 @@
       "tag": "trending"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "De Taali (From \"Bhool Bhulaiyaa 2\")",
       "artists": "Pritam, Yo Yo Honey Singh, Armaan Malik, Shashwat Singh, Amitabh Bhattacharya",
       "url": "https://open.spotify.com/track/4Xba44w0LihzNJj1xgjs8J",
@@ -481,7 +491,7 @@
       "tag": "trending"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "Dholida (From \"Gangubai Kathiawadi\")",
       "artists": "Jahnvi Shrimankar, Shail Hada, Dipti, Pragati, Rucha, Arohi, Archana, Sanjay Leela Bhansali",
       "url": "https://open.spotify.com/track/7tqkqlRNXLuOCO2Vwr8BsY",
@@ -491,7 +501,7 @@
       "tag": "trending"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "title": "Humraah (From \"Malang - Unleash The Madness\")",
       "artists": "Sachet Tandon, Kunaal Vermaa, The Fusion Project",
       "url": "https://open.spotify.com/track/4xmkpE1Si5JL7NFxWrhV0S",
@@ -501,7 +511,7 @@
       "tag": "trending"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "title": "Hui Malang (From \"Malang - Unleash The Madness\")",
       "artists": "Asees Kaur, Kunaal Vermaa, Ved Sharma",
       "url": "https://open.spotify.com/track/5bAed2aRbQbjDZF9qkNSA2",
@@ -511,7 +521,7 @@
       "tag": "trending"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "title": "Illegal Weapon 2.0",
       "artists": "Jasmine Sandlas, Garry Sandhu, Tanishk Bagchi, Intense, Priya Saraiya",
       "url": "https://open.spotify.com/track/7CY0CmCpSglfUKCBOOiRfw",
@@ -521,7 +531,7 @@
       "tag": "trending"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "title": "",
       "artists": "",
       "url": "https://open.spotify.com/track/17uI7afUaul1hCzMTF9txd",
@@ -531,7 +541,7 @@
       "tag": "trending"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "title": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
       "artists": "Badshah, Neha Kakkar, Varun Dhawan",
       "url": "https://open.spotify.com/track/6q9XTgfWilsnyiFofvYrIF",
@@ -541,7 +551,7 @@
       "tag": "trending"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "title": "Bezubaan Kab Se (From \"Street Dancer 3D\")",
       "artists": "Siddharth Basrur, Jubin Nautiyal, Sachin-Jigar",
       "url": "https://open.spotify.com/track/1WzOH0E1W1z5jcLluumQGE",
@@ -551,7 +561,7 @@
       "tag": "trending"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "title": "Ghungroo (From \"War\")",
       "artists": "Vishal-Shekhar, Arijit Singh, Shilpa Rao, Kumaar",
       "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44",
@@ -561,7 +571,7 @@
       "tag": "trending"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "title": "Jai Jai Shivshankar (From \"War\")",
       "artists": "Vishal Dadlani, Benny Dayal",
       "url": "https://open.spotify.com/track/6lfSsCL894Qw15xbt7cSUy",
@@ -571,7 +581,7 @@
       "tag": "trending"
     },
     {
-      "rank": 58,
+      "rank": 59,
       "title": "Slow Motion (From \"Bharat\")",
       "artists": "Shreya Ghoshal, Nakash Aziz, Vishal-Shekhar",
       "url": "https://open.spotify.com/track/7yEuRloGyxyu1KaWBTPP1Z",
@@ -581,7 +591,7 @@
       "tag": "trending"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "title": "Morni Banke",
       "artists": "Guru Randhawa, Neha Kakkar",
       "url": "https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq",
@@ -591,7 +601,7 @@
       "tag": "trending"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "title": "Poster Lagwa Do (From \"Luka Chuppi\")",
       "artists": "Mika Singh, Sunanda Sharma, Nikhita Gandhi, White Noise Studios, Dilip Sen- Sameer Sen",
       "url": "https://open.spotify.com/track/5G1H1Im43gBwssOH8XlnNU",
@@ -601,7 +611,7 @@
       "tag": "trending"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "title": "Mungda (From \"Total Dhamaal\")",
       "artists": "Jyotica Tangri, Shaan, Subhro Ganguly, Gourov-Roshin",
       "url": "https://open.spotify.com/track/4wc8pPkSIxAirW2FNGp6Pd",
@@ -611,7 +621,7 @@
       "tag": "trending"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "title": "Dheeme Dheeme (From \"Pati Patni Aur Woh\")",
       "artists": "Tony Kakkar, Neha Kakkar, Tanishk Bagchi",
       "url": "https://open.spotify.com/track/7ofWUKeNCUw1P64ArIwG9b",
@@ -621,7 +631,7 @@
       "tag": "trending"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "title": "Ankhiyon Se Goli Mare (From \"Pati Patni Aur Woh\")",
       "artists": "Mika Singh, Tulsi Kumar, Tanishk Bagchi",
       "url": "https://open.spotify.com/track/16NMvEYAus3qS1czInNNZl",
@@ -631,7 +641,7 @@
       "tag": "trending"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "title": "",
       "artists": "",
       "url": "https://open.spotify.com/track/3Eb4VbsbXMpS5Mk9HWTDia",
@@ -641,7 +651,7 @@
       "tag": "trending"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "title": "Don't Be Shy Again (From \"Bala\")",
       "artists": "Sachin-Jigar, Badshah, Shalmali Kholgade, Gurdeep Mehndi",
       "url": "https://open.spotify.com/track/2TbCdbFzs2xO2nzasn0Qvw",
@@ -651,7 +661,7 @@
       "tag": "trending"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "title": "",
       "artists": "",
       "url": "https://open.spotify.com/track/3fpVYSLnxkadjYwQPTyo4H",
@@ -661,7 +671,7 @@
       "tag": "trending"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "title": "Lagdi Lahore Di (From \"Street Dancer 3D\")",
       "artists": "Guru Randhawa, Tulsi Kumar",
       "url": "https://open.spotify.com/track/5I2wbDvSI98HLVB42YO9sU",
@@ -671,7 +681,7 @@
       "tag": "trending"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "title": "Aankh Marey (From \"Simmba\")",
       "artists": "Neha Kakkar, Mika Singh, Kumar Sanu, Tanishk Bagchi",
       "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm",
@@ -681,7 +691,7 @@
       "tag": "trending"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "title": "",
       "artists": "",
       "url": "https://open.spotify.com/track/48ALhEnT1bFo1n4TYlhBhB",
@@ -691,7 +701,7 @@
       "tag": "trending"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "title": "Main Deewana Tera (From \"Arjun Patiala\")",
       "artists": "Guru Randhawa, Nikhita Gandhi, Sachin-Jigar",
       "url": "https://open.spotify.com/track/5n8BCU2JmPORrFboGeDlXV",
@@ -701,7 +711,7 @@
       "tag": "trending"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "title": "Kaun Nachdi",
       "artists": "Guru Randhawa, Neeti Mohan",
       "url": "https://open.spotify.com/track/7r8QeC6Uy3AbIXqH7W9y0K",
@@ -711,7 +721,7 @@
       "tag": "trending"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "title": "Kar Gayi Chull",
       "artists": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar, Neha Kakkar",
       "url": "https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3",
@@ -721,7 +731,7 @@
       "tag": "trending"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "title": "Mera Wala Dance (From \"Simmba\")",
       "artists": "Nakash Aziz, Neha Kakkar, Lijo George, Dj Chetas",
       "url": "https://open.spotify.com/track/2WDNxbQejWu16O44FcMEFM",
@@ -731,7 +741,7 @@
       "tag": "trending"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "title": "Cutiepie",
       "artists": "Pritam, Pardeep Sran, Nakash Aziz",
       "url": "https://open.spotify.com/track/7hXnhouVPnOnFwCGrQMHvB",
@@ -741,7 +751,7 @@
       "tag": "trending"
     },
     {
-      "rank": 75,
+      "rank": 76,
       "title": "Mumbai Dilli Di Kudiyaan",
       "artists": "Vishal-Shekhar, Dev Negi, Payal Dev, Vishal Dadlani",
       "url": "https://open.spotify.com/track/2IuCTZWnpYKYhwaU4Klt5G",
@@ -751,7 +761,7 @@
       "tag": "trending"
     },
     {
-      "rank": 76,
+      "rank": 77,
       "title": "Muqabla (From \"Street Dancer 3D\")",
       "artists": "Yash Narvekar, Parampara Tandon, Tanishk Bagchi",
       "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8",
@@ -761,7 +771,7 @@
       "tag": "trending"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "title": "O Saki Saki (From \"Batla House\")",
       "artists": "Vishal-Shekhar, Neha Kakkar, Tulsi Kumar, B Praak",
       "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm",
@@ -771,7 +781,7 @@
       "tag": "trending"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "title": "Enni Soni (From \"Saaho\")",
       "artists": "Guru Randhawa, Tulsi Kumar",
       "url": "https://open.spotify.com/track/40S8Et5fYlBCa0QgBTEOE1",
@@ -781,7 +791,7 @@
       "tag": "trending"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "title": "Saturday Saturday",
       "artists": "Shaarib Toshi, Badshah, Indeep Bakshi, Akriti Kakar",
       "url": "https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i",
@@ -791,7 +801,7 @@
       "tag": "trending"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "title": "Aashiq Surrender Hua",
       "artists": "Amaal Mallik, Shreya Ghoshal, Shabbir Ahmed",
       "url": "https://open.spotify.com/track/0mNeOrlNl8zvnBxhElDmjf",
@@ -801,7 +811,7 @@
       "tag": "trending"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "title": "Haan Main Galat",
       "artists": "Pritam, Arijit Singh, Shashwat Singh",
       "url": "https://open.spotify.com/track/0MLZAgKQKHbPsJ12qHS860",
@@ -811,7 +821,7 @@
       "tag": "trending"
     },
     {
-      "rank": 82,
+      "rank": 83,
       "title": "",
       "artists": "",
       "url": "https://open.spotify.com/track/1v8H06ctqfMX8IUxU9nCaI",
@@ -821,7 +831,7 @@
       "tag": "trending"
     },
     {
-      "rank": 83,
+      "rank": 84,
       "title": "Tum Hi Ho Bandhu (From \"Cocktail\")",
       "artists": "Neeraj Shridhar, Kavita Seth, Pritam",
       "url": "https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47",
@@ -831,7 +841,7 @@
       "tag": "trending"
     },
     {
-      "rank": 84,
+      "rank": 85,
       "title": "The Breakup Song",
       "artists": "Pritam, Arijit Singh, Badshah, Jonita Gandhi, Nakash Aziz",
       "url": "https://open.spotify.com/track/5FihcmME7NlwW8KbYOaHVH",
@@ -841,7 +851,7 @@
       "tag": "trending"
     },
     {
-      "rank": 85,
+      "rank": 86,
       "title": "Odhani (From \"Made in China\")",
       "artists": "Sachin-Jigar, Darshan Raval, Neha Kakkar",
       "url": "https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD",
@@ -851,7 +861,7 @@
       "tag": "trending"
     },
     {
-      "rank": 86,
+      "rank": 87,
       "title": "Naah Goriye (From \"Bala\")",
       "artists": "B Praak, Harrdy Sandhu, Swasti Mehul, Jaani",
       "url": "https://open.spotify.com/track/1CM4rFDU9q4EoLy2K44qE6",
@@ -861,7 +871,7 @@
       "tag": "trending"
     },
     {
-      "rank": 87,
+      "rank": 88,
       "title": "Gali Gali (From \"Kgf Chapter 1\")",
       "artists": "Neha Kakkar, Tanishk Bagchi",
       "url": "https://open.spotify.com/track/5x72Q1SyiDHJ4IF2mRzfkg",
@@ -871,7 +881,7 @@
       "tag": "trending"
     },
     {
-      "rank": 88,
+      "rank": 89,
       "title": "Psycho Saiyaan (From \"Saaho\")",
       "artists": "Sachet Tandon, Dhvani Bhanushali, Tanishk Bagchi",
       "url": "https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95",
@@ -881,7 +891,7 @@
       "tag": "trending"
     },
     {
-      "rank": 89,
+      "rank": 90,
       "title": "Tere Naal Nachna (From \"Nawabzaade\")",
       "artists": "Badshah, Sunanda Sharma",
       "url": "https://open.spotify.com/track/5DIt4eq2D6CZjX1s5jwrnP",
@@ -891,7 +901,7 @@
       "tag": "trending"
     },
     {
-      "rank": 90,
+      "rank": 91,
       "title": "High Rated Gabru (From \"Nawabzaade\")",
       "artists": "Guru Randhawa",
       "url": "https://open.spotify.com/track/1ozrNv9W4KlprAmvgH0Yrq",
@@ -901,7 +911,7 @@
       "tag": "trending"
     },
     {
-      "rank": 91,
+      "rank": 92,
       "title": "",
       "artists": "",
       "url": "https://open.spotify.com/track/6JNluWWlzWmrW1LKR5X2SN",
@@ -911,7 +921,7 @@
       "tag": "trending"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "title": "",
       "artists": "",
       "url": "https://open.spotify.com/track/7s0qlp1ibUxVXLsOM0YWia",
@@ -921,7 +931,7 @@
       "tag": "trending"
     },
     {
-      "rank": 93,
+      "rank": 94,
       "title": "High Heels Te Nachche (From \"Ki & Ka\")",
       "artists": "Meet Bros., Yo Yo Honey Singh, Jaz Dhami, Aditi Singh Sharma",
       "url": "https://open.spotify.com/track/4Qj8u8NFQ9wGqtr4vdpJn3",
@@ -931,7 +941,7 @@
       "tag": "trending"
     },
     {
-      "rank": 94,
+      "rank": 95,
       "title": "Yaad Piya Ki Aane Lagi",
       "artists": "Neha Kakkar, Tanishk Bagchi, Lalit Sen",
       "url": "https://open.spotify.com/track/0TkquWzzuxcrwbCWlTrKYF",
@@ -941,7 +951,7 @@
       "tag": "trending"
     },
     {
-      "rank": 95,
+      "rank": 96,
       "title": "Paagal",
       "artists": "Badshah",
       "url": "https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR",
@@ -951,7 +961,7 @@
       "tag": "trending"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "title": "",
       "artists": "",
       "url": "https://open.spotify.com/track/5raWEZXYAapq6Qw1GIEIkU",
@@ -961,7 +971,7 @@
       "tag": "trending"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "title": "Makhna (From \"Makhna\")",
       "artists": "Yo Yo Honey Singh, Neha Kakkar, Singhsta, Pinaki, Sean, Allistair",
       "url": "https://open.spotify.com/track/1IInNAVdueQgjrtVsPZEkW",
@@ -971,7 +981,7 @@
       "tag": "trending"
     },
     {
-      "rank": 98,
+      "rank": 99,
       "title": "The Naari Naari Song (From \"Made in China\")",
       "artists": "Sachin-Jigar, Vishal Dadlani, Jonita Gandhi",
       "url": "https://open.spotify.com/track/0VhKdIMXZ3INkyDoIyPy5l",
@@ -981,7 +991,7 @@
       "tag": "trending"
     },
     {
-      "rank": 99,
+      "rank": 100,
       "title": "Ishare Tere (From \"Ishare Tere\")",
       "artists": "Guru Randhawa, Dhvani Bhanushali",
       "url": "https://open.spotify.com/track/3bHI0o9TLQ2jJzjr0ES7dX",
@@ -989,17 +999,7 @@
       "duration": 189,
       "popularity": 59,
       "tag": "trending"
-    },
-    {
-      "rank": 100,
-      "title": "Dil Chori (From \"Sonu Ke Titu Ki Sweety\")",
-      "artists": "Yo Yo Honey Singh, Simar Kaur, Ishers",
-      "url": "https://open.spotify.com/track/3NKuSd9Qa5fzwhqiuKYFh4",
-      "album": "Yo Yo Honey Singh Is Back",
-      "duration": 226,
-      "popularity": 53,
-      "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-27 16:01:01 IST"
+  "last_updated": "2025-08-28 06:01:06 IST"
 }
