@@ -2,459 +2,417 @@
   "trends": [
     {
       "rank": 1,
-      "name": "#AwesomeIsForEveryone",
-      "url": "https://twitter.com/search?q=%23AwesomeIsForEveryone",
-      "volume": "12.0k+",
+      "name": "#NationalSportsDay",
+      "url": "https://twitter.com/search?q=%23NationalSportsDay",
+      "volume": "30.0k+",
       "tag": "trending"
     },
     {
       "rank": 2,
-      "name": "#GalaxyA17NowYouCan",
-      "url": "https://twitter.com/search?q=%23GalaxyA17NowYouCan",
-      "volume": "13.0k+",
+      "name": "#galaxya17nowyoucan",
+      "url": "https://twitter.com/search?q=%23galaxya17nowyoucan",
+      "volume": "14.0k+",
       "tag": "trending"
     },
     {
       "rank": 3,
-      "name": "#realme15TOn2ndSep",
-      "url": "https://twitter.com/search?q=%23realme15TOn2ndSep",
-      "volume": "-",
+      "name": "jungkook",
+      "url": "https://twitter.com/search?q=jungkook",
+      "volume": "509.0k+",
       "tag": "trending"
     },
     {
       "rank": 4,
-      "name": "#100yearsofGolapBorbora",
-      "url": "https://twitter.com/search?q=%23100yearsofGolapBorbora",
-      "volume": "-",
+      "name": "Japan",
+      "url": "https://twitter.com/search?q=Japan",
+      "volume": "568.0k+",
       "tag": "trending"
     },
     {
       "rank": 5,
-      "name": "#ShameOnMahalakshmiRaceCourse",
-      "url": "https://twitter.com/search?q=%23ShameOnMahalakshmiRaceCourse",
-      "volume": "-",
+      "name": "#WeSupportArunKosli",
+      "url": "https://twitter.com/search?q=%23WeSupportArunKosli",
+      "volume": "31.0k+",
       "tag": "trending"
     },
     {
       "rank": 6,
-      "name": "Japan",
-      "url": "https://twitter.com/search?q=Japan",
-      "volume": "475.0k+",
+      "name": "#MajorDhyanChand",
+      "url": "https://twitter.com/search?q=%23MajorDhyanChand",
+      "volume": "13.0k+",
       "tag": "trending"
     },
     {
       "rank": 7,
+      "name": "#AbhishekBajaj",
+      "url": "https://twitter.com/search?q=%23AbhishekBajaj",
+      "volume": "17.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 8,
+      "name": "India's GDP",
+      "url": "https://twitter.com/search?q=India's GDP",
+      "volume": "27.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 9,
+      "name": "taekook",
+      "url": "https://twitter.com/search?q=taekook",
+      "volume": "70.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 10,
+      "name": "mahila utthan mandal",
+      "url": "https://twitter.com/search?q=mahila utthan mandal",
+      "volume": "30.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 11,
+      "name": "nari tu narayani",
+      "url": "https://twitter.com/search?q=nari tu narayani",
+      "volume": "30.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 12,
+      "name": "B. 90W FlashCharge",
+      "url": "https://twitter.com/search?q=B. 90W FlashCharge",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 13,
+      "name": "7.8% GDP",
+      "url": "https://twitter.com/search?q=7.8% GDP",
+      "volume": "49.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 14,
+      "name": "A. Sony IMX882",
+      "url": "https://twitter.com/search?q=A. Sony IMX882",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 15,
+      "name": "A. 6500mAh",
+      "url": "https://twitter.com/search?q=A. 6500mAh",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 16,
+      "name": "Khalid Jamil",
+      "url": "https://twitter.com/search?q=Khalid Jamil",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 17,
+      "name": "Dead Economy",
+      "url": "https://twitter.com/search?q=Dead Economy",
+      "volume": "24.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 18,
+      "name": "B. 3X Periscope Zoom",
+      "url": "https://twitter.com/search?q=B. 3X Periscope Zoom",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 19,
+      "name": "B. Blaze Gold",
+      "url": "https://twitter.com/search?q=B. Blaze Gold",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 20,
+      "name": "Reliance Intelligence",
+      "url": "https://twitter.com/search?q=Reliance Intelligence",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 21,
+      "name": "Tajikistan",
+      "url": "https://twitter.com/search?q=Tajikistan",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 22,
+      "name": "Antony",
+      "url": "https://twitter.com/search?q=Antony",
+      "volume": "40.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 23,
+      "name": "Navarro",
+      "url": "https://twitter.com/search?q=Navarro",
+      "volume": "24.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 24,
+      "name": "A. Nitro Blue",
+      "url": "https://twitter.com/search?q=A. Nitro Blue",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 25,
       "name": "Mukesh Ambani",
       "url": "https://twitter.com/search?q=Mukesh Ambani",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 8,
-      "name": "B. 90W FlashCharge",
-      "url": "https://twitter.com/search?q=B. 90W FlashCharge",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 9,
-      "name": "A. Sony IMX882",
-      "url": "https://twitter.com/search?q=A. Sony IMX882",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 10,
-      "name": "A. 6500mAh",
-      "url": "https://twitter.com/search?q=A. 6500mAh",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 11,
-      "name": "B. Blaze Gold",
-      "url": "https://twitter.com/search?q=B. Blaze Gold",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 12,
-      "name": "B. 3X Periscope Zoom",
-      "url": "https://twitter.com/search?q=B. 3X Periscope Zoom",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 13,
-      "name": "Amit Shah Ji",
-      "url": "https://twitter.com/search?q=Amit Shah Ji",
-      "volume": "10.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 14,
-      "name": "A. Nitro Blue",
-      "url": "https://twitter.com/search?q=A. Nitro Blue",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 15,
-      "name": "Mohammad Rizvi",
-      "url": "https://twitter.com/search?q=Mohammad Rizvi",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 16,
-      "name": "Carti",
-      "url": "https://twitter.com/search?q=Carti",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 17,
-      "name": "Did You Know",
-      "url": "https://twitter.com/search?q=Did You Know",
-      "volume": "73.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 18,
-      "name": "Bhajji",
-      "url": "https://twitter.com/search?q=Bhajji",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 19,
-      "name": "Gemini Live",
-      "url": "https://twitter.com/search?q=Gemini Live",
-      "volume": "27.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 20,
-      "name": "Jose",
-      "url": "https://twitter.com/search?q=Jose",
-      "volume": "197.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 21,
-      "name": "Lalit Modi",
-      "url": "https://twitter.com/search?q=Lalit Modi",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 22,
-      "name": "Circle to Search",
-      "url": "https://twitter.com/search?q=Circle to Search",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 23,
-      "name": "Rajasthan",
-      "url": "https://twitter.com/search?q=Rajasthan",
-      "volume": "23.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 24,
-      "name": "#AmitShahInAssam",
-      "url": "https://twitter.com/search?q=%23AmitShahInAssam",
-      "volume": "12.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 25,
-      "name": "#NationalSportsDay",
-      "url": "https://twitter.com/search?q=%23NationalSportsDay",
-      "volume": "19.0k+",
-      "tag": "trending"
-    },
-    {
       "rank": 26,
-      "name": "#winvivoT4Pro",
-      "url": "https://twitter.com/search?q=%23winvivoT4Pro",
-      "volume": "18.0k+",
+      "name": "Russian",
+      "url": "https://twitter.com/search?q=Russian",
+      "volume": "343.0k+",
       "tag": "trending"
     },
     {
       "rank": 27,
-      "name": "#GetSetTurbo",
-      "url": "https://twitter.com/search?q=%23GetSetTurbo",
-      "volume": "17.0k+",
+      "name": "Betis",
+      "url": "https://twitter.com/search?q=Betis",
+      "volume": "34.0k+",
       "tag": "trending"
     },
     {
       "rank": 28,
-      "name": "#SaiDhanshika",
-      "url": "https://twitter.com/search?q=%23SaiDhanshika",
-      "volume": "-",
+      "name": "Berta",
+      "url": "https://twitter.com/search?q=Berta",
+      "volume": "19.0k+",
       "tag": "trending"
     },
     {
       "rank": 29,
-      "name": "#MajorDhyanChand",
-      "url": "https://twitter.com/search?q=%23MajorDhyanChand",
+      "name": "Sami Zayn",
+      "url": "https://twitter.com/search?q=Sami Zayn",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 30,
-      "name": "#relianceagm",
-      "url": "https://twitter.com/search?q=%23relianceagm",
-      "volume": "-",
+      "name": "#NationalSportsDay",
+      "url": "https://twitter.com/search?q=%23NationalSportsDay",
+      "volume": "30.0k+",
       "tag": "trending"
     },
     {
       "rank": 31,
-      "name": "#BBMantriGaurav",
-      "url": "https://twitter.com/search?q=%23BBMantriGaurav",
-      "volume": "-",
+      "name": "#galaxya17nowyoucan",
+      "url": "https://twitter.com/search?q=%23galaxya17nowyoucan",
+      "volume": "14.0k+",
       "tag": "trending"
     },
     {
       "rank": 32,
-      "name": "#JioIPO",
-      "url": "https://twitter.com/search?q=%23JioIPO",
-      "volume": "-",
+      "name": "jungkook",
+      "url": "https://twitter.com/search?q=jungkook",
+      "volume": "493.0k+",
       "tag": "trending"
     },
     {
       "rank": 33,
-      "name": "#GalaxyA17NowYouCan",
-      "url": "https://twitter.com/search?q=%23GalaxyA17NowYouCan",
-      "volume": "-",
+      "name": "Japan",
+      "url": "https://twitter.com/search?q=Japan",
+      "volume": "565.0k+",
       "tag": "trending"
     },
     {
       "rank": 34,
-      "name": "#AwesomeIsForEveryone",
-      "url": "https://twitter.com/search?q=%23AwesomeIsForEveryone",
-      "volume": "-",
+      "name": "#WeSupportArunKosli",
+      "url": "https://twitter.com/search?q=%23WeSupportArunKosli",
+      "volume": "30.0k+",
       "tag": "trending"
     },
     {
       "rank": 35,
-      "name": "#NationalSportsDay",
-      "url": "https://twitter.com/search?q=%23NationalSportsDay",
-      "volume": "16.0k+",
+      "name": "#MajorDhyanChand",
+      "url": "https://twitter.com/search?q=%23MajorDhyanChand",
+      "volume": "13.0k+",
       "tag": "trending"
     },
     {
       "rank": 36,
-      "name": "#100yearsofGolapBorbora",
-      "url": "https://twitter.com/search?q=%23100yearsofGolapBorbora",
-      "volume": "-",
+      "name": "#awesomeisforeveryone",
+      "url": "https://twitter.com/search?q=%23awesomeisforeveryone",
+      "volume": "13.0k+",
       "tag": "trending"
     },
     {
       "rank": 37,
-      "name": "#winvivoT4Pro",
-      "url": "https://twitter.com/search?q=%23winvivoT4Pro",
-      "volume": "15.0k+",
+      "name": "taekook",
+      "url": "https://twitter.com/search?q=taekook",
+      "volume": "67.0k+",
       "tag": "trending"
     },
     {
       "rank": 38,
-      "name": "Japan",
-      "url": "https://twitter.com/search?q=Japan",
-      "volume": "454.0k+",
+      "name": "India's GDP",
+      "url": "https://twitter.com/search?q=India's GDP",
+      "volume": "27.0k+",
       "tag": "trending"
     },
     {
       "rank": 39,
-      "name": "A. Sony IMX882",
-      "url": "https://twitter.com/search?q=A. Sony IMX882",
-      "volume": "-",
+      "name": "mahila utthan mandal",
+      "url": "https://twitter.com/search?q=mahila utthan mandal",
+      "volume": "30.0k+",
       "tag": "trending"
     },
     {
       "rank": 40,
+      "name": "nari tu narayani",
+      "url": "https://twitter.com/search?q=nari tu narayani",
+      "volume": "30.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 41,
+      "name": "Higgsfield's Speak 2.0",
+      "url": "https://twitter.com/search?q=Higgsfield's Speak 2.0",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 42,
       "name": "B. 90W FlashCharge",
       "url": "https://twitter.com/search?q=B. 90W FlashCharge",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 41,
-      "name": "B. Blaze Gold",
-      "url": "https://twitter.com/search?q=B. Blaze Gold",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 42,
-      "name": "B. 3X Periscope Zoom",
-      "url": "https://twitter.com/search?q=B. 3X Periscope Zoom",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
       "rank": 43,
+      "name": "A. Sony IMX882",
+      "url": "https://twitter.com/search?q=A. Sony IMX882",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 44,
+      "name": "7.8% GDP",
+      "url": "https://twitter.com/search?q=7.8% GDP",
+      "volume": "48.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 45,
       "name": "A. 6500mAh",
       "url": "https://twitter.com/search?q=A. 6500mAh",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 44,
-      "name": "Amit Shah Ji",
-      "url": "https://twitter.com/search?q=Amit Shah Ji",
+      "rank": 46,
+      "name": "Khalid Jamil",
+      "url": "https://twitter.com/search?q=Khalid Jamil",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 45,
+      "rank": 47,
+      "name": "B. 3X Periscope Zoom",
+      "url": "https://twitter.com/search?q=B. 3X Periscope Zoom",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 48,
+      "name": "B. Blaze Gold",
+      "url": "https://twitter.com/search?q=B. Blaze Gold",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 49,
+      "name": "Dead Economy",
+      "url": "https://twitter.com/search?q=Dead Economy",
+      "volume": "24.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 50,
+      "name": "Antony",
+      "url": "https://twitter.com/search?q=Antony",
+      "volume": "37.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 51,
+      "name": "Reliance Intelligence",
+      "url": "https://twitter.com/search?q=Reliance Intelligence",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 52,
+      "name": "Tajikistan",
+      "url": "https://twitter.com/search?q=Tajikistan",
+      "volume": "-",
+      "tag": "trending"
+    },
+    {
+      "rank": 53,
+      "name": "Navarro",
+      "url": "https://twitter.com/search?q=Navarro",
+      "volume": "23.0k+",
+      "tag": "trending"
+    },
+    {
+      "rank": 54,
       "name": "A. Nitro Blue",
       "url": "https://twitter.com/search?q=A. Nitro Blue",
       "volume": "-",
       "tag": "trending"
     },
     {
-      "rank": 46,
-      "name": "Circle to Search",
-      "url": "https://twitter.com/search?q=Circle to Search",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 47,
-      "name": "Sreesanth",
-      "url": "https://twitter.com/search?q=Sreesanth",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 48,
-      "name": "Bhajji",
-      "url": "https://twitter.com/search?q=Bhajji",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 49,
-      "name": "Rajasthani",
-      "url": "https://twitter.com/search?q=Rajasthani",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 50,
-      "name": "Mohammad Rizvi",
-      "url": "https://twitter.com/search?q=Mohammad Rizvi",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 51,
-      "name": "Lalit Modi",
-      "url": "https://twitter.com/search?q=Lalit Modi",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 52,
-      "name": "Jose",
-      "url": "https://twitter.com/search?q=Jose",
-      "volume": "180.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 53,
-      "name": "Sant Shri Asharamji Bapu",
-      "url": "https://twitter.com/search?q=Sant Shri Asharamji Bapu",
-      "volume": "29.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 54,
-      "name": "Mahila Utthan Mandal",
-      "url": "https://twitter.com/search?q=Mahila Utthan Mandal",
-      "volume": "24.0k+",
-      "tag": "trending"
-    },
-    {
       "rank": 55,
-      "name": "Gemini Live",
-      "url": "https://twitter.com/search?q=Gemini Live",
-      "volume": "25.0k+",
+      "name": "Mukesh Ambani",
+      "url": "https://twitter.com/search?q=Mukesh Ambani",
+      "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 56,
-      "name": "Nari Tu Narayani",
-      "url": "https://twitter.com/search?q=Nari Tu Narayani",
-      "volume": "24.0k+",
+      "name": "Shelton",
+      "url": "https://twitter.com/search?q=Shelton",
+      "volume": "11.0k+",
       "tag": "trending"
     },
     {
       "rank": 57,
-      "name": "F-16",
-      "url": "https://twitter.com/search?q=F-16",
-      "volume": "37.0k+",
+      "name": "Russian",
+      "url": "https://twitter.com/search?q=Russian",
+      "volume": "342.0k+",
       "tag": "trending"
     },
     {
       "rank": 58,
-      "name": "Carti",
-      "url": "https://twitter.com/search?q=Carti",
+      "name": "Chirag",
+      "url": "https://twitter.com/search?q=Chirag",
       "volume": "-",
       "tag": "trending"
     },
     {
       "rank": 59,
-      "name": "International Monetary Fund",
-      "url": "https://twitter.com/search?q=International Monetary Fund",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 60,
-      "name": "#GetSetTurbo",
-      "url": "https://twitter.com/search?q=%23GetSetTurbo",
-      "volume": "14.0k+",
-      "tag": "trending"
-    },
-    {
-      "rank": 61,
-      "name": "#AmitShahInAssam",
-      "url": "https://twitter.com/search?q=%23AmitShahInAssam",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 62,
-      "name": "#MajorDhyanChand",
-      "url": "https://twitter.com/search?q=%23MajorDhyanChand",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 63,
-      "name": "#SaiDhanshika",
-      "url": "https://twitter.com/search?q=%23SaiDhanshika",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 64,
-      "name": "#WeStandForNawez",
-      "url": "https://twitter.com/search?q=%23WeStandForNawez",
-      "volume": "-",
-      "tag": "trending"
-    },
-    {
-      "rank": 65,
-      "name": "#stufflistingsarmy",
-      "url": "https://twitter.com/search?q=%23stufflistingsarmy",
-      "volume": "-",
+      "name": "Chia",
+      "url": "https://twitter.com/search?q=Chia",
+      "volume": "16.0k+",
       "tag": "trending"
     }
   ],
-  "last_updated": "2025-08-29 16:01:12 IST"
+  "last_updated": "2025-08-30 06:01:11 IST"
 }
